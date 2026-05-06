@@ -1,0 +1,876 @@
+h CUDA_VISIBLE_DEVICES=0 python train.py --model_save_name='log/weight/part4.pth' --part_covis=True --descriptor_dim=4;CUDA_VISIBLE_DEVICES=0 python train.py --model_save_name='log/weight/part8.pth' --part_covis=True --descriptor_dim=8;CUDA_VISIBLE_DEVICES=0 python train.py --model_save_name='log/weight/part20.pth' --descriptor_dim=20 --part_covis=True;CUDA_VISIBLE_DEVICES=0 python train.py --model_save_name='log/weight/part1.pth' --descriptor_dim=1 --part_covis=True; 
+Epoch [1/500], Step [40/60], Loss: 0.7465
+Epoch [2/500], Step [40/60], Loss: 0.6618
+satisfied:0.29510000000000003  purity:3.1325374999999993  acc:0.7580873015873015
+Epoch [2/500], Checkpoint saved to log/weight/part4.pth satisfied:0.29510000000000003 acc:0.7580873015873015
+Epoch [3/500], Step [40/60], Loss: 0.6139
+Epoch [4/500], Step [40/60], Loss: 0.5837
+satisfied:0.33035000000000003  purity:3.329095  acc:0.77784126984127
+Epoch [4/500], Checkpoint saved to log/weight/part4.pth satisfied:0.33035000000000003 acc:0.77784126984127
+Epoch [5/500], Step [40/60], Loss: 0.5624
+Epoch [6/500], Step [40/60], Loss: 0.5463
+satisfied:0.352  purity:3.4388641666666664  acc:0.7866984126984128
+Epoch [6/500], Checkpoint saved to log/weight/part4.pth satisfied:0.352 acc:0.7866984126984128
+Epoch [7/500], Step [40/60], Loss: 0.5330
+Epoch [8/500], Step [40/60], Loss: 0.5208
+satisfied:0.3619  purity:3.504227499999999  acc:0.7950158730158731
+Epoch [8/500], Checkpoint saved to log/weight/part4.pth satisfied:0.3619 acc:0.7950158730158731
+Epoch [9/500], Step [40/60], Loss: 0.5097
+Epoch [10/500], Step [40/60], Loss: 0.4996
+satisfied:0.37525  purity:3.5616458333333343  acc:0.7998730158730158
+Epoch [10/500], Checkpoint saved to log/weight/part4.pth satisfied:0.37525 acc:0.7998730158730158
+Epoch [11/500], Step [40/60], Loss: 0.4902
+Epoch [12/500], Step [40/60], Loss: 0.4814
+satisfied:0.39285  purity:3.657258333333332  acc:0.8089047619047619
+Epoch [12/500], Checkpoint saved to log/weight/part4.pth satisfied:0.39285 acc:0.8089047619047619
+Epoch [13/500], Step [40/60], Loss: 0.4733
+Epoch [14/500], Step [40/60], Loss: 0.4657
+satisfied:0.4042  purity:3.7132300000000003  acc:0.8141904761904761
+Epoch [14/500], Checkpoint saved to log/weight/part4.pth satisfied:0.4042 acc:0.8141904761904761
+Epoch [15/500], Step [40/60], Loss: 0.4587
+Epoch [16/500], Step [40/60], Loss: 0.4521
+satisfied:0.4072  purity:3.725165833333333  acc:0.815126984126984
+Epoch [16/500], Checkpoint saved to log/weight/part4.pth satisfied:0.4072 acc:0.815126984126984
+Epoch [17/500], Step [40/60], Loss: 0.4459
+Epoch [18/500], Step [40/60], Loss: 0.4401
+satisfied:0.41705  purity:3.769335833333333  acc:0.8187460317460318
+Epoch [18/500], Checkpoint saved to log/weight/part4.pth satisfied:0.41705 acc:0.8187460317460318
+Epoch [19/500], Step [40/60], Loss: 0.4347
+Epoch [20/500], Step [40/60], Loss: 0.4296
+satisfied:0.41370000000000007  purity:3.760300833333333  acc:0.819095238095238
+Epoch [20/500], Checkpoint saved to log/weight/part4.pth satisfied:0.41370000000000007 acc:0.819095238095238
+Epoch [21/500], Step [40/60], Loss: 0.4248
+Epoch [22/500], Step [40/60], Loss: 0.4203
+satisfied:0.41685  purity:3.7749525  acc:0.8193571428571429
+Epoch [22/500], Checkpoint saved to log/weight/part4.pth satisfied:0.41685 acc:0.8193571428571429
+Epoch [23/500], Step [40/60], Loss: 0.4160
+Epoch [24/500], Step [40/60], Loss: 0.4120
+satisfied:0.42730000000000007  purity:3.822634999999999  acc:0.8230079365079366
+Epoch [24/500], Checkpoint saved to log/weight/part4.pth satisfied:0.42730000000000007 acc:0.8230079365079366
+Epoch [25/500], Step [40/60], Loss: 0.4081
+Epoch [26/500], Step [40/60], Loss: 0.4045
+satisfied:0.43515  purity:3.8624383333333343  acc:0.8265793650793652
+Epoch [26/500], Checkpoint saved to log/weight/part4.pth satisfied:0.43515 acc:0.8265793650793652
+Epoch [27/500], Step [40/60], Loss: 0.4011
+Epoch [28/500], Step [40/60], Loss: 0.3978
+satisfied:0.4408  purity:3.895358333333333  acc:0.829936507936508
+Epoch [28/500], Checkpoint saved to log/weight/part4.pth satisfied:0.4408 acc:0.829936507936508
+Epoch [29/500], Step [40/60], Loss: 0.3948
+Epoch [30/500], Step [40/60], Loss: 0.3918
+satisfied:0.43415  purity:3.864260833333333  acc:0.8277936507936507
+Epoch [31/500], Step [40/60], Loss: 0.3890
+Epoch [32/500], Step [40/60], Loss: 0.3864
+satisfied:0.44295  purity:3.9016266666666675  acc:0.8295238095238094
+Epoch [33/500], Step [40/60], Loss: 0.3838
+Epoch [34/500], Step [40/60], Loss: 0.3814
+satisfied:0.44090000000000007  purity:3.8914874999999993  acc:0.8288095238095238
+Epoch [35/500], Step [40/60], Loss: 0.3791
+Epoch [36/500], Step [40/60], Loss: 0.3770
+satisfied:0.44754999999999995  purity:3.9197141666666675  acc:0.8308253968253968
+Epoch [36/500], Checkpoint saved to log/weight/part4.pth satisfied:0.44754999999999995 acc:0.8308253968253968
+Epoch [37/500], Step [40/60], Loss: 0.3749
+Epoch [38/500], Step [40/60], Loss: 0.3729
+satisfied:0.4497  purity:3.927623333333333  acc:0.8313333333333333
+Epoch [38/500], Checkpoint saved to log/weight/part4.pth satisfied:0.4497 acc:0.8313333333333333
+Epoch [39/500], Step [40/60], Loss: 0.3709
+Epoch [40/500], Step [40/60], Loss: 0.3691
+satisfied:0.44325000000000003  purity:3.906457500000001  acc:0.8306904761904763
+Epoch [41/500], Step [40/60], Loss: 0.3673
+Epoch [42/500], Step [40/60], Loss: 0.3655
+satisfied:0.44335  purity:3.8924850000000006  acc:0.8284047619047618
+Epoch [43/500], Step [40/60], Loss: 0.3639
+Epoch [44/500], Step [40/60], Loss: 0.3623
+satisfied:0.4537999999999999  purity:3.954633333333333  acc:0.8342857142857143
+Epoch [44/500], Checkpoint saved to log/weight/part4.pth satisfied:0.4537999999999999 acc:0.8342857142857143
+Epoch [45/500], Step [40/60], Loss: 0.3607
+Epoch [46/500], Step [40/60], Loss: 0.3593
+satisfied:0.4473  purity:3.911963333333334  acc:0.8299285714285715
+Epoch [47/500], Step [40/60], Loss: 0.3578
+Epoch [48/500], Step [40/60], Loss: 0.3564
+satisfied:0.45804999999999996  purity:3.976808333333333  acc:0.8361746031746031
+Epoch [48/500], Checkpoint saved to log/weight/part4.pth satisfied:0.45804999999999996 acc:0.8361746031746031
+Epoch [49/500], Step [40/60], Loss: 0.3551
+Epoch [50/500], Step [40/60], Loss: 0.3538
+satisfied:0.45745  purity:3.9742983333333344  acc:0.8358650793650794
+Epoch [51/500], Step [40/60], Loss: 0.3525
+Epoch [52/500], Step [40/60], Loss: 0.3513
+satisfied:0.45439999999999997  purity:3.9562299999999992  acc:0.8349444444444444
+Epoch [53/500], Step [40/60], Loss: 0.3501
+Epoch [54/500], Step [40/60], Loss: 0.3489
+satisfied:0.4527  purity:3.948996666666666  acc:0.8337619047619048
+Epoch [55/500], Step [40/60], Loss: 0.3478
+Epoch [56/500], Step [40/60], Loss: 0.3467
+satisfied:0.4553999999999999  purity:3.9638499999999994  acc:0.835531746031746
+Epoch [57/500], Step [40/60], Loss: 0.3457
+Epoch [58/500], Step [40/60], Loss: 0.3446
+satisfied:0.45594999999999997  purity:3.9593633333333345  acc:0.8344523809523808
+Epoch [59/500], Step [40/60], Loss: 0.3436
+Epoch [60/500], Step [40/60], Loss: 0.3426
+satisfied:0.46480000000000005  purity:4.0088225  acc:0.8396666666666667
+Epoch [60/500], Checkpoint saved to log/weight/part4.pth satisfied:0.46480000000000005 acc:0.8396666666666667
+Epoch [61/500], Step [40/60], Loss: 0.3417
+Epoch [62/500], Step [40/60], Loss: 0.3408
+satisfied:0.46135000000000004  purity:3.9770691666666673  acc:0.834468253968254
+Epoch [63/500], Step [40/60], Loss: 0.3399
+Epoch [64/500], Step [40/60], Loss: 0.3390
+satisfied:0.45940000000000003  purity:3.98166  acc:0.8374444444444444
+Epoch [65/500], Step [40/60], Loss: 0.3381
+Epoch [66/500], Step [40/60], Loss: 0.3373
+satisfied:0.46805  purity:4.019254166666667  acc:0.8400476190476189
+Epoch [66/500], Checkpoint saved to log/weight/part4.pth satisfied:0.46805 acc:0.8400476190476189
+Epoch [67/500], Step [40/60], Loss: 0.3364
+Epoch [68/500], Step [40/60], Loss: 0.3356
+satisfied:0.4603  purity:3.983909166666667  acc:0.8369047619047618
+Epoch [69/500], Step [40/60], Loss: 0.3349
+Epoch [70/500], Step [40/60], Loss: 0.3341
+satisfied:0.47520000000000007  purity:4.0525025  acc:0.8410317460317461
+Epoch [70/500], Checkpoint saved to log/weight/part4.pth satisfied:0.47520000000000007 acc:0.8410317460317461
+Epoch [71/500], Step [40/60], Loss: 0.3333
+Epoch [72/500], Step [40/60], Loss: 0.3326
+satisfied:0.46405  purity:4.005111666666666  acc:0.8386746031746032
+Epoch [73/500], Step [40/60], Loss: 0.3319
+Epoch [74/500], Step [40/60], Loss: 0.3312
+satisfied:0.47434999999999994  purity:4.05452  acc:0.8420396825396825
+Epoch [74/500], Checkpoint saved to log/weight/part4.pth satisfied:0.47434999999999994 acc:0.8420396825396825
+Epoch [75/500], Step [40/60], Loss: 0.3305
+Epoch [76/500], Step [40/60], Loss: 0.3298
+satisfied:0.4747  purity:4.050505833333333  acc:0.8424920634920635
+Epoch [76/500], Checkpoint saved to log/weight/part4.pth satisfied:0.4747 acc:0.8424920634920635
+Epoch [77/500], Step [40/60], Loss: 0.3292
+Epoch [78/500], Step [40/60], Loss: 0.3285
+satisfied:0.46595000000000003  purity:4.0058625  acc:0.8382936507936508
+Epoch [79/500], Step [40/60], Loss: 0.3279
+Epoch [80/500], Step [40/60], Loss: 0.3273
+satisfied:0.46399999999999997  purity:4.000934166666667  acc:0.8375952380952381
+Epoch [81/500], Step [40/60], Loss: 0.3266
+Epoch [82/500], Step [40/60], Loss: 0.3260
+satisfied:0.46579999999999994  purity:4.011560833333333  acc:0.8395079365079365
+Epoch [83/500], Step [40/60], Loss: 0.3254
+Epoch [84/500], Step [40/60], Loss: 0.3249
+satisfied:0.47365  purity:4.047186666666667  acc:0.8414047619047619
+Epoch [85/500], Step [40/60], Loss: 0.3243
+Epoch [86/500], Step [40/60], Loss: 0.3238
+satisfied:0.4729  purity:4.034850833333333  acc:0.840515873015873
+Epoch [87/500], Step [40/60], Loss: 0.3232
+Epoch [88/500], Step [40/60], Loss: 0.3227
+satisfied:0.4686  purity:4.019656666666665  acc:0.8400714285714285
+Epoch [89/500], Step [40/60], Loss: 0.3221
+Epoch [90/500], Step [40/60], Loss: 0.3216
+satisfied:0.4683  purity:4.021510833333333  acc:0.8397619047619049
+Epoch [91/500], Step [40/60], Loss: 0.3211
+Epoch [92/500], Step [40/60], Loss: 0.3206
+satisfied:0.47174999999999995  purity:4.041595833333334  acc:0.8419682539682538
+Epoch [93/500], Step [40/60], Loss: 0.3201
+Epoch [94/500], Step [40/60], Loss: 0.3196
+satisfied:0.4747  purity:4.048750833333333  acc:0.8416507936507938
+Epoch [95/500], Step [40/60], Loss: 0.3191
+Epoch [96/500], Step [40/60], Loss: 0.3187
+satisfied:0.46799999999999997  purity:4.024413333333333  acc:0.8397698412698412
+Epoch [97/500], Step [40/60], Loss: 0.3182
+Epoch [98/500], Step [40/60], Loss: 0.3177
+satisfied:0.46589999999999987  purity:4.0146783333333325  acc:0.8398492063492062
+Epoch [99/500], Step [40/60], Loss: 0.3173
+Epoch [100/500], Step [40/60], Loss: 0.3168
+satisfied:0.4700500000000001  purity:4.025500000000001  acc:0.8404126984126984
+Epoch [101/500], Step [40/60], Loss: 0.3164
+Epoch [102/500], Step [40/60], Loss: 0.3160
+satisfied:0.47800000000000004  purity:4.055984166666667  acc:0.8423492063492063
+Epoch [103/500], Step [40/60], Loss: 0.3156
+Epoch [104/500], Step [40/60], Loss: 0.3152
+satisfied:0.46845  purity:4.021496666666666  acc:0.8403650793650794
+Epoch [105/500], Step [40/60], Loss: 0.3147
+Epoch [106/500], Step [40/60], Loss: 0.3143
+satisfied:0.4694999999999999  purity:4.016283333333334  acc:0.8391507936507937
+Epoch [107/500], Step [40/60], Loss: 0.3139
+Epoch [108/500], Step [40/60], Loss: 0.3136
+satisfied:0.48579999999999995  purity:4.106284166666668  acc:0.8466984126984126
+Epoch [108/500], Checkpoint saved to log/weight/part4.pth satisfied:0.48579999999999995 acc:0.8466984126984126
+Epoch [109/500], Step [40/60], Loss: 0.3132
+Epoch [110/500], Step [40/60], Loss: 0.3128
+satisfied:0.4777  purity:4.066415000000001  acc:0.8437619047619048
+Epoch [111/500], Step [40/60], Loss: 0.3124
+Epoch [112/500], Step [40/60], Loss: 0.3120
+satisfied:0.4766  purity:4.057564999999999  acc:0.8427777777777778
+Epoch [113/500], Step [40/60], Loss: 0.3117
+Epoch [114/500], Step [40/60], Loss: 0.3113
+satisfied:0.47590000000000005  purity:4.052673333333333  acc:0.8415079365079364
+Epoch [115/500], Step [40/60], Loss: 0.3109
+Epoch [116/500], Step [40/60], Loss: 0.3106
+satisfied:0.4739999999999999  purity:4.041938333333334  acc:0.8412619047619048
+Epoch [117/500], Step [40/60], Loss: 0.3102
+Epoch [118/500], Step [40/60], Loss: 0.3099
+satisfied:0.47255  purity:4.041980833333334  acc:0.8423412698412699
+Epoch [119/500], Step [40/60], Loss: 0.3096
+Epoch [120/500], Step [40/60], Loss: 0.3092
+satisfied:0.4774999999999999  purity:4.0584075  acc:0.8425476190476191
+Epoch [121/500], Step [40/60], Loss: 0.3089
+Epoch [122/500], Step [40/60], Loss: 0.3086
+satisfied:0.4851  purity:4.092839166666667  acc:0.8455317460317462
+Epoch [123/500], Step [40/60], Loss: 0.3083
+Epoch [124/500], Step [40/60], Loss: 0.3079
+satisfied:0.47675  purity:4.0582625000000005  acc:0.8421587301587301
+Epoch [125/500], Step [40/60], Loss: 0.3076
+Epoch [126/500], Step [40/60], Loss: 0.3073
+satisfied:0.4765999999999999  purity:4.055177500000001  acc:0.8426746031746031
+[1]    20700 killed     CUDA_VISIBLE_DEVICES=0 python train.py  --part_covis=True --descriptor_dim=4
+Epoch [1/500], Step [40/60], Loss: 0.7325
+Epoch [2/500], Step [40/60], Loss: 0.6113
+satisfied:0.31300000000000006  purity:3.2218266666666664  acc:0.767015873015873
+Epoch [2/500], Checkpoint saved to log/weight/part8.pth satisfied:0.31300000000000006 acc:0.767015873015873
+Epoch [3/500], Step [40/60], Loss: 0.5391
+Epoch [4/500], Step [40/60], Loss: 0.4933
+satisfied:0.3568  purity:3.447708333333334  acc:0.788968253968254
+Epoch [4/500], Checkpoint saved to log/weight/part8.pth satisfied:0.3568 acc:0.788968253968254
+Epoch [5/500], Step [40/60], Loss: 0.4609
+Epoch [6/500], Step [40/60], Loss: 0.4363
+satisfied:0.37860000000000005  purity:3.563751666666666  acc:0.7986825396825397
+Epoch [6/500], Checkpoint saved to log/weight/part8.pth satisfied:0.37860000000000005 acc:0.7986825396825397
+Epoch [7/500], Step [40/60], Loss: 0.4170
+Epoch [8/500], Step [40/60], Loss: 0.4012
+satisfied:0.39185000000000003  purity:3.6345466666666666  acc:0.8067936507936506
+Epoch [8/500], Checkpoint saved to log/weight/part8.pth satisfied:0.39185000000000003 acc:0.8067936507936506
+Epoch [9/500], Step [40/60], Loss: 0.3881
+Epoch [10/500], Step [40/60], Loss: 0.3769
+satisfied:0.40249999999999997  purity:3.672544999999998  acc:0.8087301587301587
+Epoch [10/500], Checkpoint saved to log/weight/part8.pth satisfied:0.40249999999999997 acc:0.8087301587301587
+Epoch [11/500], Step [40/60], Loss: 0.3671
+Epoch [12/500], Step [40/60], Loss: 0.3584
+satisfied:0.41145000000000004  purity:3.7381383333333327  acc:0.8154920634920634
+Epoch [12/500], Checkpoint saved to log/weight/part8.pth satisfied:0.41145000000000004 acc:0.8154920634920634
+Epoch [13/500], Step [40/60], Loss: 0.3507
+Epoch [14/500], Step [40/60], Loss: 0.3438
+satisfied:0.42085  purity:3.7722409523809524  acc:0.8173412698412699
+Epoch [14/500], Checkpoint saved to log/weight/part8.pth satisfied:0.42085 acc:0.8173412698412699
+Epoch [15/500], Step [40/60], Loss: 0.3376
+Epoch [16/500], Step [40/60], Loss: 0.3319
+satisfied:0.42474999999999996  purity:3.792634166666666  acc:0.8201746031746031
+Epoch [16/500], Checkpoint saved to log/weight/part8.pth satisfied:0.42474999999999996 acc:0.8201746031746031
+Epoch [17/500], Step [40/60], Loss: 0.3267
+Epoch [18/500], Step [40/60], Loss: 0.3220
+satisfied:0.43220000000000003  purity:3.82496  acc:0.8216825396825398
+Epoch [18/500], Checkpoint saved to log/weight/part8.pth satisfied:0.43220000000000003 acc:0.8216825396825398
+Epoch [19/500], Step [40/60], Loss: 0.3176
+Epoch [20/500], Step [40/60], Loss: 0.3136
+satisfied:0.42645  purity:3.804499166666667  acc:0.8204365079365079
+Epoch [21/500], Step [40/60], Loss: 0.3098
+Epoch [22/500], Step [40/60], Loss: 0.3064
+satisfied:0.44384999999999997  purity:3.8853074999999997  acc:0.8276111111111112
+Epoch [22/500], Checkpoint saved to log/weight/part8.pth satisfied:0.44384999999999997 acc:0.8276111111111112
+Epoch [23/500], Step [40/60], Loss: 0.3032
+Epoch [24/500], Step [40/60], Loss: 0.3002
+satisfied:0.43610000000000004  purity:3.8569358333333335  acc:0.8246031746031746
+Epoch [25/500], Step [40/60], Loss: 0.2973
+Epoch [26/500], Step [40/60], Loss: 0.2946
+satisfied:0.4457  purity:3.8986341666666666  acc:0.8278333333333334
+Epoch [26/500], Checkpoint saved to log/weight/part8.pth satisfied:0.4457 acc:0.8278333333333334
+Epoch [27/500], Step [40/60], Loss: 0.2921
+Epoch [28/500], Step [40/60], Loss: 0.2897
+satisfied:0.44965  purity:3.9269549999999995  acc:0.8309920634920633
+Epoch [28/500], Checkpoint saved to log/weight/part8.pth satisfied:0.44965 acc:0.8309920634920633
+Epoch [29/500], Step [40/60], Loss: 0.2874
+Epoch [30/500], Step [40/60], Loss: 0.2853
+satisfied:0.44645  purity:3.906389999999999  acc:0.8302301587301587
+Epoch [31/500], Step [40/60], Loss: 0.2832
+Epoch [32/500], Step [40/60], Loss: 0.2812
+satisfied:0.4492  purity:3.911640833333334  acc:0.8290634920634921
+Epoch [33/500], Step [40/60], Loss: 0.2794
+Epoch [34/500], Step [40/60], Loss: 0.2776
+satisfied:0.4511  purity:3.9269758333333327  acc:0.8305873015873017
+Epoch [35/500], Step [40/60], Loss: 0.2759
+Epoch [36/500], Step [40/60], Loss: 0.2743
+satisfied:0.4514  purity:3.9366791666666665  acc:0.8325555555555557
+Epoch [36/500], Checkpoint saved to log/weight/part8.pth satisfied:0.4514 acc:0.8325555555555557
+Epoch [37/500], Step [40/60], Loss: 0.2727
+Epoch [38/500], Step [40/60], Loss: 0.2712
+satisfied:0.45200000000000007  purity:3.932410833333333  acc:0.8328492063492063
+Epoch [38/500], Checkpoint saved to log/weight/part8.pth satisfied:0.45200000000000007 acc:0.8328492063492063
+Epoch [39/500], Step [40/60], Loss: 0.2698
+Epoch [40/500], Step [40/60], Loss: 0.2684
+satisfied:0.45104999999999995  purity:3.9212383333333336  acc:0.8309920634920633
+Epoch [41/500], Step [40/60], Loss: 0.2670
+Epoch [42/500], Step [40/60], Loss: 0.2657
+satisfied:0.45035  purity:3.9096233333333332  acc:0.8296190476190477
+Epoch [43/500], Step [40/60], Loss: 0.2644
+Epoch [44/500], Step [40/60], Loss: 0.2632
+satisfied:0.4598  purity:3.9690099999999995  acc:0.835
+Epoch [44/500], Checkpoint saved to log/weight/part8.pth satisfied:0.4598 acc:0.835
+Epoch [45/500], Step [40/60], Loss: 0.2620
+Epoch [46/500], Step [40/60], Loss: 0.2608
+satisfied:0.44989999999999997  purity:3.9151083333333334  acc:0.8300396825396825
+Epoch [47/500], Step [40/60], Loss: 0.2597
+Epoch [48/500], Step [40/60], Loss: 0.2586
+satisfied:0.4626499999999999  purity:3.9810074999999996  acc:0.835388888888889
+Epoch [48/500], Checkpoint saved to log/weight/part8.pth satisfied:0.4626499999999999 acc:0.835388888888889
+Epoch [49/500], Step [40/60], Loss: 0.2575
+Epoch [50/500], Step [40/60], Loss: 0.2564
+satisfied:0.4553999999999999  purity:3.9400925  acc:0.8314603174603175
+Epoch [51/500], Step [40/60], Loss: 0.2554
+Epoch [52/500], Step [40/60], Loss: 0.2543
+satisfied:0.46425  purity:3.9807100000000006  acc:0.8348253968253967
+Epoch [53/500], Step [40/60], Loss: 0.2533
+Epoch [54/500], Step [40/60], Loss: 0.2524
+satisfied:0.46030000000000004  purity:3.9706658333333325  acc:0.8346984126984127
+Epoch [55/500], Step [40/60], Loss: 0.2514
+Epoch [56/500], Step [40/60], Loss: 0.2505
+satisfied:0.4593  purity:3.9658450000000003  acc:0.8338174603174602
+Epoch [57/500], Step [40/60], Loss: 0.2496
+Epoch [58/500], Step [40/60], Loss: 0.2487
+satisfied:0.44964999999999994  purity:3.916239166666667  acc:0.8297380952380953
+Epoch [59/500], Step [40/60], Loss: 0.2478
+Epoch [60/500], Step [40/60], Loss: 0.2470
+satisfied:0.45520000000000005  purity:3.954519166666666  acc:0.8342142857142857
+Epoch [61/500], Step [40/60], Loss: 0.2462
+Epoch [62/500], Step [40/60], Loss: 0.2454
+satisfied:0.45605  purity:3.942535833333333  acc:0.8316111111111113
+Epoch [63/500], Step [40/60], Loss: 0.2446
+Epoch [64/500], Step [40/60], Loss: 0.2438
+satisfied:0.4609  purity:3.9642017857142853  acc:0.8334206349206349
+Epoch [65/500], Step [40/60], Loss: 0.2431
+Epoch [66/500], Step [40/60], Loss: 0.2423
+satisfied:0.46420000000000006  purity:3.984446666666667  acc:0.836
+Epoch [66/500], Checkpoint saved to log/weight/part8.pth satisfied:0.46420000000000006 acc:0.836
+Epoch [67/500], Step [40/60], Loss: 0.2416
+Epoch [68/500], Step [40/60], Loss: 0.2409
+satisfied:0.46094999999999997  purity:3.9709441666666656  acc:0.8351507936507936
+Epoch [69/500], Step [40/60], Loss: 0.2402
+Epoch [70/500], Step [40/60], Loss: 0.2395
+satisfied:0.47079999999999994  purity:4.020047499999999  acc:0.8380873015873016
+Epoch [70/500], Checkpoint saved to log/weight/part8.pth satisfied:0.47079999999999994 acc:0.8380873015873016
+Epoch [71/500], Step [40/60], Loss: 0.2389
+Epoch [72/500], Step [40/60], Loss: 0.2382
+satisfied:0.4655500000000001  purity:3.988526666666666  acc:0.8361428571428572
+Epoch [73/500], Step [40/60], Loss: 0.2376
+Epoch [74/500], Step [40/60], Loss: 0.2369
+satisfied:0.46975000000000006  purity:4.006505  acc:0.836984126984127
+Epoch [75/500], Step [40/60], Loss: 0.2363
+Epoch [76/500], Step [40/60], Loss: 0.2357
+satisfied:0.47135000000000005  purity:4.024847619047618  acc:0.8393174603174604
+Epoch [76/500], Checkpoint saved to log/weight/part8.pth satisfied:0.47135000000000005 acc:0.8393174603174604
+Epoch [77/500], Step [40/60], Loss: 0.2351
+Epoch [78/500], Step [40/60], Loss: 0.2346
+satisfied:0.45965  purity:3.969435  acc:0.8350793650793651
+Epoch [79/500], Step [40/60], Loss: 0.2340
+Epoch [80/500], Step [40/60], Loss: 0.2334
+satisfied:0.46945000000000003  purity:4.007903333333334  acc:0.8361587301587301
+Epoch [81/500], Step [40/60], Loss: 0.2329
+Epoch [82/500], Step [40/60], Loss: 0.2323
+satisfied:0.45985000000000004  purity:3.9671491666666676  acc:0.8350396825396826
+Epoch [83/500], Step [40/60], Loss: 0.2318
+Epoch [84/500], Step [40/60], Loss: 0.2312
+satisfied:0.47165  purity:4.0157333333333325  acc:0.8373174603174602
+Epoch [85/500], Step [40/60], Loss: 0.2307
+Epoch [86/500], Step [40/60], Loss: 0.2302
+satisfied:0.46869999999999995  purity:4.005543333333333  acc:0.8378253968253968
+Epoch [87/500], Step [40/60], Loss: 0.2297
+Epoch [88/500], Step [40/60], Loss: 0.2292
+satisfied:0.46799999999999997  purity:4.003809166666667  acc:0.837547619047619
+Epoch [89/500], Step [40/60], Loss: 0.2287
+Epoch [90/500], Step [40/60], Loss: 0.2283
+satisfied:0.46420000000000006  purity:3.9826799999999998  acc:0.8355079365079365
+Epoch [91/500], Step [40/60], Loss: 0.2278
+Epoch [92/500], Step [40/60], Loss: 0.2273
+satisfied:0.4704  purity:4.019250833333333  acc:0.8390873015873016
+Epoch [93/500], Step [40/60], Loss: 0.2269
+Epoch [94/500], Step [40/60], Loss: 0.2264
+satisfied:0.4730499999999999  purity:4.031467500000001  acc:0.8401904761904762
+Epoch [94/500], Checkpoint saved to log/weight/part8.pth satisfied:0.4730499999999999 acc:0.8401904761904762
+Epoch [95/500], Step [40/60], Loss: 0.2260
+Epoch [96/500], Step [40/60], Loss: 0.2256
+satisfied:0.47440000000000004  purity:4.029730000000001  acc:0.8389761904761904
+Epoch [97/500], Step [40/60], Loss: 0.2251
+Epoch [98/500], Step [40/60], Loss: 0.2247
+satisfied:0.4702  purity:4.015308333333333  acc:0.8379444444444445
+Epoch [99/500], Step [40/60], Loss: 0.2243
+Epoch [100/500], Step [40/60], Loss: 0.2239
+satisfied:0.46440000000000003  purity:3.9807133333333327  acc:0.8350634920634921
+Epoch [101/500], Step [40/60], Loss: 0.2235
+Epoch [102/500], Step [40/60], Loss: 0.2231
+satisfied:0.4777  purity:4.045365833333333  acc:0.8421666666666667
+Epoch [102/500], Checkpoint saved to log/weight/part8.pth satisfied:0.4777 acc:0.8421666666666667
+Epoch [103/500], Step [40/60], Loss: 0.2227
+Epoch [104/500], Step [40/60], Loss: 0.2223
+satisfied:0.46509999999999996  purity:3.981086666666666  acc:0.8344047619047619
+Epoch [105/500], Step [40/60], Loss: 0.2219
+Epoch [106/500], Step [40/60], Loss: 0.2215
+satisfied:0.4655  purity:3.988500833333333  acc:0.8369920634920636
+Epoch [107/500], Step [40/60], Loss: 0.2212
+Epoch [108/500], Step [40/60], Loss: 0.2208
+satisfied:0.47994999999999993  purity:4.0669224999999996  acc:0.8424365079365079
+Epoch [108/500], Checkpoint saved to log/weight/part8.pth satisfied:0.47994999999999993 acc:0.8424365079365079
+Epoch [109/500], Step [40/60], Loss: 0.2205
+Epoch [110/500], Step [40/60], Loss: 0.2201
+satisfied:0.47590000000000005  purity:4.046180833333334  acc:0.8418809523809525
+Epoch [111/500], Step [40/60], Loss: 0.2197
+Epoch [112/500], Step [40/60], Loss: 0.2194
+satisfied:0.47524999999999995  purity:4.035855  acc:0.8398412698412697
+Epoch [113/500], Step [40/60], Loss: 0.2190
+Epoch [114/500], Step [40/60], Loss: 0.2187
+satisfied:0.4766  purity:4.0459499999999995  acc:0.8410158730158731
+Epoch [115/500], Step [40/60], Loss: 0.2184
+Epoch [116/500], Step [40/60], Loss: 0.2180
+satisfied:0.47409999999999997  purity:4.028451666666667  acc:0.8389920634920636
+Epoch [117/500], Step [40/60], Loss: 0.2177
+Epoch [118/500], Step [40/60], Loss: 0.2174
+satisfied:0.47605000000000003  purity:4.040350833333333  acc:0.8401984126984127
+Epoch [119/500], Step [40/60], Loss: 0.2171
+Epoch [120/500], Step [40/60], Loss: 0.2167
+satisfied:0.47689999999999994  purity:4.0433416666666675  acc:0.8408730158730158
+Epoch [121/500], Step [40/60], Loss: 0.2164
+[1]    21987 killed     CUDA_VISIBLE_DEVICES=0 python train.py  --part_covis=True --descriptor_dim=8
+Epoch [1/500], Step [40/60], Loss: 0.4596
+Epoch [2/500], Step [40/60], Loss: 0.3746
+satisfied:0.3509  purity:3.4129459523809524  acc:0.7840873015873016
+Epoch [2/500], Checkpoint saved to log/weight/part20.pth satisfied:0.3509 acc:0.7840873015873016
+Epoch [3/500], Step [40/60], Loss: 0.3365
+Epoch [4/500], Step [40/60], Loss: 0.3131
+satisfied:0.37375  purity:3.5343391666666655  acc:0.7966031746031745
+Epoch [4/500], Checkpoint saved to log/weight/part20.pth satisfied:0.37375 acc:0.7966031746031745
+Epoch [5/500], Step [40/60], Loss: 0.2964
+Epoch [6/500], Step [40/60], Loss: 0.2838
+satisfied:0.3905  purity:3.615857619047619  acc:0.8031031746031745
+Epoch [6/500], Checkpoint saved to log/weight/part20.pth satisfied:0.3905 acc:0.8031031746031745
+Epoch [7/500], Step [40/60], Loss: 0.2739
+Epoch [8/500], Step [40/60], Loss: 0.2657
+satisfied:0.3971  purity:3.6592566666666664  acc:0.808515873015873
+Epoch [8/500], Checkpoint saved to log/weight/part20.pth satisfied:0.3971 acc:0.808515873015873
+Epoch [9/500], Step [40/60], Loss: 0.2587
+Epoch [10/500], Step [40/60], Loss: 0.2528
+satisfied:0.40595  purity:3.6930750000000003  acc:0.811063492063492
+Epoch [10/500], Checkpoint saved to log/weight/part20.pth satisfied:0.40595 acc:0.811063492063492
+Epoch [11/500], Step [40/60], Loss: 0.2475
+Epoch [12/500], Step [40/60], Loss: 0.2428
+satisfied:0.42105  purity:3.773077261904762  acc:0.817126984126984
+Epoch [12/500], Checkpoint saved to log/weight/part20.pth satisfied:0.42105 acc:0.817126984126984
+Epoch [13/500], Step [40/60], Loss: 0.2385
+Epoch [14/500], Step [40/60], Loss: 0.2346
+satisfied:0.4351999999999999  purity:3.8329483333333334  acc:0.8219444444444445
+Epoch [14/500], Checkpoint saved to log/weight/part20.pth satisfied:0.4351999999999999 acc:0.8219444444444445
+Epoch [15/500], Step [40/60], Loss: 0.2311
+Epoch [16/500], Step [40/60], Loss: 0.2278
+satisfied:0.4364  purity:3.840828333333332  acc:0.8230396825396825
+Epoch [16/500], Checkpoint saved to log/weight/part20.pth satisfied:0.4364 acc:0.8230396825396825
+Epoch [17/500], Step [40/60], Loss: 0.2248
+Epoch [18/500], Step [40/60], Loss: 0.2220
+satisfied:0.44354999999999994  purity:3.869057499999999  acc:0.8240952380952381
+Epoch [18/500], Checkpoint saved to log/weight/part20.pth satisfied:0.44354999999999994 acc:0.8240952380952381
+Epoch [19/500], Step [40/60], Loss: 0.2195
+Epoch [20/500], Step [40/60], Loss: 0.2170
+satisfied:0.43585  purity:3.8387274999999996  acc:0.8228968253968254
+Epoch [21/500], Step [40/60], Loss: 0.2147
+Epoch [22/500], Step [40/60], Loss: 0.2126
+satisfied:0.45355000000000006  purity:3.9257383333333338  acc:0.8297698412698413
+Epoch [22/500], Checkpoint saved to log/weight/part20.pth satisfied:0.45355000000000006 acc:0.8297698412698413
+Epoch [23/500], Step [40/60], Loss: 0.2106
+Epoch [24/500], Step [40/60], Loss: 0.2087
+satisfied:0.44800000000000006  purity:3.9030183333333333  acc:0.8282539682539684
+Epoch [25/500], Step [40/60], Loss: 0.2068
+Epoch [26/500], Step [40/60], Loss: 0.2051
+satisfied:0.45635000000000003  purity:3.939673333333334  acc:0.8301190476190478
+Epoch [26/500], Checkpoint saved to log/weight/part20.pth satisfied:0.45635000000000003 acc:0.8301190476190478
+Epoch [27/500], Step [40/60], Loss: 0.2034
+Epoch [28/500], Step [40/60], Loss: 0.2018
+satisfied:0.46945  purity:4.01014  acc:0.8365952380952381
+Epoch [28/500], Checkpoint saved to log/weight/part20.pth satisfied:0.46945 acc:0.8365952380952381
+Epoch [29/500], Step [40/60], Loss: 0.2003
+Epoch [30/500], Step [40/60], Loss: 0.1988
+satisfied:0.4574999999999999  purity:3.949184166666666  acc:0.8324047619047619
+Epoch [31/500], Step [40/60], Loss: 0.1974
+Epoch [32/500], Step [40/60], Loss: 0.1960
+satisfied:0.45965  purity:3.9567276190476184  acc:0.8319285714285716
+Epoch [33/500], Step [40/60], Loss: 0.1947
+Epoch [34/500], Step [40/60], Loss: 0.1935
+satisfied:0.46485000000000004  purity:3.982888333333333  acc:0.8347460317460318
+Epoch [35/500], Step [40/60], Loss: 0.1923
+Epoch [36/500], Step [40/60], Loss: 0.1911
+satisfied:0.4617  purity:3.972904166666667  acc:0.8340714285714286
+Epoch [37/500], Step [40/60], Loss: 0.1900
+Epoch [38/500], Step [40/60], Loss: 0.1889
+satisfied:0.46925000000000006  purity:3.996449166666667  acc:0.8354047619047618
+Epoch [39/500], Step [40/60], Loss: 0.1878
+Epoch [40/500], Step [40/60], Loss: 0.1868
+satisfied:0.46404999999999996  purity:3.979221666666666  acc:0.8337142857142859
+Epoch [41/500], Step [40/60], Loss: 0.1857
+Epoch [42/500], Step [40/60], Loss: 0.1848
+satisfied:0.46320000000000006  purity:3.9655008333333335  acc:0.8325079365079364
+Epoch [43/500], Step [40/60], Loss: 0.1838
+Epoch [44/500], Step [40/60], Loss: 0.1829
+satisfied:0.47590000000000005  purity:4.0319475  acc:0.8378492063492062
+Epoch [44/500], Checkpoint saved to log/weight/part20.pth satisfied:0.47590000000000005 acc:0.8378492063492062
+Epoch [45/500], Step [40/60], Loss: 0.1820
+Epoch [46/500], Step [40/60], Loss: 0.1811
+satisfied:0.47359999999999997  purity:4.0194925  acc:0.8374603174603175
+Epoch [47/500], Step [40/60], Loss: 0.1802
+Epoch [48/500], Step [40/60], Loss: 0.1794
+satisfied:0.47575  purity:4.036473333333333  acc:0.8387698412698412
+Epoch [48/500], Checkpoint saved to log/weight/part20.pth satisfied:0.47575 acc:0.8387698412698412
+Epoch [49/500], Step [40/60], Loss: 0.1786
+Epoch [50/500], Step [40/60], Loss: 0.1778
+satisfied:0.479  purity:4.0593125  acc:0.8414999999999999
+Epoch [50/500], Checkpoint saved to log/weight/part20.pth satisfied:0.479 acc:0.8414999999999999
+Epoch [51/500], Step [40/60], Loss: 0.1770
+Epoch [52/500], Step [40/60], Loss: 0.1763
+satisfied:0.48655  purity:4.080091666666666  acc:0.8412063492063492
+Epoch [53/500], Step [40/60], Loss: 0.1756
+Epoch [54/500], Step [40/60], Loss: 0.1748
+satisfied:0.48615  purity:4.079153333333333  acc:0.8409365079365079
+Epoch [55/500], Step [40/60], Loss: 0.1741
+Epoch [56/500], Step [40/60], Loss: 0.1734
+satisfied:0.4861  purity:4.079321666666667  acc:0.8417698412698412
+Epoch [56/500], Checkpoint saved to log/weight/part20.pth satisfied:0.4861 acc:0.8417698412698412
+Epoch [57/500], Step [40/60], Loss: 0.1728
+Epoch [58/500], Step [40/60], Loss: 0.1721
+satisfied:0.48250000000000004  purity:4.060484166666667  acc:0.8401031746031746
+Epoch [59/500], Step [40/60], Loss: 0.1714
+Epoch [60/500], Step [40/60], Loss: 0.1708
+satisfied:0.49304999999999993  purity:4.111067499999999  acc:0.8443968253968255
+Epoch [60/500], Checkpoint saved to log/weight/part20.pth satisfied:0.49304999999999993 acc:0.8443968253968255
+Epoch [61/500], Step [40/60], Loss: 0.1702
+Epoch [62/500], Step [40/60], Loss: 0.1696
+satisfied:0.492  purity:4.107135833333334  acc:0.8433730158730158
+Epoch [63/500], Step [40/60], Loss: 0.1690
+Epoch [64/500], Step [40/60], Loss: 0.1684
+satisfied:0.484  purity:4.0790775  acc:0.8420158730158731
+Epoch [65/500], Step [40/60], Loss: 0.1678
+Epoch [66/500], Step [40/60], Loss: 0.1673
+satisfied:0.4997  purity:4.148257500000001  acc:0.8480634920634922
+Epoch [66/500], Checkpoint saved to log/weight/part20.pth satisfied:0.4997 acc:0.8480634920634922
+Epoch [67/500], Step [40/60], Loss: 0.1667
+Epoch [68/500], Step [40/60], Loss: 0.1662
+satisfied:0.4955  purity:4.126244999999999  acc:0.8455873015873016
+Epoch [69/500], Step [40/60], Loss: 0.1656
+Epoch [70/500], Step [40/60], Loss: 0.1651
+satisfied:0.5017  purity:4.1594549999999995  acc:0.8483095238095238
+Epoch [70/500], Checkpoint saved to log/weight/part20.pth satisfied:0.5017 acc:0.8483095238095238
+Epoch [71/500], Step [40/60], Loss: 0.1646
+Epoch [72/500], Step [40/60], Loss: 0.1641
+satisfied:0.49685000000000007  purity:4.132584166666666  acc:0.8466190476190476
+Epoch [73/500], Step [40/60], Loss: 0.1636
+Epoch [74/500], Step [40/60], Loss: 0.1631
+satisfied:0.5013  purity:4.1519900000000005  acc:0.847047619047619
+Epoch [75/500], Step [40/60], Loss: 0.1626
+Epoch [76/500], Step [40/60], Loss: 0.1621
+satisfied:0.51215  purity:4.204176666666667  acc:0.851531746031746
+Epoch [76/500], Checkpoint saved to log/weight/part20.pth satisfied:0.51215 acc:0.851531746031746
+Epoch [77/500], Step [40/60], Loss: 0.1616
+Epoch [78/500], Step [40/60], Loss: 0.1612
+satisfied:0.5045999999999999  purity:4.1673791666666675  acc:0.8484047619047619
+Epoch [79/500], Step [40/60], Loss: 0.1607
+Epoch [80/500], Step [40/60], Loss: 0.1603
+satisfied:0.5054  purity:4.18033  acc:0.8504444444444446
+Epoch [81/500], Step [40/60], Loss: 0.1598
+Epoch [82/500], Step [40/60], Loss: 0.1594
+satisfied:0.5084  purity:4.19183  acc:0.8510714285714286
+Epoch [83/500], Step [40/60], Loss: 0.1590
+Epoch [84/500], Step [40/60], Loss: 0.1585
+satisfied:0.5087499999999999  purity:4.194095833333334  acc:0.8512142857142857
+Epoch [85/500], Step [40/60], Loss: 0.1581
+Epoch [86/500], Step [40/60], Loss: 0.1577
+satisfied:0.5124000000000001  purity:4.1986125  acc:0.8505714285714285
+Epoch [87/500], Step [40/60], Loss: 0.1573
+Epoch [88/500], Step [40/60], Loss: 0.1569
+satisfied:0.5117499999999999  purity:4.202880833333333  acc:0.8514603174603174
+Epoch [89/500], Step [40/60], Loss: 0.1565
+Epoch [90/500], Step [40/60], Loss: 0.1561
+satisfied:0.51095  purity:4.197183452380953  acc:0.851047619047619
+Epoch [91/500], Step [40/60], Loss: 0.1557
+Epoch [92/500], Step [40/60], Loss: 0.1553
+satisfied:0.5159  purity:4.219643333333334  acc:0.8524206349206349
+Epoch [92/500], Checkpoint saved to log/weight/part20.pth satisfied:0.5159 acc:0.8524206349206349
+Epoch [93/500], Step [40/60], Loss: 0.1549
+Epoch [94/500], Step [40/60], Loss: 0.1545
+satisfied:0.5199499999999999  purity:4.238670833333333  acc:0.8536666666666667
+Epoch [94/500], Checkpoint saved to log/weight/part20.pth satisfied:0.5199499999999999 acc:0.8536666666666667
+Epoch [95/500], Step [40/60], Loss: 0.1541
+Epoch [96/500], Step [40/60], Loss: 0.1538
+satisfied:0.51525  purity:4.223509999999999  acc:0.8531269841269842
+Epoch [97/500], Step [40/60], Loss: 0.1534
+Epoch [98/500], Step [40/60], Loss: 0.1530
+satisfied:0.5163  purity:4.230696666666666  acc:0.8547857142857141
+Epoch [98/500], Checkpoint saved to log/weight/part20.pth satisfied:0.5163 acc:0.8547857142857141
+Epoch [99/500], Step [40/60], Loss: 0.1527
+Epoch [100/500], Step [40/60], Loss: 0.1523
+satisfied:0.52195  purity:4.2411883333333344  acc:0.8542460317460316
+Epoch [101/500], Step [40/60], Loss: 0.1519
+Epoch [102/500], Step [40/60], Loss: 0.1516
+satisfied:0.5262999999999999  purity:4.269185833333333  acc:0.8565714285714285
+Epoch [102/500], Checkpoint saved to log/weight/part20.pth satisfied:0.5262999999999999 acc:0.8565714285714285
+Epoch [103/500], Step [40/60], Loss: 0.1512
+Epoch [104/500], Step [40/60], Loss: 0.1509
+satisfied:0.5135  purity:4.208214285714286  acc:0.8515158730158732
+Epoch [105/500], Step [40/60], Loss: 0.1505
+Epoch [106/500], Step [40/60], Loss: 0.1502
+satisfied:0.50985  purity:4.192625833333334  acc:0.8509126984126985
+Epoch [107/500], Step [40/60], Loss: 0.1499
+Epoch [108/500], Step [40/60], Loss: 0.1495
+satisfied:0.5357000000000001  purity:4.319354166666666  acc:0.8608333333333335
+Epoch [108/500], Checkpoint saved to log/weight/part20.pth satisfied:0.5357000000000001 acc:0.8608333333333335
+Epoch [109/500], Step [40/60], Loss: 0.1492
+Epoch [110/500], Step [40/60], Loss: 0.1489
+satisfied:0.525  purity:4.2686366666666675  acc:0.8577936507936508
+Epoch [111/500], Step [40/60], Loss: 0.1485
+Epoch [112/500], Step [40/60], Loss: 0.1482
+satisfied:0.5301500000000001  purity:4.2877238095238095  acc:0.8571031746031746
+Epoch [113/500], Step [40/60], Loss: 0.1479
+Epoch [114/500], Step [40/60], Loss: 0.1476
+satisfied:0.5306  purity:4.298780000000001  acc:0.859015873015873
+Epoch [115/500], Step [40/60], Loss: 0.1472
+Epoch [116/500], Step [40/60], Loss: 0.1469
+satisfied:0.5281  purity:4.270105833333334  acc:0.8561190476190476
+Epoch [117/500], Step [40/60], Loss: 0.1466
+Epoch [118/500], Step [40/60], Loss: 0.1463
+satisfied:0.5381999999999999  purity:4.329734166666666  acc:0.8617936507936508
+Epoch [118/500], Checkpoint saved to log/weight/part20.pth satisfied:0.5381999999999999 acc:0.8617936507936508
+Epoch [119/500], Step [40/60], Loss: 0.1460
+Epoch [120/500], Step [40/60], Loss: 0.1457
+satisfied:0.5355  purity:4.3177075  acc:0.8613412698412699
+Epoch [121/500], Step [40/60], Loss: 0.1454
+[1]    23104 killed     CUDA_VISIBLE_DEVICES=0 python train.py  --descriptor_dim=20 --part_covis=True
+Epoch [1/500], Step [40/60], Loss: 0.8711
+Epoch [2/500], Step [40/60], Loss: 0.8701
+satisfied:0.03695  purity:1.1448435714285732  acc:0.48616666666666664
+Epoch [2/500], Checkpoint saved to log/weight/part1.pth satisfied:0.03695 acc:0.48616666666666664
+Epoch [3/500], Step [40/60], Loss: 0.8692
+Epoch [4/500], Step [40/60], Loss: 0.8683
+satisfied:0.04085  purity:1.1893681547619066  acc:0.49576190476190474
+Epoch [4/500], Checkpoint saved to log/weight/part1.pth satisfied:0.04085 acc:0.49576190476190474
+Epoch [5/500], Step [40/60], Loss: 0.8672
+Epoch [6/500], Step [40/60], Loss: 0.8661
+satisfied:0.05095000000000001  purity:1.3098333928571437  acc:0.5172619047619047
+Epoch [6/500], Checkpoint saved to log/weight/part1.pth satisfied:0.05095000000000001 acc:0.5172619047619047
+Epoch [7/500], Step [40/60], Loss: 0.8647
+Epoch [8/500], Step [40/60], Loss: 0.8628
+satisfied:0.07629999999999999  purity:1.5209923214285719  acc:0.5493333333333335
+Epoch [8/500], Checkpoint saved to log/weight/part1.pth satisfied:0.07629999999999999 acc:0.5493333333333335
+Epoch [9/500], Step [40/60], Loss: 0.8602
+Epoch [10/500], Step [40/60], Loss: 0.8567
+satisfied:0.10445  purity:1.7267933333333336  acc:0.5767222222222222
+Epoch [10/500], Checkpoint saved to log/weight/part1.pth satisfied:0.10445 acc:0.5767222222222222
+Epoch [11/500], Step [40/60], Loss: 0.8525
+Epoch [12/500], Step [40/60], Loss: 0.8479
+satisfied:0.12389999999999998  purity:1.898086071428572  acc:0.6020396825396825
+Epoch [12/500], Checkpoint saved to log/weight/part1.pth satisfied:0.12389999999999998 acc:0.6020396825396825
+Epoch [13/500], Step [40/60], Loss: 0.8428
+Epoch [14/500], Step [40/60], Loss: 0.8374
+satisfied:0.1537  purity:2.1051256547619057  acc:0.6297539682539682
+Epoch [14/500], Checkpoint saved to log/weight/part1.pth satisfied:0.1537 acc:0.6297539682539682
+Epoch [15/500], Step [40/60], Loss: 0.8317
+Epoch [16/500], Step [40/60], Loss: 0.8258
+satisfied:0.17134999999999997  purity:2.2814153571428566  acc:0.6547460317460317
+Epoch [16/500], Checkpoint saved to log/weight/part1.pth satisfied:0.17134999999999997 acc:0.6547460317460317
+Epoch [17/500], Step [40/60], Loss: 0.8197
+Epoch [18/500], Step [40/60], Loss: 0.8136
+satisfied:0.1845  purity:2.395358452380953  acc:0.6715873015873016
+Epoch [18/500], Checkpoint saved to log/weight/part1.pth satisfied:0.1845 acc:0.6715873015873016
+Epoch [19/500], Step [40/60], Loss: 0.8074
+Epoch [20/500], Step [40/60], Loss: 0.8013
+satisfied:0.20729999999999998  purity:2.530428452380952  acc:0.6863730158730159
+Epoch [20/500], Checkpoint saved to log/weight/part1.pth satisfied:0.20729999999999998 acc:0.6863730158730159
+Epoch [21/500], Step [40/60], Loss: 0.7952
+Epoch [22/500], Step [40/60], Loss: 0.7891
+satisfied:0.21805  purity:2.6311190476190465  acc:0.6993253968253967
+Epoch [22/500], Checkpoint saved to log/weight/part1.pth satisfied:0.21805 acc:0.6993253968253967
+Epoch [23/500], Step [40/60], Loss: 0.7831
+Epoch [24/500], Step [40/60], Loss: 0.7771
+satisfied:0.23115000000000002  purity:2.7185191666666677  acc:0.710015873015873
+Epoch [24/500], Checkpoint saved to log/weight/part1.pth satisfied:0.23115000000000002 acc:0.710015873015873
+Epoch [25/500], Step [40/60], Loss: 0.7713
+Epoch [26/500], Step [40/60], Loss: 0.7656
+satisfied:0.2433  purity:2.7937633333333327  acc:0.7185476190476191
+Epoch [26/500], Checkpoint saved to log/weight/part1.pth satisfied:0.2433 acc:0.7185476190476191
+Epoch [27/500], Step [40/60], Loss: 0.7600
+Epoch [28/500], Step [40/60], Loss: 0.7545
+satisfied:0.2531  purity:2.8456824999999992  acc:0.7225238095238095
+Epoch [28/500], Checkpoint saved to log/weight/part1.pth satisfied:0.2531 acc:0.7225238095238095
+Epoch [29/500], Step [40/60], Loss: 0.7492
+Epoch [30/500], Step [40/60], Loss: 0.7440
+satisfied:0.25805  purity:2.8646880952380953  acc:0.7246111111111111
+Epoch [30/500], Checkpoint saved to log/weight/part1.pth satisfied:0.25805 acc:0.7246111111111111
+Epoch [31/500], Step [40/60], Loss: 0.7389
+Epoch [32/500], Step [40/60], Loss: 0.7340
+satisfied:0.26555  purity:2.906388095238095  acc:0.7288809523809523
+Epoch [32/500], Checkpoint saved to log/weight/part1.pth satisfied:0.26555 acc:0.7288809523809523
+Epoch [33/500], Step [40/60], Loss: 0.7292
+Epoch [34/500], Step [40/60], Loss: 0.7245
+satisfied:0.263  purity:2.9006477380952385  acc:0.7287222222222222
+Epoch [35/500], Step [40/60], Loss: 0.7199
+Epoch [36/500], Step [40/60], Loss: 0.7155
+satisfied:0.27025  purity:2.940371666666666  acc:0.7321825396825397
+Epoch [36/500], Checkpoint saved to log/weight/part1.pth satisfied:0.27025 acc:0.7321825396825397
+Epoch [37/500], Step [40/60], Loss: 0.7113
+Epoch [38/500], Step [40/60], Loss: 0.7071
+satisfied:0.27180000000000004  purity:2.9402933333333334  acc:0.7327777777777778
+Epoch [38/500], Checkpoint saved to log/weight/part1.pth satisfied:0.27180000000000004 acc:0.7327777777777778
+Epoch [39/500], Step [40/60], Loss: 0.7031
+Epoch [40/500], Step [40/60], Loss: 0.6992
+satisfied:0.27399999999999997  purity:2.9545424999999996  acc:0.7340238095238096
+Epoch [40/500], Checkpoint saved to log/weight/part1.pth satisfied:0.27399999999999997 acc:0.7340238095238096
+Epoch [41/500], Step [40/60], Loss: 0.6954
+Epoch [42/500], Step [40/60], Loss: 0.6917
+satisfied:0.28065  purity:2.9818283333333335  acc:0.7357777777777779
+Epoch [42/500], Checkpoint saved to log/weight/part1.pth satisfied:0.28065 acc:0.7357777777777779
+Epoch [43/500], Step [40/60], Loss: 0.6880
+Epoch [44/500], Step [40/60], Loss: 0.6843
+satisfied:0.2993  purity:3.0723842857142856  acc:0.7438174603174603
+Epoch [44/500], Checkpoint saved to log/weight/part1.pth satisfied:0.2993 acc:0.7438174603174603
+Epoch [45/500], Step [40/60], Loss: 0.6806
+Epoch [46/500], Step [40/60], Loss: 0.6770
+satisfied:0.3076  purity:3.1196742857142845  acc:0.748404761904762
+Epoch [46/500], Checkpoint saved to log/weight/part1.pth satisfied:0.3076 acc:0.748404761904762
+Epoch [47/500], Step [40/60], Loss: 0.6734
+Epoch [48/500], Step [40/60], Loss: 0.6699
+satisfied:0.31944999999999996  purity:3.191092619047619  acc:0.7555
+Epoch [48/500], Checkpoint saved to log/weight/part1.pth satisfied:0.31944999999999996 acc:0.7555
+Epoch [49/500], Step [40/60], Loss: 0.6664
+Epoch [50/500], Step [40/60], Loss: 0.6630
+satisfied:0.3315  purity:3.2500817857142863  acc:0.7599920634920636
+Epoch [50/500], Checkpoint saved to log/weight/part1.pth satisfied:0.3315 acc:0.7599920634920636
+Epoch [51/500], Step [40/60], Loss: 0.6596
+Epoch [52/500], Step [40/60], Loss: 0.6564
+satisfied:0.3501  purity:3.349314166666667  acc:0.7705793650793651
+Epoch [52/500], Checkpoint saved to log/weight/part1.pth satisfied:0.3501 acc:0.7705793650793651
+Epoch [53/500], Step [40/60], Loss: 0.6532
+Epoch [54/500], Step [40/60], Loss: 0.6500
+satisfied:0.35114999999999996  purity:3.373379166666667  acc:0.7728412698412698
+Epoch [54/500], Checkpoint saved to log/weight/part1.pth satisfied:0.35114999999999996 acc:0.7728412698412698
+Epoch [55/500], Step [40/60], Loss: 0.6470
+Epoch [56/500], Step [40/60], Loss: 0.6439
+satisfied:0.36594999999999994  purity:3.4455641666666663  acc:0.7790079365079365
+Epoch [56/500], Checkpoint saved to log/weight/part1.pth satisfied:0.36594999999999994 acc:0.7790079365079365
+Epoch [57/500], Step [40/60], Loss: 0.6410
+Epoch [58/500], Step [40/60], Loss: 0.6381
+satisfied:0.3774  purity:3.5019475  acc:0.7847460317460317
+Epoch [58/500], Checkpoint saved to log/weight/part1.pth satisfied:0.3774 acc:0.7847460317460317
+Epoch [59/500], Step [40/60], Loss: 0.6353
+Epoch [60/500], Step [40/60], Loss: 0.6325
+satisfied:0.38815  purity:3.5629766666666667  acc:0.7914206349206349
+Epoch [60/500], Checkpoint saved to log/weight/part1.pth satisfied:0.38815 acc:0.7914206349206349
+Epoch [61/500], Step [40/60], Loss: 0.6298
+Epoch [62/500], Step [40/60], Loss: 0.6271
+satisfied:0.39849999999999997  purity:3.6135317857142852  acc:0.7959841269841269
+Epoch [62/500], Checkpoint saved to log/weight/part1.pth satisfied:0.39849999999999997 acc:0.7959841269841269
+Epoch [63/500], Step [40/60], Loss: 0.6245
+Epoch [64/500], Step [40/60], Loss: 0.6219
+satisfied:0.40269999999999995  purity:3.64621  acc:0.7988412698412698
+Epoch [64/500], Checkpoint saved to log/weight/part1.pth satisfied:0.40269999999999995 acc:0.7988412698412698
+Epoch [65/500], Step [40/60], Loss: 0.6194
+Epoch [66/500], Step [40/60], Loss: 0.6169
+satisfied:0.41165  purity:3.679454166666667  acc:0.8007857142857142
+Epoch [66/500], Checkpoint saved to log/weight/part1.pth satisfied:0.41165 acc:0.8007857142857142
+Epoch [67/500], Step [40/60], Loss: 0.6145
+Epoch [68/500], Step [40/60], Loss: 0.6121
+satisfied:0.41624999999999995  purity:3.703867499999999  acc:0.8033492063492064
+Epoch [68/500], Checkpoint saved to log/weight/part1.pth satisfied:0.41624999999999995 acc:0.8033492063492064
+Epoch [69/500], Step [40/60], Loss: 0.6098
+Epoch [70/500], Step [40/60], Loss: 0.6075
+satisfied:0.4293  purity:3.785582619047618  acc:0.8128333333333332
+Epoch [70/500], Checkpoint saved to log/weight/part1.pth satisfied:0.4293 acc:0.8128333333333332
+Epoch [71/500], Step [40/60], Loss: 0.6052
+Epoch [72/500], Step [40/60], Loss: 0.6030
+satisfied:0.43340000000000006  purity:3.8032450000000004  acc:0.8132857142857143
+Epoch [72/500], Checkpoint saved to log/weight/part1.pth satisfied:0.43340000000000006 acc:0.8132857142857143
+Epoch [73/500], Step [40/60], Loss: 0.6008
+Epoch [74/500], Step [40/60], Loss: 0.5986
+satisfied:0.446  purity:3.870230833333333  acc:0.8201746031746031
+Epoch [74/500], Checkpoint saved to log/weight/part1.pth satisfied:0.446 acc:0.8201746031746031
+Epoch [75/500], Step [40/60], Loss: 0.5965
+Epoch [76/500], Step [40/60], Loss: 0.5944
+satisfied:0.45345  purity:3.902452500000001  acc:0.8225238095238095
+Epoch [76/500], Checkpoint saved to log/weight/part1.pth satisfied:0.45345 acc:0.8225238095238095
+Epoch [77/500], Step [40/60], Loss: 0.5923
+Epoch [78/500], Step [40/60], Loss: 0.5903
+satisfied:0.4575  purity:3.9240916666666656  acc:0.8241428571428571
+Epoch [78/500], Checkpoint saved to log/weight/part1.pth satisfied:0.4575 acc:0.8241428571428571
+Epoch [79/500], Step [40/60], Loss: 0.5883
+Epoch [80/500], Step [40/60], Loss: 0.5863
+satisfied:0.46595000000000003  purity:3.9717466666666668  acc:0.8288253968253969
+Epoch [80/500], Checkpoint saved to log/weight/part1.pth satisfied:0.46595000000000003 acc:0.8288253968253969
+Epoch [81/500], Step [40/60], Loss: 0.5844
+Epoch [82/500], Step [40/60], Loss: 0.5825
+satisfied:0.47205  purity:4.007836666666667  acc:0.8320873015873016
+Epoch [82/500], Checkpoint saved to log/weight/part1.pth satisfied:0.47205 acc:0.8320873015873016
+Epoch [83/500], Step [40/60], Loss: 0.5806
+Epoch [84/500], Step [40/60], Loss: 0.5787
+satisfied:0.477  purity:4.0263808333333335  acc:0.8341746031746032
+Epoch [84/500], Checkpoint saved to log/weight/part1.pth satisfied:0.477 acc:0.8341746031746032
+Epoch [85/500], Step [40/60], Loss: 0.5769
+Epoch [86/500], Step [40/60], Loss: 0.5750
+satisfied:0.48624999999999996  purity:4.065990833333332  acc:0.8370873015873016
+Epoch [86/500], Checkpoint saved to log/weight/part1.pth satisfied:0.48624999999999996 acc:0.8370873015873016
+Epoch [87/500], Step [40/60], Loss: 0.5732
+Epoch [88/500], Step [40/60], Loss: 0.5715
+satisfied:0.49695  purity:4.121113333333334  acc:0.8420793650793652
+Epoch [88/500], Checkpoint saved to log/weight/part1.pth satisfied:0.49695 acc:0.8420793650793652
+Epoch [89/500], Step [40/60], Loss: 0.5697
+Epoch [90/500], Step [40/60], Loss: 0.5680
+satisfied:0.4962  purity:4.121583333333334  acc:0.8421031746031746
+Epoch [90/500], Checkpoint saved to log/weight/part1.pth satisfied:0.4962 acc:0.8421031746031746
+Epoch [91/500], Step [40/60], Loss: 0.5663
+Epoch [92/500], Step [40/60], Loss: 0.5646
+satisfied:0.5099500000000001  purity:4.184220833333333  acc:0.8468174603174603
+Epoch [92/500], Checkpoint saved to log/weight/part1.pth satisfied:0.5099500000000001 acc:0.8468174603174603
+Epoch [93/500], Step [40/60], Loss: 0.5629
+Epoch [94/500], Step [40/60], Loss: 0.5613
+satisfied:0.5132000000000001  purity:4.2017675  acc:0.8491984126984127
+Epoch [94/500], Checkpoint saved to log/weight/part1.pth satisfied:0.5132000000000001 acc:0.8491984126984127
+Epoch [95/500], Step [40/60], Loss: 0.5596
+Epoch [96/500], Step [40/60], Loss: 0.5580
+satisfied:0.5160499999999999  purity:4.2262876190476195  acc:0.8509365079365079
+Epoch [96/500], Checkpoint saved to log/weight/part1.pth satisfied:0.5160499999999999 acc:0.8509365079365079
+Epoch [97/500], Step [40/60], Loss: 0.5564
+Epoch [98/500], Step [40/60], Loss: 0.5548
+satisfied:0.5176499999999999  purity:4.236725833333335  acc:0.8529761904761906
+Epoch [98/500], Checkpoint saved to log/weight/part1.pth satisfied:0.5176499999999999 acc:0.8529761904761906
+Epoch [99/500], Step [40/60], Loss: 0.5533
+Epoch [100/500], Step [40/60], Loss: 0.5518
+satisfied:0.5275000000000001  purity:4.278966666666667  acc:0.856111111111111
+Epoch [100/500], Checkpoint saved to log/weight/part1.pth satisfied:0.5275000000000001 acc:0.856111111111111
+Epoch [101/500], Step [40/60], Loss: 0.5502
+Epoch [102/500], Step [40/60], Loss: 0.5487
+satisfied:0.53555  purity:4.314592500000001  acc:0.8578174603174602
+Epoch [102/500], Checkpoint saved to log/weight/part1.pth satisfied:0.53555 acc:0.8578174603174602
+Epoch [103/500], Step [40/60], Loss: 0.5473
+Epoch [104/500], Step [40/60], Loss: 0.5458
+satisfied:0.5369999999999999  purity:4.327163333333333  acc:0.8602063492063492
+Epoch [104/500], Checkpoint saved to log/weight/part1.pth satisfied:0.5369999999999999 acc:0.8602063492063492
+Epoch [105/500], Step [40/60], Loss: 0.5444
+Epoch [106/500], Step [40/60], Loss: 0.5429
+satisfied:0.5327999999999999  purity:4.306909166666668  acc:0.8584365079365079
+Epoch [107/500], Step [40/60], Loss: 0.5415
+Epoch [108/500], Step [40/60], Loss: 0.5401
+satisfied:0.54105  purity:4.348481666666666  acc:0.8621587301587302
+Epoch [108/500], Checkpoint saved to log/weight/part1.pth satisfied:0.54105 acc:0.8621587301587302
+Epoch [109/500], Step [40/60], Loss: 0.5388
+Epoch [110/500], Step [40/60], Loss: 0.5374
+satisfied:0.5517000000000001  purity:4.392806666666668  acc:0.8654126984126984
+Epoch [110/500], Checkpoint saved to log/weight/part1.pth satisfied:0.5517000000000001 acc:0.8654126984126984
+Epoch [111/500], Step [40/60], Loss: 0.5361
+Epoch [112/500], Step [40/60], Loss: 0.5347
+satisfied:0.5554  purity:4.409544166666667  acc:0.8662857142857143
+Epoch [112/500], Checkpoint saved to log/weight/part1.pth satisfied:0.5554 acc:0.8662857142857143
+Epoch [113/500], Step [40/60], Loss: 0.5334
+Epoch [114/500], Step [40/60], Loss: 0.5321
+satisfied:0.5536000000000001  purity:4.4068176190476205  acc:0.8654920634920635
+Epoch [115/500], Step [40/60], Loss: 0.5309
+Epoch [116/500], Step [40/60], Loss: 0.5296
+satisfied:0.5539000000000001  purity:4.402335833333334  acc:0.8659603174603173
+Epoch [117/500], Step [40/60], Loss: 0.5284
+Epoch [118/500], Step [40/60], Loss: 0.5271
+satisfied:0.56055  purity:4.447175833333334  acc:0.8701984126984126
+Epoch [118/500], Checkpoint saved to log/weight/part1.pth satisfied:0.56055 acc:0.8701984126984126
+Epoch [119/500], Step [40/60], Loss: 0.5259
+Epoch [120/500], Step [40/60], Loss: 0.5247
+satisfied:0.5677  purity:4.460210833333332  acc:0.8703253968253968
+Epoch [120/500], Checkpoint saved to log/weight/part1.pth satisfied:0.5677 acc:0.8703253968253968
+Epoch [121/500], Step [40/60], Loss: 0.5235
+Epoch [122/500], Step [40/60], Loss: 0.5223
+satisfied:0.5667  purity:4.466975  acc:0.8723174603174604
+Epoch [122/500], Checkpoint saved to log/weight/part1.pth satisfied:0.5667 acc:0.8723174603174604
+Epoch [123/500], Step [40/60], Loss: 0.5212
+Epoch [124/500], Step [40/60], Loss: 0.5200
+satisfied:0.5673  purity:4.469317500000001  acc:0.8714285714285716
+Epoch [125/500], Step [40/60], Loss: 0.5189
+Epoch [126/500], Step [40/60], Loss: 0.5178
+satisfied:0.57255  purity:4.495222500000001  acc:0.8736349206349207
+Epoch [126/500], Checkpoint saved to log/weight/part1.pth satisfied:0.57255 acc:0.8736349206349207
+[1]    24219 killed     CUDA_VISIBLE_DEVICES=0 python train.py  --descriptor_dim=1 --part_covis=True
+

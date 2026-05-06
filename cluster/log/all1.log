@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "train.py", line 259, in <module>
+    data = superglue(preds, lambda_constraint=1.0)
+  File "/home/lsp/anaconda3/envs/superglue/lib/python3.6/site-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/lsp/PycharmProjects/1Clustering_for_match/models/superglue.py", line 578, in forward
+    loss = self.criterion(embeddings, labels)
+  File "/home/lsp/anaconda3/envs/superglue/lib/python3.6/site-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/lsp/PycharmProjects/1Clustering_for_match/models/superglue.py", line 368, in forward
+    valid_mask = (pos_mask.sum(dim=1)) > 0  # 确保有正样本
+RuntimeError: CUDA out of memory. Tried to allocate 9.66 GiB (GPU 0; 23.65 GiB total capacity; 16.06 GiB already allocated; 5.36 GiB free; 17.28 GiB reserved in total by PyTorch)

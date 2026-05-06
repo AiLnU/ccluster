@@ -1,0 +1,43 @@
+Epoch [70/500], Step [40/60], Loss: 0.3388
+satisfied:0.67225  purity:4.946980000000001  acc:0.9077142857142858
+Epoch [71/500], Step [40/60], Loss: 0.3372
+Epoch [72/500], Step [40/60], Loss: 0.3356
+satisfied:0.6681  purity:4.929100833333333  acc:0.9068174603174602
+Epoch [73/500], Step [40/60], Loss: 0.3341
+Epoch [74/500], Step [40/60], Loss: 0.3326
+satisfied:0.6787  purity:4.979438333333333  acc:0.9097936507936509
+Epoch [74/500], Checkpoint saved to log/weight/part4_useother.pth satisfied:0.6787 acc:0.9097936507936509
+Epoch [75/500], Step [40/60], Loss: 0.3311
+Epoch [76/500], Step [40/60], Loss: 0.3297
+satisfied:0.6737000000000001  purity:4.9579125  acc:0.9089047619047619
+Epoch [77/500], Step [40/60], Loss: 0.3284
+
+
+Epoch [97/500], Step [40/60], Loss: 0.2974
+Epoch [98/500], Step [40/60], Loss: 0.2966
+satisfied:0.6781  purity:4.970544166666666  acc:0.9104444444444445
+Epoch [98/500], Checkpoint saved to log/weight/part4_useother.pth satisfied:0.6781 acc:0.9104444444444445
+Epoch [99/500], Step [40/60], Loss: 0.2958
+Epoch [100/500], Step [40/60], Loss: 0.2950
+satisfied:0.6775  purity:4.9652191666666665  acc:0.9083333333333332
+Epoch [101/500], Step [40/60], Loss: 0.2943
+Epoch [102/500], Step [40/60], Loss: 0.2935
+satisfied:0.6792499999999999  purity:4.970031666666666  acc:0.9088174603174602
+Epoch [103/500], Step [40/60], Loss: 0.2928
+Epoch [104/500], Step [40/60], Loss: 0.2921
+satisfied:0.67095  purity:4.943465833333333  acc:0.9078571428571427
+Epoch [105/500], Step [40/60], Loss: 0.2914
+Epoch [106/500], Step [40/60], Loss: 0.2907
+satisfied:0.66835  purity:4.9314583333333335  acc:0.9068412698412697
+Epoch [107/500], Step [40/60], Loss: 0.2900
+Epoch [108/500], Step [40/60], Loss: 0.2894
+satisfied:0.6795500000000001  purity:4.987618333333333  acc:0.910873015873016
+Epoch [108/500], Checkpoint saved to log/weight/part4_useother.pth satisfied:0.6795500000000001 acc:0.910873015873016
+Epoch [109/500], Step [40/60], Loss: 0.2887
+Epoch [110/500], Step [40/60], Loss: 0.2881
+satisfied:0.6730500000000001  purity:4.95109  acc:0.9081825396825398
+Epoch [111/500], Step [40/60], Loss: 0.2874
+Epoch [112/500], Step [40/60], Loss: 0.2868
+satisfied:0.6818000000000001  purity:4.978728333333334  acc:0.9088968253968254
+Epoch [113/500], Step [40/60], Loss: 0.2862
+Epoch [114/500], Step [40/60], Loss: 0.2856

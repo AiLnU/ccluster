@@ -1,0 +1,3200 @@
+Epoch [1/500], Step [1/45], Loss: 0.8754
+Epoch [1/500], Step [2/45], Loss: 0.8730
+Epoch [1/500], Step [3/45], Loss: 0.8682
+Epoch [1/500], Step [4/45], Loss: 0.8656
+Epoch [1/500], Step [5/45], Loss: 0.8635
+Epoch [1/500], Step [6/45], Loss: 0.8612
+Epoch [1/500], Step [7/45], Loss: 0.8584
+Epoch [1/500], Step [8/45], Loss: 0.8561
+Epoch [1/500], Step [9/45], Loss: 0.8537
+Epoch [1/500], Step [10/45], Loss: 0.8515
+Epoch [1/500], Step [11/45], Loss: 0.8489
+Epoch [1/500], Step [12/45], Loss: 0.8466
+Epoch [1/500], Step [13/45], Loss: 0.8439
+Epoch [1/500], Step [14/45], Loss: 0.8420
+Epoch [1/500], Step [15/45], Loss: 0.8394
+Epoch [1/500], Step [16/45], Loss: 0.8369
+Epoch [1/500], Step [17/45], Loss: 0.8343
+Epoch [1/500], Step [18/45], Loss: 0.8316
+Epoch [1/500], Step [19/45], Loss: 0.8290
+Epoch [1/500], Step [20/45], Loss: 0.8262
+Epoch [1/500], Step [21/45], Loss: 0.8238
+Epoch [1/500], Step [22/45], Loss: 0.8211
+Epoch [1/500], Step [23/45], Loss: 0.8185
+Epoch [1/500], Step [24/45], Loss: 0.8158
+Epoch [1/500], Step [25/45], Loss: 0.8131
+Epoch [1/500], Step [26/45], Loss: 0.8104
+Epoch [1/500], Step [27/45], Loss: 0.8075
+Epoch [1/500], Step [28/45], Loss: 0.8047
+Epoch [1/500], Step [29/45], Loss: 0.8017
+Epoch [1/500], Step [30/45], Loss: 0.7990
+Epoch [1/500], Step [31/45], Loss: 0.7959
+Epoch [1/500], Step [32/45], Loss: 0.7930
+Epoch [1/500], Step [33/45], Loss: 0.7901
+Epoch [1/500], Step [34/45], Loss: 0.7873
+Epoch [1/500], Step [35/45], Loss: 0.7846
+Epoch [1/500], Step [36/45], Loss: 0.7819
+Epoch [1/500], Step [37/45], Loss: 0.7792
+Epoch [1/500], Step [38/45], Loss: 0.7764
+Epoch [1/500], Step [39/45], Loss: 0.7737
+Epoch [1/500], Step [40/45], Loss: 0.7710
+Epoch [1/500], Step [41/45], Loss: 0.7683
+Epoch [1/500], Step [42/45], Loss: 0.7656
+Epoch [1/500], Step [43/45], Loss: 0.7629
+Epoch [1/500], Step [44/45], Loss: 0.7603
+Epoch [1/500], Step [45/45], Loss: 0.7577
+Epoch [2/500], Step [1/45], Loss: 0.7552
+Epoch [2/500], Step [2/45], Loss: 0.7527
+Epoch [2/500], Step [3/45], Loss: 0.7499
+Epoch [2/500], Step [4/45], Loss: 0.7474
+Epoch [2/500], Step [5/45], Loss: 0.7448
+Epoch [2/500], Step [6/45], Loss: 0.7424
+Epoch [2/500], Step [7/45], Loss: 0.7400
+Epoch [2/500], Step [8/45], Loss: 0.7376
+Epoch [2/500], Step [9/45], Loss: 0.7352
+Epoch [2/500], Step [10/45], Loss: 0.7328
+Epoch [2/500], Step [11/45], Loss: 0.7303
+Epoch [2/500], Step [12/45], Loss: 0.7280
+Epoch [2/500], Step [13/45], Loss: 0.7256
+Epoch [2/500], Step [14/45], Loss: 0.7234
+Epoch [2/500], Step [15/45], Loss: 0.7211
+Epoch [2/500], Step [16/45], Loss: 0.7188
+Epoch [2/500], Step [17/45], Loss: 0.7165
+Epoch [2/500], Step [18/45], Loss: 0.7142
+Epoch [2/500], Step [19/45], Loss: 0.7120
+Epoch [2/500], Step [20/45], Loss: 0.7098
+Epoch [2/500], Step [21/45], Loss: 0.7076
+Epoch [2/500], Step [22/45], Loss: 0.7054
+Epoch [2/500], Step [23/45], Loss: 0.7032
+Epoch [2/500], Step [24/45], Loss: 0.7011
+Epoch [2/500], Step [25/45], Loss: 0.6989
+Epoch [2/500], Step [26/45], Loss: 0.6967
+Epoch [2/500], Step [27/45], Loss: 0.6947
+Epoch [2/500], Step [28/45], Loss: 0.6926
+Epoch [2/500], Step [29/45], Loss: 0.6905
+Epoch [2/500], Step [30/45], Loss: 0.6884
+Epoch [2/500], Step [31/45], Loss: 0.6864
+Epoch [2/500], Step [32/45], Loss: 0.6844
+Epoch [2/500], Step [33/45], Loss: 0.6823
+Epoch [2/500], Step [34/45], Loss: 0.6803
+Epoch [2/500], Step [35/45], Loss: 0.6784
+Epoch [2/500], Step [36/45], Loss: 0.6765
+Epoch [2/500], Step [37/45], Loss: 0.6746
+Epoch [2/500], Step [38/45], Loss: 0.6727
+Epoch [2/500], Step [39/45], Loss: 0.6708
+Epoch [2/500], Step [40/45], Loss: 0.6689
+Epoch [2/500], Step [41/45], Loss: 0.6670
+Epoch [2/500], Step [42/45], Loss: 0.6652
+Epoch [2/500], Step [43/45], Loss: 0.6634
+Epoch [2/500], Step [44/45], Loss: 0.6616
+Epoch [2/500], Step [45/45], Loss: 0.6598
+unique_labels:2.0425
+unique_labels:2.001
+unique_labels:2.023
+unique_labels:2.0175
+unique_labels:2.0765
+unique_labels:2.028
+unique_labels:2.042
+unique_labels:2.031
+unique_labels:2.051
+unique_labels:2.0105
+satisfied:0.28985000000000005  purity:3.100695  acc:0.7553650793650794
+Epoch [2/500], Checkpoint saved to log/weight/part8.pth satisfied:0.28985000000000005 acc:0.7553650793650794
+Epoch [3/500], Step [1/45], Loss: 0.6581
+Epoch [3/500], Step [2/45], Loss: 0.6563
+Epoch [3/500], Step [3/45], Loss: 0.6545
+Epoch [3/500], Step [4/45], Loss: 0.6527
+Epoch [3/500], Step [5/45], Loss: 0.6510
+Epoch [3/500], Step [6/45], Loss: 0.6494
+Epoch [3/500], Step [7/45], Loss: 0.6478
+Epoch [3/500], Step [8/45], Loss: 0.6461
+Epoch [3/500], Step [9/45], Loss: 0.6445
+Epoch [3/500], Step [10/45], Loss: 0.6429
+Epoch [3/500], Step [11/45], Loss: 0.6413
+Epoch [3/500], Step [12/45], Loss: 0.6397
+Epoch [3/500], Step [13/45], Loss: 0.6381
+Epoch [3/500], Step [14/45], Loss: 0.6366
+Epoch [3/500], Step [15/45], Loss: 0.6350
+Epoch [3/500], Step [16/45], Loss: 0.6335
+Epoch [3/500], Step [17/45], Loss: 0.6320
+Epoch [3/500], Step [18/45], Loss: 0.6304
+Epoch [3/500], Step [19/45], Loss: 0.6289
+Epoch [3/500], Step [20/45], Loss: 0.6274
+Epoch [3/500], Step [21/45], Loss: 0.6259
+Epoch [3/500], Step [22/45], Loss: 0.6245
+Epoch [3/500], Step [23/45], Loss: 0.6231
+Epoch [3/500], Step [24/45], Loss: 0.6217
+Epoch [3/500], Step [25/45], Loss: 0.6202
+Epoch [3/500], Step [26/45], Loss: 0.6187
+Epoch [3/500], Step [27/45], Loss: 0.6173
+Epoch [3/500], Step [28/45], Loss: 0.6160
+Epoch [3/500], Step [29/45], Loss: 0.6145
+Epoch [3/500], Step [30/45], Loss: 0.6131
+Epoch [3/500], Step [31/45], Loss: 0.6117
+Epoch [3/500], Step [32/45], Loss: 0.6103
+Epoch [3/500], Step [33/45], Loss: 0.6089
+Epoch [3/500], Step [34/45], Loss: 0.6077
+Epoch [3/500], Step [35/45], Loss: 0.6064
+Epoch [3/500], Step [36/45], Loss: 0.6051
+Epoch [3/500], Step [37/45], Loss: 0.6038
+Epoch [3/500], Step [38/45], Loss: 0.6025
+Epoch [3/500], Step [39/45], Loss: 0.6012
+Epoch [3/500], Step [40/45], Loss: 0.5999
+Epoch [3/500], Step [41/45], Loss: 0.5986
+Epoch [3/500], Step [42/45], Loss: 0.5973
+Epoch [3/500], Step [43/45], Loss: 0.5961
+Epoch [3/500], Step [44/45], Loss: 0.5949
+Epoch [3/500], Step [45/45], Loss: 0.5936
+Epoch [4/500], Step [1/45], Loss: 0.5925
+Epoch [4/500], Step [2/45], Loss: 0.5913
+Epoch [4/500], Step [3/45], Loss: 0.5900
+Epoch [4/500], Step [4/45], Loss: 0.5888
+Epoch [4/500], Step [5/45], Loss: 0.5876
+Epoch [4/500], Step [6/45], Loss: 0.5864
+Epoch [4/500], Step [7/45], Loss: 0.5853
+Epoch [4/500], Step [8/45], Loss: 0.5842
+Epoch [4/500], Step [9/45], Loss: 0.5831
+Epoch [4/500], Step [10/45], Loss: 0.5820
+Epoch [4/500], Step [11/45], Loss: 0.5809
+Epoch [4/500], Step [12/45], Loss: 0.5798
+Epoch [4/500], Step [13/45], Loss: 0.5787
+Epoch [4/500], Step [14/45], Loss: 0.5776
+Epoch [4/500], Step [15/45], Loss: 0.5765
+Epoch [4/500], Step [16/45], Loss: 0.5755
+Epoch [4/500], Step [17/45], Loss: 0.5744
+Epoch [4/500], Step [18/45], Loss: 0.5733
+Epoch [4/500], Step [19/45], Loss: 0.5722
+Epoch [4/500], Step [20/45], Loss: 0.5711
+Epoch [4/500], Step [21/45], Loss: 0.5701
+Epoch [4/500], Step [22/45], Loss: 0.5691
+Epoch [4/500], Step [23/45], Loss: 0.5681
+Epoch [4/500], Step [24/45], Loss: 0.5671
+Epoch [4/500], Step [25/45], Loss: 0.5660
+Epoch [4/500], Step [26/45], Loss: 0.5650
+Epoch [4/500], Step [27/45], Loss: 0.5640
+Epoch [4/500], Step [28/45], Loss: 0.5630
+Epoch [4/500], Step [29/45], Loss: 0.5619
+Epoch [4/500], Step [30/45], Loss: 0.5610
+Epoch [4/500], Step [31/45], Loss: 0.5600
+Epoch [4/500], Step [32/45], Loss: 0.5590
+Epoch [4/500], Step [33/45], Loss: 0.5580
+Epoch [4/500], Step [34/45], Loss: 0.5571
+Epoch [4/500], Step [35/45], Loss: 0.5561
+Epoch [4/500], Step [36/45], Loss: 0.5552
+Epoch [4/500], Step [37/45], Loss: 0.5542
+Epoch [4/500], Step [38/45], Loss: 0.5533
+Epoch [4/500], Step [39/45], Loss: 0.5523
+Epoch [4/500], Step [40/45], Loss: 0.5514
+Epoch [4/500], Step [41/45], Loss: 0.5504
+Epoch [4/500], Step [42/45], Loss: 0.5495
+Epoch [4/500], Step [43/45], Loss: 0.5487
+Epoch [4/500], Step [44/45], Loss: 0.5478
+Epoch [4/500], Step [45/45], Loss: 0.5469
+unique_labels:1.9065
+unique_labels:1.8945
+unique_labels:1.956
+unique_labels:1.931
+unique_labels:1.8935
+unique_labels:1.898
+unique_labels:1.918
+unique_labels:1.93
+unique_labels:1.897
+unique_labels:1.9275
+satisfied:0.33959999999999996  purity:3.3705458333333325  acc:0.7825396825396826
+Epoch [4/500], Checkpoint saved to log/weight/part8.pth satisfied:0.33959999999999996 acc:0.7825396825396826
+Epoch [5/500], Step [1/45], Loss: 0.5460
+Epoch [5/500], Step [2/45], Loss: 0.5451
+Epoch [5/500], Step [3/45], Loss: 0.5442
+Epoch [5/500], Step [4/45], Loss: 0.5433
+Epoch [5/500], Step [5/45], Loss: 0.5425
+Epoch [5/500], Step [6/45], Loss: 0.5416
+Epoch [5/500], Step [7/45], Loss: 0.5408
+Epoch [5/500], Step [8/45], Loss: 0.5399
+Epoch [5/500], Step [9/45], Loss: 0.5391
+Epoch [5/500], Step [10/45], Loss: 0.5383
+Epoch [5/500], Step [11/45], Loss: 0.5375
+Epoch [5/500], Step [12/45], Loss: 0.5367
+Epoch [5/500], Step [13/45], Loss: 0.5359
+Epoch [5/500], Step [14/45], Loss: 0.5351
+Epoch [5/500], Step [15/45], Loss: 0.5343
+Epoch [5/500], Step [16/45], Loss: 0.5335
+Epoch [5/500], Step [17/45], Loss: 0.5327
+Epoch [5/500], Step [18/45], Loss: 0.5319
+Epoch [5/500], Step [19/45], Loss: 0.5311
+Epoch [5/500], Step [20/45], Loss: 0.5304
+Epoch [5/500], Step [21/45], Loss: 0.5296
+Epoch [5/500], Step [22/45], Loss: 0.5288
+Epoch [5/500], Step [23/45], Loss: 0.5281
+Epoch [5/500], Step [24/45], Loss: 0.5273
+Epoch [5/500], Step [25/45], Loss: 0.5266
+Epoch [5/500], Step [26/45], Loss: 0.5258
+Epoch [5/500], Step [27/45], Loss: 0.5251
+Epoch [5/500], Step [28/45], Loss: 0.5243
+Epoch [5/500], Step [29/45], Loss: 0.5236
+Epoch [5/500], Step [30/45], Loss: 0.5229
+Epoch [5/500], Step [31/45], Loss: 0.5222
+Epoch [5/500], Step [32/45], Loss: 0.5214
+Epoch [5/500], Step [33/45], Loss: 0.5207
+Epoch [5/500], Step [34/45], Loss: 0.5200
+Epoch [5/500], Step [35/45], Loss: 0.5193
+Epoch [5/500], Step [36/45], Loss: 0.5186
+Epoch [5/500], Step [37/45], Loss: 0.5179
+Epoch [5/500], Step [38/45], Loss: 0.5172
+Epoch [5/500], Step [39/45], Loss: 0.5165
+Epoch [5/500], Step [40/45], Loss: 0.5158
+Epoch [5/500], Step [41/45], Loss: 0.5151
+Epoch [5/500], Step [42/45], Loss: 0.5144
+Epoch [5/500], Step [43/45], Loss: 0.5138
+Epoch [5/500], Step [44/45], Loss: 0.5131
+Epoch [5/500], Step [45/45], Loss: 0.5124
+Epoch [6/500], Step [1/45], Loss: 0.5117
+Epoch [6/500], Step [2/45], Loss: 0.5111
+Epoch [6/500], Step [3/45], Loss: 0.5104
+Epoch [6/500], Step [4/45], Loss: 0.5098
+Epoch [6/500], Step [5/45], Loss: 0.5091
+Epoch [6/500], Step [6/45], Loss: 0.5085
+Epoch [6/500], Step [7/45], Loss: 0.5078
+Epoch [6/500], Step [8/45], Loss: 0.5072
+Epoch [6/500], Step [9/45], Loss: 0.5066
+Epoch [6/500], Step [10/45], Loss: 0.5060
+Epoch [6/500], Step [11/45], Loss: 0.5053
+Epoch [6/500], Step [12/45], Loss: 0.5047
+Epoch [6/500], Step [13/45], Loss: 0.5041
+Epoch [6/500], Step [14/45], Loss: 0.5035
+Epoch [6/500], Step [15/45], Loss: 0.5029
+Epoch [6/500], Step [16/45], Loss: 0.5023
+Epoch [6/500], Step [17/45], Loss: 0.5017
+Epoch [6/500], Step [18/45], Loss: 0.5011
+Epoch [6/500], Step [19/45], Loss: 0.5005
+Epoch [6/500], Step [20/45], Loss: 0.4999
+Epoch [6/500], Step [21/45], Loss: 0.4992
+Epoch [6/500], Step [22/45], Loss: 0.4987
+Epoch [6/500], Step [23/45], Loss: 0.4981
+Epoch [6/500], Step [24/45], Loss: 0.4975
+Epoch [6/500], Step [25/45], Loss: 0.4969
+Epoch [6/500], Step [26/45], Loss: 0.4963
+Epoch [6/500], Step [27/45], Loss: 0.4958
+Epoch [6/500], Step [28/45], Loss: 0.4952
+Epoch [6/500], Step [29/45], Loss: 0.4946
+Epoch [6/500], Step [30/45], Loss: 0.4941
+Epoch [6/500], Step [31/45], Loss: 0.4935
+Epoch [6/500], Step [32/45], Loss: 0.4929
+Epoch [6/500], Step [33/45], Loss: 0.4924
+Epoch [6/500], Step [34/45], Loss: 0.4918
+Epoch [6/500], Step [35/45], Loss: 0.4913
+Epoch [6/500], Step [36/45], Loss: 0.4907
+Epoch [6/500], Step [37/45], Loss: 0.4902
+Epoch [6/500], Step [38/45], Loss: 0.4896
+Epoch [6/500], Step [39/45], Loss: 0.4891
+Epoch [6/500], Step [40/45], Loss: 0.4886
+Epoch [6/500], Step [41/45], Loss: 0.4880
+Epoch [6/500], Step [42/45], Loss: 0.4875
+Epoch [6/500], Step [43/45], Loss: 0.4869
+Epoch [6/500], Step [44/45], Loss: 0.4864
+Epoch [6/500], Step [45/45], Loss: 0.4859
+unique_labels:1.816
+unique_labels:1.848
+unique_labels:1.8335
+unique_labels:1.8405
+unique_labels:1.9225
+unique_labels:1.8375
+unique_labels:1.826
+unique_labels:1.853
+unique_labels:1.834
+unique_labels:1.8465
+satisfied:0.373  purity:3.5392808333333337  acc:0.796873015873016
+Epoch [6/500], Checkpoint saved to log/weight/part8.pth satisfied:0.373 acc:0.796873015873016
+Epoch [7/500], Step [1/45], Loss: 0.4853
+Epoch [7/500], Step [2/45], Loss: 0.4848
+Epoch [7/500], Step [3/45], Loss: 0.4843
+Epoch [7/500], Step [4/45], Loss: 0.4838
+Epoch [7/500], Step [5/45], Loss: 0.4832
+Epoch [7/500], Step [6/45], Loss: 0.4827
+Epoch [7/500], Step [7/45], Loss: 0.4822
+Epoch [7/500], Step [8/45], Loss: 0.4817
+Epoch [7/500], Step [9/45], Loss: 0.4812
+Epoch [7/500], Step [10/45], Loss: 0.4808
+Epoch [7/500], Step [11/45], Loss: 0.4803
+Epoch [7/500], Step [12/45], Loss: 0.4798
+Epoch [7/500], Step [13/45], Loss: 0.4793
+Epoch [7/500], Step [14/45], Loss: 0.4788
+Epoch [7/500], Step [15/45], Loss: 0.4783
+Epoch [7/500], Step [16/45], Loss: 0.4778
+Epoch [7/500], Step [17/45], Loss: 0.4773
+Epoch [7/500], Step [18/45], Loss: 0.4768
+Epoch [7/500], Step [19/45], Loss: 0.4763
+Epoch [7/500], Step [20/45], Loss: 0.4759
+Epoch [7/500], Step [21/45], Loss: 0.4754
+Epoch [7/500], Step [22/45], Loss: 0.4749
+Epoch [7/500], Step [23/45], Loss: 0.4745
+Epoch [7/500], Step [24/45], Loss: 0.4740
+Epoch [7/500], Step [25/45], Loss: 0.4735
+Epoch [7/500], Step [26/45], Loss: 0.4730
+Epoch [7/500], Step [27/45], Loss: 0.4726
+Epoch [7/500], Step [28/45], Loss: 0.4721
+Epoch [7/500], Step [29/45], Loss: 0.4717
+Epoch [7/500], Step [30/45], Loss: 0.4712
+Epoch [7/500], Step [31/45], Loss: 0.4708
+Epoch [7/500], Step [32/45], Loss: 0.4703
+Epoch [7/500], Step [33/45], Loss: 0.4698
+Epoch [7/500], Step [34/45], Loss: 0.4694
+Epoch [7/500], Step [35/45], Loss: 0.4689
+Epoch [7/500], Step [36/45], Loss: 0.4684
+Epoch [7/500], Step [37/45], Loss: 0.4680
+Epoch [7/500], Step [38/45], Loss: 0.4675
+Epoch [7/500], Step [39/45], Loss: 0.4671
+Epoch [7/500], Step [40/45], Loss: 0.4666
+Epoch [7/500], Step [41/45], Loss: 0.4661
+Epoch [7/500], Step [42/45], Loss: 0.4657
+Epoch [7/500], Step [43/45], Loss: 0.4653
+Epoch [7/500], Step [44/45], Loss: 0.4648
+Epoch [7/500], Step [45/45], Loss: 0.4644
+Epoch [8/500], Step [1/45], Loss: 0.4640
+Epoch [8/500], Step [2/45], Loss: 0.4636
+Epoch [8/500], Step [3/45], Loss: 0.4631
+Epoch [8/500], Step [4/45], Loss: 0.4627
+Epoch [8/500], Step [5/45], Loss: 0.4623
+Epoch [8/500], Step [6/45], Loss: 0.4619
+Epoch [8/500], Step [7/45], Loss: 0.4615
+Epoch [8/500], Step [8/45], Loss: 0.4610
+Epoch [8/500], Step [9/45], Loss: 0.4606
+Epoch [8/500], Step [10/45], Loss: 0.4602
+Epoch [8/500], Step [11/45], Loss: 0.4598
+Epoch [8/500], Step [12/45], Loss: 0.4594
+Epoch [8/500], Step [13/45], Loss: 0.4589
+Epoch [8/500], Step [14/45], Loss: 0.4585
+Epoch [8/500], Step [15/45], Loss: 0.4582
+Epoch [8/500], Step [16/45], Loss: 0.4577
+Epoch [8/500], Step [17/45], Loss: 0.4573
+Epoch [8/500], Step [18/45], Loss: 0.4569
+Epoch [8/500], Step [19/45], Loss: 0.4565
+Epoch [8/500], Step [20/45], Loss: 0.4562
+Epoch [8/500], Step [21/45], Loss: 0.4558
+Epoch [8/500], Step [22/45], Loss: 0.4554
+Epoch [8/500], Step [23/45], Loss: 0.4550
+Epoch [8/500], Step [24/45], Loss: 0.4546
+Epoch [8/500], Step [25/45], Loss: 0.4542
+Epoch [8/500], Step [26/45], Loss: 0.4538
+Epoch [8/500], Step [27/45], Loss: 0.4534
+Epoch [8/500], Step [28/45], Loss: 0.4530
+Epoch [8/500], Step [29/45], Loss: 0.4527
+Epoch [8/500], Step [30/45], Loss: 0.4523
+Epoch [8/500], Step [31/45], Loss: 0.4519
+Epoch [8/500], Step [32/45], Loss: 0.4515
+Epoch [8/500], Step [33/45], Loss: 0.4511
+Epoch [8/500], Step [34/45], Loss: 0.4508
+Epoch [8/500], Step [35/45], Loss: 0.4504
+Epoch [8/500], Step [36/45], Loss: 0.4500
+Epoch [8/500], Step [37/45], Loss: 0.4496
+Epoch [8/500], Step [38/45], Loss: 0.4493
+Epoch [8/500], Step [39/45], Loss: 0.4489
+Epoch [8/500], Step [40/45], Loss: 0.4485
+Epoch [8/500], Step [41/45], Loss: 0.4481
+Epoch [8/500], Step [42/45], Loss: 0.4478
+Epoch [8/500], Step [43/45], Loss: 0.4474
+Epoch [8/500], Step [44/45], Loss: 0.4471
+Epoch [8/500], Step [45/45], Loss: 0.4467
+unique_labels:1.866
+unique_labels:1.857
+unique_labels:1.811
+unique_labels:1.847
+unique_labels:1.8105
+unique_labels:1.843
+unique_labels:1.8735
+unique_labels:1.852
+unique_labels:1.855
+unique_labels:1.8025
+satisfied:0.37374999999999997  purity:3.549578333333333  acc:0.7992460317460317
+Epoch [8/500], Checkpoint saved to log/weight/part8.pth satisfied:0.37374999999999997 acc:0.7992460317460317
+Epoch [9/500], Step [1/45], Loss: 0.4464
+Epoch [9/500], Step [2/45], Loss: 0.4460
+Epoch [9/500], Step [3/45], Loss: 0.4456
+Epoch [9/500], Step [4/45], Loss: 0.4453
+Epoch [9/500], Step [5/45], Loss: 0.4449
+Epoch [9/500], Step [6/45], Loss: 0.4446
+Epoch [9/500], Step [7/45], Loss: 0.4443
+Epoch [9/500], Step [8/45], Loss: 0.4439
+Epoch [9/500], Step [9/45], Loss: 0.4436
+Epoch [9/500], Step [10/45], Loss: 0.4432
+Epoch [9/500], Step [11/45], Loss: 0.4429
+Epoch [9/500], Step [12/45], Loss: 0.4425
+Epoch [9/500], Step [13/45], Loss: 0.4422
+Epoch [9/500], Step [14/45], Loss: 0.4419
+Epoch [9/500], Step [15/45], Loss: 0.4415
+Epoch [9/500], Step [16/45], Loss: 0.4412
+Epoch [9/500], Step [17/45], Loss: 0.4409
+Epoch [9/500], Step [18/45], Loss: 0.4405
+Epoch [9/500], Step [19/45], Loss: 0.4402
+Epoch [9/500], Step [20/45], Loss: 0.4399
+Epoch [9/500], Step [21/45], Loss: 0.4395
+Epoch [9/500], Step [22/45], Loss: 0.4392
+Epoch [9/500], Step [23/45], Loss: 0.4389
+Epoch [9/500], Step [24/45], Loss: 0.4386
+Epoch [9/500], Step [25/45], Loss: 0.4382
+Epoch [9/500], Step [26/45], Loss: 0.4379
+Epoch [9/500], Step [27/45], Loss: 0.4376
+Epoch [9/500], Step [28/45], Loss: 0.4373
+Epoch [9/500], Step [29/45], Loss: 0.4369
+Epoch [9/500], Step [30/45], Loss: 0.4366
+Epoch [9/500], Step [31/45], Loss: 0.4363
+Epoch [9/500], Step [32/45], Loss: 0.4359
+Epoch [9/500], Step [33/45], Loss: 0.4356
+Epoch [9/500], Step [34/45], Loss: 0.4353
+Epoch [9/500], Step [35/45], Loss: 0.4350
+Epoch [9/500], Step [36/45], Loss: 0.4347
+Epoch [9/500], Step [37/45], Loss: 0.4344
+Epoch [9/500], Step [38/45], Loss: 0.4341
+Epoch [9/500], Step [39/45], Loss: 0.4338
+Epoch [9/500], Step [40/45], Loss: 0.4335
+Epoch [9/500], Step [41/45], Loss: 0.4331
+Epoch [9/500], Step [42/45], Loss: 0.4328
+Epoch [9/500], Step [43/45], Loss: 0.4325
+Epoch [9/500], Step [44/45], Loss: 0.4322
+Epoch [9/500], Step [45/45], Loss: 0.4319
+Epoch [10/500], Step [1/45], Loss: 0.4316
+Epoch [10/500], Step [2/45], Loss: 0.4313
+Epoch [10/500], Step [3/45], Loss: 0.4310
+Epoch [10/500], Step [4/45], Loss: 0.4307
+Epoch [10/500], Step [5/45], Loss: 0.4304
+Epoch [10/500], Step [6/45], Loss: 0.4301
+Epoch [10/500], Step [7/45], Loss: 0.4298
+Epoch [10/500], Step [8/45], Loss: 0.4296
+Epoch [10/500], Step [9/45], Loss: 0.4293
+Epoch [10/500], Step [10/45], Loss: 0.4290
+Epoch [10/500], Step [11/45], Loss: 0.4287
+Epoch [10/500], Step [12/45], Loss: 0.4284
+Epoch [10/500], Step [13/45], Loss: 0.4281
+Epoch [10/500], Step [14/45], Loss: 0.4278
+Epoch [10/500], Step [15/45], Loss: 0.4275
+Epoch [10/500], Step [16/45], Loss: 0.4273
+Epoch [10/500], Step [17/45], Loss: 0.4270
+Epoch [10/500], Step [18/45], Loss: 0.4267
+Epoch [10/500], Step [19/45], Loss: 0.4264
+Epoch [10/500], Step [20/45], Loss: 0.4261
+Epoch [10/500], Step [21/45], Loss: 0.4258
+Epoch [10/500], Step [22/45], Loss: 0.4256
+Epoch [10/500], Step [23/45], Loss: 0.4253
+Epoch [10/500], Step [24/45], Loss: 0.4250
+Epoch [10/500], Step [25/45], Loss: 0.4247
+Epoch [10/500], Step [26/45], Loss: 0.4244
+Epoch [10/500], Step [27/45], Loss: 0.4242
+Epoch [10/500], Step [28/45], Loss: 0.4239
+Epoch [10/500], Step [29/45], Loss: 0.4236
+Epoch [10/500], Step [30/45], Loss: 0.4234
+Epoch [10/500], Step [31/45], Loss: 0.4231
+Epoch [10/500], Step [32/45], Loss: 0.4228
+Epoch [10/500], Step [33/45], Loss: 0.4225
+Epoch [10/500], Step [34/45], Loss: 0.4223
+Epoch [10/500], Step [35/45], Loss: 0.4220
+Epoch [10/500], Step [36/45], Loss: 0.4217
+Epoch [10/500], Step [37/45], Loss: 0.4215
+Epoch [10/500], Step [38/45], Loss: 0.4212
+Epoch [10/500], Step [39/45], Loss: 0.4210
+Epoch [10/500], Step [40/45], Loss: 0.4207
+Epoch [10/500], Step [41/45], Loss: 0.4204
+Epoch [10/500], Step [42/45], Loss: 0.4201
+Epoch [10/500], Step [43/45], Loss: 0.4199
+Epoch [10/500], Step [44/45], Loss: 0.4196
+Epoch [10/500], Step [45/45], Loss: 0.4194
+unique_labels:1.803
+unique_labels:1.795
+unique_labels:1.839
+unique_labels:1.838
+unique_labels:1.813
+unique_labels:1.817
+unique_labels:1.847
+unique_labels:1.8225
+unique_labels:1.797
+unique_labels:1.828
+satisfied:0.3899  purity:3.62118  acc:0.8053412698412699
+Epoch [10/500], Checkpoint saved to log/weight/part8.pth satisfied:0.3899 acc:0.8053412698412699
+Epoch [11/500], Step [1/45], Loss: 0.4191
+Epoch [11/500], Step [2/45], Loss: 0.4189
+Epoch [11/500], Step [3/45], Loss: 0.4186
+Epoch [11/500], Step [4/45], Loss: 0.4183
+Epoch [11/500], Step [5/45], Loss: 0.4181
+Epoch [11/500], Step [6/45], Loss: 0.4178
+Epoch [11/500], Step [7/45], Loss: 0.4176
+Epoch [11/500], Step [8/45], Loss: 0.4173
+Epoch [11/500], Step [9/45], Loss: 0.4171
+Epoch [11/500], Step [10/45], Loss: 0.4168
+Epoch [11/500], Step [11/45], Loss: 0.4166
+Epoch [11/500], Step [12/45], Loss: 0.4164
+Epoch [11/500], Step [13/45], Loss: 0.4161
+Epoch [11/500], Step [14/45], Loss: 0.4159
+Epoch [11/500], Step [15/45], Loss: 0.4156
+Epoch [11/500], Step [16/45], Loss: 0.4154
+Epoch [11/500], Step [17/45], Loss: 0.4151
+Epoch [11/500], Step [18/45], Loss: 0.4149
+Epoch [11/500], Step [19/45], Loss: 0.4146
+Epoch [11/500], Step [20/45], Loss: 0.4144
+Epoch [11/500], Step [21/45], Loss: 0.4141
+Epoch [11/500], Step [22/45], Loss: 0.4139
+Epoch [11/500], Step [23/45], Loss: 0.4136
+Epoch [11/500], Step [24/45], Loss: 0.4134
+Epoch [11/500], Step [25/45], Loss: 0.4131
+Epoch [11/500], Step [26/45], Loss: 0.4129
+Epoch [11/500], Step [27/45], Loss: 0.4127
+Epoch [11/500], Step [28/45], Loss: 0.4124
+Epoch [11/500], Step [29/45], Loss: 0.4122
+Epoch [11/500], Step [30/45], Loss: 0.4120
+Epoch [11/500], Step [31/45], Loss: 0.4117
+Epoch [11/500], Step [32/45], Loss: 0.4115
+Epoch [11/500], Step [33/45], Loss: 0.4112
+Epoch [11/500], Step [34/45], Loss: 0.4110
+Epoch [11/500], Step [35/45], Loss: 0.4108
+Epoch [11/500], Step [36/45], Loss: 0.4105
+Epoch [11/500], Step [37/45], Loss: 0.4103
+Epoch [11/500], Step [38/45], Loss: 0.4101
+Epoch [11/500], Step [39/45], Loss: 0.4098
+Epoch [11/500], Step [40/45], Loss: 0.4096
+Epoch [11/500], Step [41/45], Loss: 0.4094
+Epoch [11/500], Step [42/45], Loss: 0.4091
+Epoch [11/500], Step [43/45], Loss: 0.4089
+Epoch [11/500], Step [44/45], Loss: 0.4087
+Epoch [11/500], Step [45/45], Loss: 0.4085
+Epoch [12/500], Step [1/45], Loss: 0.4083
+Epoch [12/500], Step [2/45], Loss: 0.4080
+Epoch [12/500], Step [3/45], Loss: 0.4078
+Epoch [12/500], Step [4/45], Loss: 0.4076
+Epoch [12/500], Step [5/45], Loss: 0.4073
+Epoch [12/500], Step [6/45], Loss: 0.4071
+Epoch [12/500], Step [7/45], Loss: 0.4069
+Epoch [12/500], Step [8/45], Loss: 0.4067
+Epoch [12/500], Step [9/45], Loss: 0.4065
+Epoch [12/500], Step [10/45], Loss: 0.4062
+Epoch [12/500], Step [11/45], Loss: 0.4060
+Epoch [12/500], Step [12/45], Loss: 0.4058
+Epoch [12/500], Step [13/45], Loss: 0.4056
+Epoch [12/500], Step [14/45], Loss: 0.4054
+Epoch [12/500], Step [15/45], Loss: 0.4051
+Epoch [12/500], Step [16/45], Loss: 0.4049
+Epoch [12/500], Step [17/45], Loss: 0.4047
+Epoch [12/500], Step [18/45], Loss: 0.4045
+Epoch [12/500], Step [19/45], Loss: 0.4043
+Epoch [12/500], Step [20/45], Loss: 0.4041
+Epoch [12/500], Step [21/45], Loss: 0.4038
+Epoch [12/500], Step [22/45], Loss: 0.4036
+Epoch [12/500], Step [23/45], Loss: 0.4034
+Epoch [12/500], Step [24/45], Loss: 0.4032
+Epoch [12/500], Step [25/45], Loss: 0.4030
+Epoch [12/500], Step [26/45], Loss: 0.4027
+Epoch [12/500], Step [27/45], Loss: 0.4025
+Epoch [12/500], Step [28/45], Loss: 0.4023
+Epoch [12/500], Step [29/45], Loss: 0.4021
+Epoch [12/500], Step [30/45], Loss: 0.4019
+Epoch [12/500], Step [31/45], Loss: 0.4017
+Epoch [12/500], Step [32/45], Loss: 0.4015
+Epoch [12/500], Step [33/45], Loss: 0.4013
+Epoch [12/500], Step [34/45], Loss: 0.4011
+Epoch [12/500], Step [35/45], Loss: 0.4009
+Epoch [12/500], Step [36/45], Loss: 0.4007
+Epoch [12/500], Step [37/45], Loss: 0.4005
+Epoch [12/500], Step [38/45], Loss: 0.4003
+Epoch [12/500], Step [39/45], Loss: 0.4001
+Epoch [12/500], Step [40/45], Loss: 0.3998
+Epoch [12/500], Step [41/45], Loss: 0.3996
+Epoch [12/500], Step [42/45], Loss: 0.3994
+Epoch [12/500], Step [43/45], Loss: 0.3992
+Epoch [12/500], Step [44/45], Loss: 0.3990
+Epoch [12/500], Step [45/45], Loss: 0.3988
+unique_labels:1.772
+unique_labels:1.7945
+unique_labels:1.803
+unique_labels:1.7825
+unique_labels:1.7675
+unique_labels:1.7975
+unique_labels:1.7735
+unique_labels:1.784
+unique_labels:1.81
+unique_labels:1.7995
+satisfied:0.4074  purity:3.7135716666666667  acc:0.8127380952380954
+Epoch [12/500], Checkpoint saved to log/weight/part8.pth satisfied:0.4074 acc:0.8127380952380954
+Epoch [13/500], Step [1/45], Loss: 0.3986
+Epoch [13/500], Step [2/45], Loss: 0.3984
+Epoch [13/500], Step [3/45], Loss: 0.3982
+Epoch [13/500], Step [4/45], Loss: 0.3980
+Epoch [13/500], Step [5/45], Loss: 0.3978
+Epoch [13/500], Step [6/45], Loss: 0.3976
+Epoch [13/500], Step [7/45], Loss: 0.3974
+Epoch [13/500], Step [8/45], Loss: 0.3972
+Epoch [13/500], Step [9/45], Loss: 0.3970
+Epoch [13/500], Step [10/45], Loss: 0.3968
+Epoch [13/500], Step [11/45], Loss: 0.3966
+Epoch [13/500], Step [12/45], Loss: 0.3965
+Epoch [13/500], Step [13/45], Loss: 0.3963
+Epoch [13/500], Step [14/45], Loss: 0.3961
+Epoch [13/500], Step [15/45], Loss: 0.3959
+Epoch [13/500], Step [16/45], Loss: 0.3957
+Epoch [13/500], Step [17/45], Loss: 0.3955
+Epoch [13/500], Step [18/45], Loss: 0.3953
+Epoch [13/500], Step [19/45], Loss: 0.3951
+Epoch [13/500], Step [20/45], Loss: 0.3949
+Epoch [13/500], Step [21/45], Loss: 0.3947
+Epoch [13/500], Step [22/45], Loss: 0.3945
+Epoch [13/500], Step [23/45], Loss: 0.3943
+Epoch [13/500], Step [24/45], Loss: 0.3942
+Epoch [13/500], Step [25/45], Loss: 0.3940
+Epoch [13/500], Step [26/45], Loss: 0.3938
+Epoch [13/500], Step [27/45], Loss: 0.3936
+Epoch [13/500], Step [28/45], Loss: 0.3934
+Epoch [13/500], Step [29/45], Loss: 0.3932
+Epoch [13/500], Step [30/45], Loss: 0.3930
+Epoch [13/500], Step [31/45], Loss: 0.3929
+Epoch [13/500], Step [32/45], Loss: 0.3927
+Epoch [13/500], Step [33/45], Loss: 0.3925
+Epoch [13/500], Step [34/45], Loss: 0.3923
+Epoch [13/500], Step [35/45], Loss: 0.3921
+Epoch [13/500], Step [36/45], Loss: 0.3920
+Epoch [13/500], Step [37/45], Loss: 0.3918
+Epoch [13/500], Step [38/45], Loss: 0.3916
+Epoch [13/500], Step [39/45], Loss: 0.3914
+Epoch [13/500], Step [40/45], Loss: 0.3912
+Epoch [13/500], Step [41/45], Loss: 0.3910
+Epoch [13/500], Step [42/45], Loss: 0.3908
+Epoch [13/500], Step [43/45], Loss: 0.3907
+Epoch [13/500], Step [44/45], Loss: 0.3905
+Epoch [13/500], Step [45/45], Loss: 0.3903
+Epoch [14/500], Step [1/45], Loss: 0.3901
+Epoch [14/500], Step [2/45], Loss: 0.3899
+Epoch [14/500], Step [3/45], Loss: 0.3898
+Epoch [14/500], Step [4/45], Loss: 0.3896
+Epoch [14/500], Step [5/45], Loss: 0.3894
+Epoch [14/500], Step [6/45], Loss: 0.3892
+Epoch [14/500], Step [7/45], Loss: 0.3890
+Epoch [14/500], Step [8/45], Loss: 0.3889
+Epoch [14/500], Step [9/45], Loss: 0.3887
+Epoch [14/500], Step [10/45], Loss: 0.3885
+Epoch [14/500], Step [11/45], Loss: 0.3883
+Epoch [14/500], Step [12/45], Loss: 0.3882
+Epoch [14/500], Step [13/45], Loss: 0.3880
+Epoch [14/500], Step [14/45], Loss: 0.3878
+Epoch [14/500], Step [15/45], Loss: 0.3877
+Epoch [14/500], Step [16/45], Loss: 0.3875
+Epoch [14/500], Step [17/45], Loss: 0.3873
+Epoch [14/500], Step [18/45], Loss: 0.3872
+Epoch [14/500], Step [19/45], Loss: 0.3870
+Epoch [14/500], Step [20/45], Loss: 0.3868
+Epoch [14/500], Step [21/45], Loss: 0.3867
+Epoch [14/500], Step [22/45], Loss: 0.3865
+Epoch [14/500], Step [23/45], Loss: 0.3863
+Epoch [14/500], Step [24/45], Loss: 0.3861
+Epoch [14/500], Step [25/45], Loss: 0.3860
+Epoch [14/500], Step [26/45], Loss: 0.3858
+Epoch [14/500], Step [27/45], Loss: 0.3856
+Epoch [14/500], Step [28/45], Loss: 0.3855
+Epoch [14/500], Step [29/45], Loss: 0.3853
+Epoch [14/500], Step [30/45], Loss: 0.3851
+Epoch [14/500], Step [31/45], Loss: 0.3850
+Epoch [14/500], Step [32/45], Loss: 0.3848
+Epoch [14/500], Step [33/45], Loss: 0.3847
+Epoch [14/500], Step [34/45], Loss: 0.3845
+Epoch [14/500], Step [35/45], Loss: 0.3843
+Epoch [14/500], Step [36/45], Loss: 0.3842
+Epoch [14/500], Step [37/45], Loss: 0.3840
+Epoch [14/500], Step [38/45], Loss: 0.3838
+Epoch [14/500], Step [39/45], Loss: 0.3837
+Epoch [14/500], Step [40/45], Loss: 0.3835
+Epoch [14/500], Step [41/45], Loss: 0.3833
+Epoch [14/500], Step [42/45], Loss: 0.3832
+Epoch [14/500], Step [43/45], Loss: 0.3830
+Epoch [14/500], Step [44/45], Loss: 0.3828
+Epoch [14/500], Step [45/45], Loss: 0.3827
+unique_labels:1.791
+unique_labels:1.771
+unique_labels:1.759
+unique_labels:1.744
+unique_labels:1.8015
+unique_labels:1.7835
+unique_labels:1.715
+unique_labels:1.786
+unique_labels:1.7855
+unique_labels:1.805
+satisfied:0.41535  purity:3.7512999999999996  acc:0.8177539682539683
+Epoch [14/500], Checkpoint saved to log/weight/part8.pth satisfied:0.41535 acc:0.8177539682539683
+Epoch [15/500], Step [1/45], Loss: 0.3825
+Epoch [15/500], Step [2/45], Loss: 0.3823
+Epoch [15/500], Step [3/45], Loss: 0.3822
+Epoch [15/500], Step [4/45], Loss: 0.3820
+Epoch [15/500], Step [5/45], Loss: 0.3818
+Epoch [15/500], Step [6/45], Loss: 0.3817
+Epoch [15/500], Step [7/45], Loss: 0.3815
+Epoch [15/500], Step [8/45], Loss: 0.3814
+Epoch [15/500], Step [9/45], Loss: 0.3812
+Epoch [15/500], Step [10/45], Loss: 0.3811
+Epoch [15/500], Step [11/45], Loss: 0.3809
+Epoch [15/500], Step [12/45], Loss: 0.3807
+Epoch [15/500], Step [13/45], Loss: 0.3806
+Epoch [15/500], Step [14/45], Loss: 0.3804
+Epoch [15/500], Step [15/45], Loss: 0.3803
+Epoch [15/500], Step [16/45], Loss: 0.3801
+Epoch [15/500], Step [17/45], Loss: 0.3800
+Epoch [15/500], Step [18/45], Loss: 0.3798
+Epoch [15/500], Step [19/45], Loss: 0.3797
+Epoch [15/500], Step [20/45], Loss: 0.3795
+Epoch [15/500], Step [21/45], Loss: 0.3794
+Epoch [15/500], Step [22/45], Loss: 0.3792
+Epoch [15/500], Step [23/45], Loss: 0.3790
+Epoch [15/500], Step [24/45], Loss: 0.3789
+Epoch [15/500], Step [25/45], Loss: 0.3787
+Epoch [15/500], Step [26/45], Loss: 0.3786
+Epoch [15/500], Step [27/45], Loss: 0.3784
+Epoch [15/500], Step [28/45], Loss: 0.3783
+Epoch [15/500], Step [29/45], Loss: 0.3781
+Epoch [15/500], Step [30/45], Loss: 0.3780
+Epoch [15/500], Step [31/45], Loss: 0.3778
+Epoch [15/500], Step [32/45], Loss: 0.3777
+Epoch [15/500], Step [33/45], Loss: 0.3775
+Epoch [15/500], Step [34/45], Loss: 0.3774
+Epoch [15/500], Step [35/45], Loss: 0.3772
+Epoch [15/500], Step [36/45], Loss: 0.3771
+Epoch [15/500], Step [37/45], Loss: 0.3769
+Epoch [15/500], Step [38/45], Loss: 0.3768
+Epoch [15/500], Step [39/45], Loss: 0.3766
+Epoch [15/500], Step [40/45], Loss: 0.3765
+Epoch [15/500], Step [41/45], Loss: 0.3763
+Epoch [15/500], Step [42/45], Loss: 0.3762
+Epoch [15/500], Step [43/45], Loss: 0.3760
+Epoch [15/500], Step [44/45], Loss: 0.3759
+Epoch [15/500], Step [45/45], Loss: 0.3757
+Epoch [16/500], Step [1/45], Loss: 0.3756
+Epoch [16/500], Step [2/45], Loss: 0.3754
+Epoch [16/500], Step [3/45], Loss: 0.3753
+Epoch [16/500], Step [4/45], Loss: 0.3751
+Epoch [16/500], Step [5/45], Loss: 0.3750
+Epoch [16/500], Step [6/45], Loss: 0.3748
+Epoch [16/500], Step [7/45], Loss: 0.3747
+Epoch [16/500], Step [8/45], Loss: 0.3745
+Epoch [16/500], Step [9/45], Loss: 0.3744
+Epoch [16/500], Step [10/45], Loss: 0.3742
+Epoch [16/500], Step [11/45], Loss: 0.3741
+Epoch [16/500], Step [12/45], Loss: 0.3740
+Epoch [16/500], Step [13/45], Loss: 0.3738
+Epoch [16/500], Step [14/45], Loss: 0.3737
+Epoch [16/500], Step [15/45], Loss: 0.3735
+Epoch [16/500], Step [16/45], Loss: 0.3734
+Epoch [16/500], Step [17/45], Loss: 0.3732
+Epoch [16/500], Step [18/45], Loss: 0.3731
+Epoch [16/500], Step [19/45], Loss: 0.3729
+Epoch [16/500], Step [20/45], Loss: 0.3728
+Epoch [16/500], Step [21/45], Loss: 0.3727
+Epoch [16/500], Step [22/45], Loss: 0.3725
+Epoch [16/500], Step [23/45], Loss: 0.3724
+Epoch [16/500], Step [24/45], Loss: 0.3722
+Epoch [16/500], Step [25/45], Loss: 0.3721
+Epoch [16/500], Step [26/45], Loss: 0.3719
+Epoch [16/500], Step [27/45], Loss: 0.3718
+Epoch [16/500], Step [28/45], Loss: 0.3717
+Epoch [16/500], Step [29/45], Loss: 0.3715
+Epoch [16/500], Step [30/45], Loss: 0.3714
+Epoch [16/500], Step [31/45], Loss: 0.3712
+Epoch [16/500], Step [32/45], Loss: 0.3711
+Epoch [16/500], Step [33/45], Loss: 0.3710
+Epoch [16/500], Step [34/45], Loss: 0.3708
+Epoch [16/500], Step [35/45], Loss: 0.3707
+Epoch [16/500], Step [36/45], Loss: 0.3705
+Epoch [16/500], Step [37/45], Loss: 0.3704
+Epoch [16/500], Step [38/45], Loss: 0.3703
+Epoch [16/500], Step [39/45], Loss: 0.3701
+Epoch [16/500], Step [40/45], Loss: 0.3700
+Epoch [16/500], Step [41/45], Loss: 0.3698
+Epoch [16/500], Step [42/45], Loss: 0.3697
+Epoch [16/500], Step [43/45], Loss: 0.3696
+Epoch [16/500], Step [44/45], Loss: 0.3694
+Epoch [16/500], Step [45/45], Loss: 0.3693
+unique_labels:1.7655
+unique_labels:1.8065
+unique_labels:1.745
+unique_labels:1.777
+unique_labels:1.765
+unique_labels:1.7285
+unique_labels:1.7795
+unique_labels:1.78
+unique_labels:1.768
+unique_labels:1.787
+satisfied:0.4160500000000001  purity:3.7604825000000006  acc:0.8180317460317461
+Epoch [16/500], Checkpoint saved to log/weight/part8.pth satisfied:0.4160500000000001 acc:0.8180317460317461
+Epoch [17/500], Step [1/45], Loss: 0.3691
+Epoch [17/500], Step [2/45], Loss: 0.3690
+Epoch [17/500], Step [3/45], Loss: 0.3689
+Epoch [17/500], Step [4/45], Loss: 0.3687
+Epoch [17/500], Step [5/45], Loss: 0.3686
+Epoch [17/500], Step [6/45], Loss: 0.3684
+Epoch [17/500], Step [7/45], Loss: 0.3683
+Epoch [17/500], Step [8/45], Loss: 0.3682
+Epoch [17/500], Step [9/45], Loss: 0.3680
+Epoch [17/500], Step [10/45], Loss: 0.3679
+Epoch [17/500], Step [11/45], Loss: 0.3678
+Epoch [17/500], Step [12/45], Loss: 0.3676
+Epoch [17/500], Step [13/45], Loss: 0.3675
+Epoch [17/500], Step [14/45], Loss: 0.3674
+Epoch [17/500], Step [15/45], Loss: 0.3673
+Epoch [17/500], Step [16/45], Loss: 0.3671
+Epoch [17/500], Step [17/45], Loss: 0.3670
+Epoch [17/500], Step [18/45], Loss: 0.3669
+Epoch [17/500], Step [19/45], Loss: 0.3667
+Epoch [17/500], Step [20/45], Loss: 0.3666
+Epoch [17/500], Step [21/45], Loss: 0.3665
+Epoch [17/500], Step [22/45], Loss: 0.3663
+Epoch [17/500], Step [23/45], Loss: 0.3662
+Epoch [17/500], Step [24/45], Loss: 0.3661
+Epoch [17/500], Step [25/45], Loss: 0.3659
+Epoch [17/500], Step [26/45], Loss: 0.3658
+Epoch [17/500], Step [27/45], Loss: 0.3657
+Epoch [17/500], Step [28/45], Loss: 0.3655
+Epoch [17/500], Step [29/45], Loss: 0.3654
+Epoch [17/500], Step [30/45], Loss: 0.3653
+Epoch [17/500], Step [31/45], Loss: 0.3651
+Epoch [17/500], Step [32/45], Loss: 0.3650
+Epoch [17/500], Step [33/45], Loss: 0.3649
+Epoch [17/500], Step [34/45], Loss: 0.3648
+Epoch [17/500], Step [35/45], Loss: 0.3646
+Epoch [17/500], Step [36/45], Loss: 0.3645
+Epoch [17/500], Step [37/45], Loss: 0.3644
+Epoch [17/500], Step [38/45], Loss: 0.3643
+Epoch [17/500], Step [39/45], Loss: 0.3641
+Epoch [17/500], Step [40/45], Loss: 0.3640
+Epoch [17/500], Step [41/45], Loss: 0.3639
+Epoch [17/500], Step [42/45], Loss: 0.3637
+Epoch [17/500], Step [43/45], Loss: 0.3636
+Epoch [17/500], Step [44/45], Loss: 0.3635
+Epoch [17/500], Step [45/45], Loss: 0.3633
+Epoch [18/500], Step [1/45], Loss: 0.3632
+Epoch [18/500], Step [2/45], Loss: 0.3631
+Epoch [18/500], Step [3/45], Loss: 0.3629
+Epoch [18/500], Step [4/45], Loss: 0.3628
+Epoch [18/500], Step [5/45], Loss: 0.3627
+Epoch [18/500], Step [6/45], Loss: 0.3625
+Epoch [18/500], Step [7/45], Loss: 0.3624
+Epoch [18/500], Step [8/45], Loss: 0.3623
+Epoch [18/500], Step [9/45], Loss: 0.3622
+Epoch [18/500], Step [10/45], Loss: 0.3620
+Epoch [18/500], Step [11/45], Loss: 0.3619
+Epoch [18/500], Step [12/45], Loss: 0.3618
+Epoch [18/500], Step [13/45], Loss: 0.3617
+Epoch [18/500], Step [14/45], Loss: 0.3616
+Epoch [18/500], Step [15/45], Loss: 0.3614
+Epoch [18/500], Step [16/45], Loss: 0.3613
+Epoch [18/500], Step [17/45], Loss: 0.3612
+Epoch [18/500], Step [18/45], Loss: 0.3611
+Epoch [18/500], Step [19/45], Loss: 0.3610
+Epoch [18/500], Step [20/45], Loss: 0.3608
+Epoch [18/500], Step [21/45], Loss: 0.3607
+Epoch [18/500], Step [22/45], Loss: 0.3606
+Epoch [18/500], Step [23/45], Loss: 0.3605
+Epoch [18/500], Step [24/45], Loss: 0.3603
+Epoch [18/500], Step [25/45], Loss: 0.3602
+Epoch [18/500], Step [26/45], Loss: 0.3601
+Epoch [18/500], Step [27/45], Loss: 0.3600
+Epoch [18/500], Step [28/45], Loss: 0.3598
+Epoch [18/500], Step [29/45], Loss: 0.3597
+Epoch [18/500], Step [30/45], Loss: 0.3596
+Epoch [18/500], Step [31/45], Loss: 0.3595
+Epoch [18/500], Step [32/45], Loss: 0.3594
+Epoch [18/500], Step [33/45], Loss: 0.3592
+Epoch [18/500], Step [34/45], Loss: 0.3591
+Epoch [18/500], Step [35/45], Loss: 0.3590
+Epoch [18/500], Step [36/45], Loss: 0.3589
+Epoch [18/500], Step [37/45], Loss: 0.3588
+Epoch [18/500], Step [38/45], Loss: 0.3587
+Epoch [18/500], Step [39/45], Loss: 0.3586
+Epoch [18/500], Step [40/45], Loss: 0.3584
+Epoch [18/500], Step [41/45], Loss: 0.3583
+Epoch [18/500], Step [42/45], Loss: 0.3582
+Epoch [18/500], Step [43/45], Loss: 0.3581
+Epoch [18/500], Step [44/45], Loss: 0.3580
+Epoch [18/500], Step [45/45], Loss: 0.3578
+unique_labels:1.7165
+unique_labels:1.762
+unique_labels:1.724
+unique_labels:1.757
+unique_labels:1.7705
+unique_labels:1.7715
+unique_labels:1.7485
+unique_labels:1.7925
+unique_labels:1.7585
+unique_labels:1.825
+satisfied:0.4239  purity:3.7910391666666663  acc:0.8196507936507936
+Epoch [18/500], Checkpoint saved to log/weight/part8.pth satisfied:0.4239 acc:0.8196507936507936
+Epoch [19/500], Step [1/45], Loss: 0.3577
+Epoch [19/500], Step [2/45], Loss: 0.3576
+Epoch [19/500], Step [3/45], Loss: 0.3575
+Epoch [19/500], Step [4/45], Loss: 0.3574
+Epoch [19/500], Step [5/45], Loss: 0.3572
+Epoch [19/500], Step [6/45], Loss: 0.3571
+Epoch [19/500], Step [7/45], Loss: 0.3570
+Epoch [19/500], Step [8/45], Loss: 0.3569
+Epoch [19/500], Step [9/45], Loss: 0.3568
+Epoch [19/500], Step [10/45], Loss: 0.3567
+Epoch [19/500], Step [11/45], Loss: 0.3566
+Epoch [19/500], Step [12/45], Loss: 0.3564
+Epoch [19/500], Step [13/45], Loss: 0.3563
+Epoch [19/500], Step [14/45], Loss: 0.3562
+Epoch [19/500], Step [15/45], Loss: 0.3561
+Epoch [19/500], Step [16/45], Loss: 0.3560
+Epoch [19/500], Step [17/45], Loss: 0.3559
+Epoch [19/500], Step [18/45], Loss: 0.3557
+Epoch [19/500], Step [19/45], Loss: 0.3556
+Epoch [19/500], Step [20/45], Loss: 0.3555
+Epoch [19/500], Step [21/45], Loss: 0.3554
+Epoch [19/500], Step [22/45], Loss: 0.3553
+Epoch [19/500], Step [23/45], Loss: 0.3552
+Epoch [19/500], Step [24/45], Loss: 0.3551
+Epoch [19/500], Step [25/45], Loss: 0.3549
+Epoch [19/500], Step [26/45], Loss: 0.3548
+Epoch [19/500], Step [27/45], Loss: 0.3547
+Epoch [19/500], Step [28/45], Loss: 0.3546
+Epoch [19/500], Step [29/45], Loss: 0.3545
+Epoch [19/500], Step [30/45], Loss: 0.3544
+Epoch [19/500], Step [31/45], Loss: 0.3543
+Epoch [19/500], Step [32/45], Loss: 0.3541
+Epoch [19/500], Step [33/45], Loss: 0.3540
+Epoch [19/500], Step [34/45], Loss: 0.3539
+Epoch [19/500], Step [35/45], Loss: 0.3538
+Epoch [19/500], Step [36/45], Loss: 0.3537
+Epoch [19/500], Step [37/45], Loss: 0.3536
+Epoch [19/500], Step [38/45], Loss: 0.3535
+Epoch [19/500], Step [39/45], Loss: 0.3534
+Epoch [19/500], Step [40/45], Loss: 0.3532
+Epoch [19/500], Step [41/45], Loss: 0.3531
+Epoch [19/500], Step [42/45], Loss: 0.3530
+Epoch [19/500], Step [43/45], Loss: 0.3529
+Epoch [19/500], Step [44/45], Loss: 0.3528
+Epoch [19/500], Step [45/45], Loss: 0.3527
+Epoch [20/500], Step [1/45], Loss: 0.3526
+Epoch [20/500], Step [2/45], Loss: 0.3524
+Epoch [20/500], Step [3/45], Loss: 0.3523
+Epoch [20/500], Step [4/45], Loss: 0.3522
+Epoch [20/500], Step [5/45], Loss: 0.3521
+Epoch [20/500], Step [6/45], Loss: 0.3520
+Epoch [20/500], Step [7/45], Loss: 0.3519
+Epoch [20/500], Step [8/45], Loss: 0.3518
+Epoch [20/500], Step [9/45], Loss: 0.3517
+Epoch [20/500], Step [10/45], Loss: 0.3516
+Epoch [20/500], Step [11/45], Loss: 0.3514
+Epoch [20/500], Step [12/45], Loss: 0.3513
+Epoch [20/500], Step [13/45], Loss: 0.3512
+Epoch [20/500], Step [14/45], Loss: 0.3511
+Epoch [20/500], Step [15/45], Loss: 0.3510
+Epoch [20/500], Step [16/45], Loss: 0.3509
+Epoch [20/500], Step [17/45], Loss: 0.3508
+Epoch [20/500], Step [18/45], Loss: 0.3507
+Epoch [20/500], Step [19/45], Loss: 0.3506
+Epoch [20/500], Step [20/45], Loss: 0.3505
+Epoch [20/500], Step [21/45], Loss: 0.3503
+Epoch [20/500], Step [22/45], Loss: 0.3502
+Epoch [20/500], Step [23/45], Loss: 0.3501
+Epoch [20/500], Step [24/45], Loss: 0.3500
+Epoch [20/500], Step [25/45], Loss: 0.3499
+Epoch [20/500], Step [26/45], Loss: 0.3498
+Epoch [20/500], Step [27/45], Loss: 0.3497
+Epoch [20/500], Step [28/45], Loss: 0.3496
+Epoch [20/500], Step [29/45], Loss: 0.3495
+Epoch [20/500], Step [30/45], Loss: 0.3494
+Epoch [20/500], Step [31/45], Loss: 0.3493
+Epoch [20/500], Step [32/45], Loss: 0.3492
+Epoch [20/500], Step [33/45], Loss: 0.3491
+Epoch [20/500], Step [34/45], Loss: 0.3490
+Epoch [20/500], Step [35/45], Loss: 0.3489
+Epoch [20/500], Step [36/45], Loss: 0.3488
+Epoch [20/500], Step [37/45], Loss: 0.3486
+Epoch [20/500], Step [38/45], Loss: 0.3485
+Epoch [20/500], Step [39/45], Loss: 0.3484
+Epoch [20/500], Step [40/45], Loss: 0.3483
+Epoch [20/500], Step [41/45], Loss: 0.3482
+Epoch [20/500], Step [42/45], Loss: 0.3481
+Epoch [20/500], Step [43/45], Loss: 0.3480
+Epoch [20/500], Step [44/45], Loss: 0.3479
+Epoch [20/500], Step [45/45], Loss: 0.3478
+unique_labels:1.7675
+unique_labels:1.749
+unique_labels:1.7285
+unique_labels:1.8005
+unique_labels:1.8015
+unique_labels:1.7545
+unique_labels:1.7705
+unique_labels:1.7875
+unique_labels:1.7575
+unique_labels:1.8095
+satisfied:0.41694999999999993  purity:3.760794166666666  acc:0.8178015873015874
+Epoch [21/500], Step [1/45], Loss: 0.3477
+Epoch [21/500], Step [2/45], Loss: 0.3476
+Epoch [21/500], Step [3/45], Loss: 0.3475
+Epoch [21/500], Step [4/45], Loss: 0.3474
+Epoch [21/500], Step [5/45], Loss: 0.3473
+Epoch [21/500], Step [6/45], Loss: 0.3472
+Epoch [21/500], Step [7/45], Loss: 0.3471
+Epoch [21/500], Step [8/45], Loss: 0.3470
+Epoch [21/500], Step [9/45], Loss: 0.3469
+Epoch [21/500], Step [10/45], Loss: 0.3468
+Epoch [21/500], Step [11/45], Loss: 0.3467
+Epoch [21/500], Step [12/45], Loss: 0.3466
+Epoch [21/500], Step [13/45], Loss: 0.3465
+Epoch [21/500], Step [14/45], Loss: 0.3464
+Epoch [21/500], Step [15/45], Loss: 0.3463
+Epoch [21/500], Step [16/45], Loss: 0.3462
+Epoch [21/500], Step [17/45], Loss: 0.3461
+Epoch [21/500], Step [18/45], Loss: 0.3460
+Epoch [21/500], Step [19/45], Loss: 0.3459
+Epoch [21/500], Step [20/45], Loss: 0.3458
+Epoch [21/500], Step [21/45], Loss: 0.3457
+Epoch [21/500], Step [22/45], Loss: 0.3456
+Epoch [21/500], Step [23/45], Loss: 0.3455
+Epoch [21/500], Step [24/45], Loss: 0.3454
+Epoch [21/500], Step [25/45], Loss: 0.3453
+Epoch [21/500], Step [26/45], Loss: 0.3452
+Epoch [21/500], Step [27/45], Loss: 0.3451
+Epoch [21/500], Step [28/45], Loss: 0.3450
+Epoch [21/500], Step [29/45], Loss: 0.3449
+Epoch [21/500], Step [30/45], Loss: 0.3448
+Epoch [21/500], Step [31/45], Loss: 0.3447
+Epoch [21/500], Step [32/45], Loss: 0.3446
+Epoch [21/500], Step [33/45], Loss: 0.3445
+Epoch [21/500], Step [34/45], Loss: 0.3444
+Epoch [21/500], Step [35/45], Loss: 0.3443
+Epoch [21/500], Step [36/45], Loss: 0.3442
+Epoch [21/500], Step [37/45], Loss: 0.3441
+Epoch [21/500], Step [38/45], Loss: 0.3440
+Epoch [21/500], Step [39/45], Loss: 0.3439
+Epoch [21/500], Step [40/45], Loss: 0.3438
+Epoch [21/500], Step [41/45], Loss: 0.3437
+Epoch [21/500], Step [42/45], Loss: 0.3436
+Epoch [21/500], Step [43/45], Loss: 0.3435
+Epoch [21/500], Step [44/45], Loss: 0.3434
+Epoch [21/500], Step [45/45], Loss: 0.3433
+Epoch [22/500], Step [1/45], Loss: 0.3432
+Epoch [22/500], Step [2/45], Loss: 0.3431
+Epoch [22/500], Step [3/45], Loss: 0.3430
+Epoch [22/500], Step [4/45], Loss: 0.3429
+Epoch [22/500], Step [5/45], Loss: 0.3428
+Epoch [22/500], Step [6/45], Loss: 0.3427
+Epoch [22/500], Step [7/45], Loss: 0.3426
+Epoch [22/500], Step [8/45], Loss: 0.3425
+Epoch [22/500], Step [9/45], Loss: 0.3424
+Epoch [22/500], Step [10/45], Loss: 0.3423
+Epoch [22/500], Step [11/45], Loss: 0.3422
+Epoch [22/500], Step [12/45], Loss: 0.3421
+Epoch [22/500], Step [13/45], Loss: 0.3421
+Epoch [22/500], Step [14/45], Loss: 0.3420
+Epoch [22/500], Step [15/45], Loss: 0.3419
+Epoch [22/500], Step [16/45], Loss: 0.3418
+Epoch [22/500], Step [17/45], Loss: 0.3417
+Epoch [22/500], Step [18/45], Loss: 0.3416
+Epoch [22/500], Step [19/45], Loss: 0.3415
+Epoch [22/500], Step [20/45], Loss: 0.3414
+Epoch [22/500], Step [21/45], Loss: 0.3413
+Epoch [22/500], Step [22/45], Loss: 0.3412
+Epoch [22/500], Step [23/45], Loss: 0.3411
+Epoch [22/500], Step [24/45], Loss: 0.3410
+Epoch [22/500], Step [25/45], Loss: 0.3409
+Epoch [22/500], Step [26/45], Loss: 0.3408
+Epoch [22/500], Step [27/45], Loss: 0.3407
+Epoch [22/500], Step [28/45], Loss: 0.3406
+Epoch [22/500], Step [29/45], Loss: 0.3406
+Epoch [22/500], Step [30/45], Loss: 0.3405
+Epoch [22/500], Step [31/45], Loss: 0.3404
+Epoch [22/500], Step [32/45], Loss: 0.3403
+Epoch [22/500], Step [33/45], Loss: 0.3402
+Epoch [22/500], Step [34/45], Loss: 0.3401
+Epoch [22/500], Step [35/45], Loss: 0.3400
+Epoch [22/500], Step [36/45], Loss: 0.3399
+Epoch [22/500], Step [37/45], Loss: 0.3398
+Epoch [22/500], Step [38/45], Loss: 0.3397
+Epoch [22/500], Step [39/45], Loss: 0.3397
+Epoch [22/500], Step [40/45], Loss: 0.3396
+Epoch [22/500], Step [41/45], Loss: 0.3395
+Epoch [22/500], Step [42/45], Loss: 0.3394
+Epoch [22/500], Step [43/45], Loss: 0.3393
+Epoch [22/500], Step [44/45], Loss: 0.3392
+Epoch [22/500], Step [45/45], Loss: 0.3391
+unique_labels:1.712
+unique_labels:1.7425
+unique_labels:1.741
+unique_labels:1.7435
+unique_labels:1.704
+unique_labels:1.733
+unique_labels:1.7505
+unique_labels:1.765
+unique_labels:1.7515
+unique_labels:1.7655
+satisfied:0.43484999999999996  purity:3.853946666666667  acc:0.8249206349206348
+Epoch [22/500], Checkpoint saved to log/weight/part8.pth satisfied:0.43484999999999996 acc:0.8249206349206348
+Epoch [23/500], Step [1/45], Loss: 0.3390
+Epoch [23/500], Step [2/45], Loss: 0.3389
+Epoch [23/500], Step [3/45], Loss: 0.3388
+Epoch [23/500], Step [4/45], Loss: 0.3387
+Epoch [23/500], Step [5/45], Loss: 0.3386
+Epoch [23/500], Step [6/45], Loss: 0.3385
+Epoch [23/500], Step [7/45], Loss: 0.3385
+Epoch [23/500], Step [8/45], Loss: 0.3384
+Epoch [23/500], Step [9/45], Loss: 0.3383
+Epoch [23/500], Step [10/45], Loss: 0.3382
+Epoch [23/500], Step [11/45], Loss: 0.3381
+Epoch [23/500], Step [12/45], Loss: 0.3380
+Epoch [23/500], Step [13/45], Loss: 0.3379
+Epoch [23/500], Step [14/45], Loss: 0.3378
+Epoch [23/500], Step [15/45], Loss: 0.3377
+Epoch [23/500], Step [16/45], Loss: 0.3377
+Epoch [23/500], Step [17/45], Loss: 0.3376
+Epoch [23/500], Step [18/45], Loss: 0.3375
+Epoch [23/500], Step [19/45], Loss: 0.3374
+Epoch [23/500], Step [20/45], Loss: 0.3373
+Epoch [23/500], Step [21/45], Loss: 0.3372
+Epoch [23/500], Step [22/45], Loss: 0.3371
+Epoch [23/500], Step [23/45], Loss: 0.3370
+Epoch [23/500], Step [24/45], Loss: 0.3369
+Epoch [23/500], Step [25/45], Loss: 0.3368
+Epoch [23/500], Step [26/45], Loss: 0.3368
+Epoch [23/500], Step [27/45], Loss: 0.3367
+Epoch [23/500], Step [28/45], Loss: 0.3366
+Epoch [23/500], Step [29/45], Loss: 0.3365
+Epoch [23/500], Step [30/45], Loss: 0.3364
+Epoch [23/500], Step [31/45], Loss: 0.3363
+Epoch [23/500], Step [32/45], Loss: 0.3362
+Epoch [23/500], Step [33/45], Loss: 0.3361
+Epoch [23/500], Step [34/45], Loss: 0.3361
+Epoch [23/500], Step [35/45], Loss: 0.3360
+Epoch [23/500], Step [36/45], Loss: 0.3359
+Epoch [23/500], Step [37/45], Loss: 0.3358
+Epoch [23/500], Step [38/45], Loss: 0.3357
+Epoch [23/500], Step [39/45], Loss: 0.3356
+Epoch [23/500], Step [40/45], Loss: 0.3355
+Epoch [23/500], Step [41/45], Loss: 0.3355
+Epoch [23/500], Step [42/45], Loss: 0.3354
+Epoch [23/500], Step [43/45], Loss: 0.3353
+Epoch [23/500], Step [44/45], Loss: 0.3352
+Epoch [23/500], Step [45/45], Loss: 0.3351
+Epoch [24/500], Step [1/45], Loss: 0.3350
+Epoch [24/500], Step [2/45], Loss: 0.3350
+Epoch [24/500], Step [3/45], Loss: 0.3349
+Epoch [24/500], Step [4/45], Loss: 0.3348
+Epoch [24/500], Step [5/45], Loss: 0.3347
+Epoch [24/500], Step [6/45], Loss: 0.3346
+Epoch [24/500], Step [7/45], Loss: 0.3345
+Epoch [24/500], Step [8/45], Loss: 0.3344
+Epoch [24/500], Step [9/45], Loss: 0.3344
+Epoch [24/500], Step [10/45], Loss: 0.3343
+Epoch [24/500], Step [11/45], Loss: 0.3342
+Epoch [24/500], Step [12/45], Loss: 0.3341
+Epoch [24/500], Step [13/45], Loss: 0.3340
+Epoch [24/500], Step [14/45], Loss: 0.3340
+Epoch [24/500], Step [15/45], Loss: 0.3339
+Epoch [24/500], Step [16/45], Loss: 0.3338
+Epoch [24/500], Step [17/45], Loss: 0.3337
+Epoch [24/500], Step [18/45], Loss: 0.3336
+Epoch [24/500], Step [19/45], Loss: 0.3335
+Epoch [24/500], Step [20/45], Loss: 0.3334
+Epoch [24/500], Step [21/45], Loss: 0.3334
+Epoch [24/500], Step [22/45], Loss: 0.3333
+Epoch [24/500], Step [23/45], Loss: 0.3332
+Epoch [24/500], Step [24/45], Loss: 0.3331
+Epoch [24/500], Step [25/45], Loss: 0.3330
+Epoch [24/500], Step [26/45], Loss: 0.3329
+Epoch [24/500], Step [27/45], Loss: 0.3329
+Epoch [24/500], Step [28/45], Loss: 0.3328
+Epoch [24/500], Step [29/45], Loss: 0.3327
+Epoch [24/500], Step [30/45], Loss: 0.3326
+Epoch [24/500], Step [31/45], Loss: 0.3325
+Epoch [24/500], Step [32/45], Loss: 0.3325
+Epoch [24/500], Step [33/45], Loss: 0.3324
+Epoch [24/500], Step [34/45], Loss: 0.3323
+Epoch [24/500], Step [35/45], Loss: 0.3322
+Epoch [24/500], Step [36/45], Loss: 0.3321
+Epoch [24/500], Step [37/45], Loss: 0.3321
+Epoch [24/500], Step [38/45], Loss: 0.3320
+Epoch [24/500], Step [39/45], Loss: 0.3319
+Epoch [24/500], Step [40/45], Loss: 0.3318
+Epoch [24/500], Step [41/45], Loss: 0.3317
+Epoch [24/500], Step [42/45], Loss: 0.3316
+Epoch [24/500], Step [43/45], Loss: 0.3316
+Epoch [24/500], Step [44/45], Loss: 0.3315
+Epoch [24/500], Step [45/45], Loss: 0.3314
+unique_labels:1.741
+unique_labels:1.728
+unique_labels:1.749
+unique_labels:1.727
+unique_labels:1.733
+unique_labels:1.74
+unique_labels:1.75
+unique_labels:1.703
+unique_labels:1.7955
+unique_labels:1.7555
+satisfied:0.43545  purity:3.8496608333333335  acc:0.8247619047619047
+Epoch [25/500], Step [1/45], Loss: 0.3313
+Epoch [25/500], Step [2/45], Loss: 0.3312
+Epoch [25/500], Step [3/45], Loss: 0.3311
+Epoch [25/500], Step [4/45], Loss: 0.3311
+Epoch [25/500], Step [5/45], Loss: 0.3310
+Epoch [25/500], Step [6/45], Loss: 0.3309
+Epoch [25/500], Step [7/45], Loss: 0.3308
+Epoch [25/500], Step [8/45], Loss: 0.3307
+Epoch [25/500], Step [9/45], Loss: 0.3307
+Epoch [25/500], Step [10/45], Loss: 0.3306
+Epoch [25/500], Step [11/45], Loss: 0.3305
+Epoch [25/500], Step [12/45], Loss: 0.3304
+Epoch [25/500], Step [13/45], Loss: 0.3304
+Epoch [25/500], Step [14/45], Loss: 0.3303
+Epoch [25/500], Step [15/45], Loss: 0.3302
+Epoch [25/500], Step [16/45], Loss: 0.3301
+Epoch [25/500], Step [17/45], Loss: 0.3300
+Epoch [25/500], Step [18/45], Loss: 0.3300
+Epoch [25/500], Step [19/45], Loss: 0.3299
+Epoch [25/500], Step [20/45], Loss: 0.3298
+Epoch [25/500], Step [21/45], Loss: 0.3297
+Epoch [25/500], Step [22/45], Loss: 0.3296
+Epoch [25/500], Step [23/45], Loss: 0.3296
+Epoch [25/500], Step [24/45], Loss: 0.3295
+Epoch [25/500], Step [25/45], Loss: 0.3294
+Epoch [25/500], Step [26/45], Loss: 0.3293
+Epoch [25/500], Step [27/45], Loss: 0.3292
+Epoch [25/500], Step [28/45], Loss: 0.3292
+Epoch [25/500], Step [29/45], Loss: 0.3291
+Epoch [25/500], Step [30/45], Loss: 0.3290
+Epoch [25/500], Step [31/45], Loss: 0.3289
+Epoch [25/500], Step [32/45], Loss: 0.3288
+Epoch [25/500], Step [33/45], Loss: 0.3288
+Epoch [25/500], Step [34/45], Loss: 0.3287
+Epoch [25/500], Step [35/45], Loss: 0.3286
+Epoch [25/500], Step [36/45], Loss: 0.3285
+Epoch [25/500], Step [37/45], Loss: 0.3285
+Epoch [25/500], Step [38/45], Loss: 0.3284
+Epoch [25/500], Step [39/45], Loss: 0.3283
+Epoch [25/500], Step [40/45], Loss: 0.3282
+Epoch [25/500], Step [41/45], Loss: 0.3282
+Epoch [25/500], Step [42/45], Loss: 0.3281
+Epoch [25/500], Step [43/45], Loss: 0.3280
+Epoch [25/500], Step [44/45], Loss: 0.3279
+Epoch [25/500], Step [45/45], Loss: 0.3278
+Epoch [26/500], Step [1/45], Loss: 0.3278
+Epoch [26/500], Step [2/45], Loss: 0.3277
+Epoch [26/500], Step [3/45], Loss: 0.3276
+Epoch [26/500], Step [4/45], Loss: 0.3275
+Epoch [26/500], Step [5/45], Loss: 0.3274
+Epoch [26/500], Step [6/45], Loss: 0.3274
+Epoch [26/500], Step [7/45], Loss: 0.3273
+Epoch [26/500], Step [8/45], Loss: 0.3272
+Epoch [26/500], Step [9/45], Loss: 0.3271
+Epoch [26/500], Step [10/45], Loss: 0.3271
+Epoch [26/500], Step [11/45], Loss: 0.3270
+Epoch [26/500], Step [12/45], Loss: 0.3269
+Epoch [26/500], Step [13/45], Loss: 0.3268
+Epoch [26/500], Step [14/45], Loss: 0.3268
+Epoch [26/500], Step [15/45], Loss: 0.3267
+Epoch [26/500], Step [16/45], Loss: 0.3266
+Epoch [26/500], Step [17/45], Loss: 0.3265
+Epoch [26/500], Step [18/45], Loss: 0.3265
+Epoch [26/500], Step [19/45], Loss: 0.3264
+Epoch [26/500], Step [20/45], Loss: 0.3263
+Epoch [26/500], Step [21/45], Loss: 0.3262
+Epoch [26/500], Step [22/45], Loss: 0.3262
+Epoch [26/500], Step [23/45], Loss: 0.3261
+Epoch [26/500], Step [24/45], Loss: 0.3260
+Epoch [26/500], Step [25/45], Loss: 0.3259
+Epoch [26/500], Step [26/45], Loss: 0.3259
+Epoch [26/500], Step [27/45], Loss: 0.3258
+Epoch [26/500], Step [28/45], Loss: 0.3257
+Epoch [26/500], Step [29/45], Loss: 0.3256
+Epoch [26/500], Step [30/45], Loss: 0.3256
+Epoch [26/500], Step [31/45], Loss: 0.3255
+Epoch [26/500], Step [32/45], Loss: 0.3254
+Epoch [26/500], Step [33/45], Loss: 0.3253
+Epoch [26/500], Step [34/45], Loss: 0.3253
+Epoch [26/500], Step [35/45], Loss: 0.3252
+Epoch [26/500], Step [36/45], Loss: 0.3251
+Epoch [26/500], Step [37/45], Loss: 0.3251
+Epoch [26/500], Step [38/45], Loss: 0.3250
+Epoch [26/500], Step [39/45], Loss: 0.3249
+Epoch [26/500], Step [40/45], Loss: 0.3248
+Epoch [26/500], Step [41/45], Loss: 0.3248
+Epoch [26/500], Step [42/45], Loss: 0.3247
+Epoch [26/500], Step [43/45], Loss: 0.3246
+Epoch [26/500], Step [44/45], Loss: 0.3245
+Epoch [26/500], Step [45/45], Loss: 0.3245
+unique_labels:1.723
+unique_labels:1.71
+unique_labels:1.754
+unique_labels:1.753
+unique_labels:1.745
+unique_labels:1.7595
+unique_labels:1.6985
+unique_labels:1.7365
+unique_labels:1.7785
+unique_labels:1.7425
+satisfied:0.43549999999999994  purity:3.8530424999999986  acc:0.8251746031746032
+Epoch [26/500], Checkpoint saved to log/weight/part8.pth satisfied:0.43549999999999994 acc:0.8251746031746032
+Epoch [27/500], Step [1/45], Loss: 0.3244
+Epoch [27/500], Step [2/45], Loss: 0.3243
+Epoch [27/500], Step [3/45], Loss: 0.3242
+Epoch [27/500], Step [4/45], Loss: 0.3242
+Epoch [27/500], Step [5/45], Loss: 0.3241
+Epoch [27/500], Step [6/45], Loss: 0.3240
+Epoch [27/500], Step [7/45], Loss: 0.3240
+Epoch [27/500], Step [8/45], Loss: 0.3239
+Epoch [27/500], Step [9/45], Loss: 0.3238
+Epoch [27/500], Step [10/45], Loss: 0.3238
+Epoch [27/500], Step [11/45], Loss: 0.3237
+Epoch [27/500], Step [12/45], Loss: 0.3236
+Epoch [27/500], Step [13/45], Loss: 0.3235
+Epoch [27/500], Step [14/45], Loss: 0.3235
+Epoch [27/500], Step [15/45], Loss: 0.3234
+Epoch [27/500], Step [16/45], Loss: 0.3233
+Epoch [27/500], Step [17/45], Loss: 0.3233
+Epoch [27/500], Step [18/45], Loss: 0.3232
+Epoch [27/500], Step [19/45], Loss: 0.3231
+Epoch [27/500], Step [20/45], Loss: 0.3231
+Epoch [27/500], Step [21/45], Loss: 0.3230
+Epoch [27/500], Step [22/45], Loss: 0.3229
+Epoch [27/500], Step [23/45], Loss: 0.3228
+Epoch [27/500], Step [24/45], Loss: 0.3228
+Epoch [27/500], Step [25/45], Loss: 0.3227
+Epoch [27/500], Step [26/45], Loss: 0.3226
+Epoch [27/500], Step [27/45], Loss: 0.3226
+Epoch [27/500], Step [28/45], Loss: 0.3225
+Epoch [27/500], Step [29/45], Loss: 0.3224
+Epoch [27/500], Step [30/45], Loss: 0.3224
+Epoch [27/500], Step [31/45], Loss: 0.3223
+Epoch [27/500], Step [32/45], Loss: 0.3222
+Epoch [27/500], Step [33/45], Loss: 0.3222
+Epoch [27/500], Step [34/45], Loss: 0.3221
+Epoch [27/500], Step [35/45], Loss: 0.3220
+Epoch [27/500], Step [36/45], Loss: 0.3219
+Epoch [27/500], Step [37/45], Loss: 0.3219
+Epoch [27/500], Step [38/45], Loss: 0.3218
+Epoch [27/500], Step [39/45], Loss: 0.3217
+Epoch [27/500], Step [40/45], Loss: 0.3217
+Epoch [27/500], Step [41/45], Loss: 0.3216
+Epoch [27/500], Step [42/45], Loss: 0.3215
+Epoch [27/500], Step [43/45], Loss: 0.3215
+Epoch [27/500], Step [44/45], Loss: 0.3214
+Epoch [27/500], Step [45/45], Loss: 0.3213
+Epoch [28/500], Step [1/45], Loss: 0.3213
+Epoch [28/500], Step [2/45], Loss: 0.3212
+Epoch [28/500], Step [3/45], Loss: 0.3211
+Epoch [28/500], Step [4/45], Loss: 0.3211
+Epoch [28/500], Step [5/45], Loss: 0.3210
+Epoch [28/500], Step [6/45], Loss: 0.3209
+Epoch [28/500], Step [7/45], Loss: 0.3209
+Epoch [28/500], Step [8/45], Loss: 0.3208
+Epoch [28/500], Step [9/45], Loss: 0.3207
+Epoch [28/500], Step [10/45], Loss: 0.3207
+Epoch [28/500], Step [11/45], Loss: 0.3206
+Epoch [28/500], Step [12/45], Loss: 0.3205
+Epoch [28/500], Step [13/45], Loss: 0.3205
+Epoch [28/500], Step [14/45], Loss: 0.3204
+Epoch [28/500], Step [15/45], Loss: 0.3203
+Epoch [28/500], Step [16/45], Loss: 0.3203
+Epoch [28/500], Step [17/45], Loss: 0.3202
+Epoch [28/500], Step [18/45], Loss: 0.3201
+Epoch [28/500], Step [19/45], Loss: 0.3201
+Epoch [28/500], Step [20/45], Loss: 0.3200
+Epoch [28/500], Step [21/45], Loss: 0.3199
+Epoch [28/500], Step [22/45], Loss: 0.3198
+Epoch [28/500], Step [23/45], Loss: 0.3198
+Epoch [28/500], Step [24/45], Loss: 0.3197
+Epoch [28/500], Step [25/45], Loss: 0.3196
+Epoch [28/500], Step [26/45], Loss: 0.3196
+Epoch [28/500], Step [27/45], Loss: 0.3195
+Epoch [28/500], Step [28/45], Loss: 0.3194
+Epoch [28/500], Step [29/45], Loss: 0.3194
+Epoch [28/500], Step [30/45], Loss: 0.3193
+Epoch [28/500], Step [31/45], Loss: 0.3193
+Epoch [28/500], Step [32/45], Loss: 0.3192
+Epoch [28/500], Step [33/45], Loss: 0.3191
+Epoch [28/500], Step [34/45], Loss: 0.3191
+Epoch [28/500], Step [35/45], Loss: 0.3190
+Epoch [28/500], Step [36/45], Loss: 0.3189
+Epoch [28/500], Step [37/45], Loss: 0.3189
+Epoch [28/500], Step [38/45], Loss: 0.3188
+Epoch [28/500], Step [39/45], Loss: 0.3187
+Epoch [28/500], Step [40/45], Loss: 0.3187
+Epoch [28/500], Step [41/45], Loss: 0.3186
+Epoch [28/500], Step [42/45], Loss: 0.3185
+Epoch [28/500], Step [43/45], Loss: 0.3185
+Epoch [28/500], Step [44/45], Loss: 0.3184
+Epoch [28/500], Step [45/45], Loss: 0.3183
+unique_labels:1.7235
+unique_labels:1.6785
+unique_labels:1.731
+unique_labels:1.751
+unique_labels:1.7285
+unique_labels:1.73
+unique_labels:1.7245
+unique_labels:1.7355
+unique_labels:1.718
+unique_labels:1.719
+satisfied:0.44539999999999996  purity:3.9064308333333324  acc:0.8302619047619049
+Epoch [28/500], Checkpoint saved to log/weight/part8.pth satisfied:0.44539999999999996 acc:0.8302619047619049
+Epoch [29/500], Step [1/45], Loss: 0.3183
+Epoch [29/500], Step [2/45], Loss: 0.3182
+Epoch [29/500], Step [3/45], Loss: 0.3181
+Epoch [29/500], Step [4/45], Loss: 0.3181
+Epoch [29/500], Step [5/45], Loss: 0.3180
+Epoch [29/500], Step [6/45], Loss: 0.3179
+Epoch [29/500], Step [7/45], Loss: 0.3179
+Epoch [29/500], Step [8/45], Loss: 0.3178
+Epoch [29/500], Step [9/45], Loss: 0.3178
+Epoch [29/500], Step [10/45], Loss: 0.3177
+Epoch [29/500], Step [11/45], Loss: 0.3176
+Epoch [29/500], Step [12/45], Loss: 0.3176
+Epoch [29/500], Step [13/45], Loss: 0.3175
+Epoch [29/500], Step [14/45], Loss: 0.3174
+Epoch [29/500], Step [15/45], Loss: 0.3174
+Epoch [29/500], Step [16/45], Loss: 0.3173
+Epoch [29/500], Step [17/45], Loss: 0.3172
+Epoch [29/500], Step [18/45], Loss: 0.3172
+Epoch [29/500], Step [19/45], Loss: 0.3171
+Epoch [29/500], Step [20/45], Loss: 0.3171
+Epoch [29/500], Step [21/45], Loss: 0.3170
+Epoch [29/500], Step [22/45], Loss: 0.3169
+Epoch [29/500], Step [23/45], Loss: 0.3169
+Epoch [29/500], Step [24/45], Loss: 0.3168
+Epoch [29/500], Step [25/45], Loss: 0.3167
+Epoch [29/500], Step [26/45], Loss: 0.3167
+Epoch [29/500], Step [27/45], Loss: 0.3166
+Epoch [29/500], Step [28/45], Loss: 0.3165
+Epoch [29/500], Step [29/45], Loss: 0.3165
+Epoch [29/500], Step [30/45], Loss: 0.3164
+Epoch [29/500], Step [31/45], Loss: 0.3164
+Epoch [29/500], Step [32/45], Loss: 0.3163
+Epoch [29/500], Step [33/45], Loss: 0.3162
+Epoch [29/500], Step [34/45], Loss: 0.3162
+Epoch [29/500], Step [35/45], Loss: 0.3161
+Epoch [29/500], Step [36/45], Loss: 0.3160
+Epoch [29/500], Step [37/45], Loss: 0.3160
+Epoch [29/500], Step [38/45], Loss: 0.3159
+Epoch [29/500], Step [39/45], Loss: 0.3159
+Epoch [29/500], Step [40/45], Loss: 0.3158
+Epoch [29/500], Step [41/45], Loss: 0.3157
+Epoch [29/500], Step [42/45], Loss: 0.3157
+Epoch [29/500], Step [43/45], Loss: 0.3156
+Epoch [29/500], Step [44/45], Loss: 0.3155
+Epoch [29/500], Step [45/45], Loss: 0.3155
+Epoch [30/500], Step [1/45], Loss: 0.3154
+Epoch [30/500], Step [2/45], Loss: 0.3154
+Epoch [30/500], Step [3/45], Loss: 0.3153
+Epoch [30/500], Step [4/45], Loss: 0.3152
+Epoch [30/500], Step [5/45], Loss: 0.3152
+Epoch [30/500], Step [6/45], Loss: 0.3151
+Epoch [30/500], Step [7/45], Loss: 0.3151
+Epoch [30/500], Step [8/45], Loss: 0.3150
+Epoch [30/500], Step [9/45], Loss: 0.3149
+Epoch [30/500], Step [10/45], Loss: 0.3149
+Epoch [30/500], Step [11/45], Loss: 0.3148
+Epoch [30/500], Step [12/45], Loss: 0.3147
+Epoch [30/500], Step [13/45], Loss: 0.3147
+Epoch [30/500], Step [14/45], Loss: 0.3146
+Epoch [30/500], Step [15/45], Loss: 0.3146
+Epoch [30/500], Step [16/45], Loss: 0.3145
+Epoch [30/500], Step [17/45], Loss: 0.3144
+Epoch [30/500], Step [18/45], Loss: 0.3144
+Epoch [30/500], Step [19/45], Loss: 0.3143
+Epoch [30/500], Step [20/45], Loss: 0.3143
+Epoch [30/500], Step [21/45], Loss: 0.3142
+Epoch [30/500], Step [22/45], Loss: 0.3141
+Epoch [30/500], Step [23/45], Loss: 0.3141
+Epoch [30/500], Step [24/45], Loss: 0.3140
+Epoch [30/500], Step [25/45], Loss: 0.3139
+Epoch [30/500], Step [26/45], Loss: 0.3139
+Epoch [30/500], Step [27/45], Loss: 0.3138
+Epoch [30/500], Step [28/45], Loss: 0.3138
+Epoch [30/500], Step [29/45], Loss: 0.3137
+Epoch [30/500], Step [30/45], Loss: 0.3136
+Epoch [30/500], Step [31/45], Loss: 0.3136
+Epoch [30/500], Step [32/45], Loss: 0.3135
+Epoch [30/500], Step [33/45], Loss: 0.3135
+Epoch [30/500], Step [34/45], Loss: 0.3134
+Epoch [30/500], Step [35/45], Loss: 0.3134
+Epoch [30/500], Step [36/45], Loss: 0.3133
+Epoch [30/500], Step [37/45], Loss: 0.3132
+Epoch [30/500], Step [38/45], Loss: 0.3132
+Epoch [30/500], Step [39/45], Loss: 0.3131
+Epoch [30/500], Step [40/45], Loss: 0.3131
+Epoch [30/500], Step [41/45], Loss: 0.3130
+Epoch [30/500], Step [42/45], Loss: 0.3129
+Epoch [30/500], Step [43/45], Loss: 0.3129
+Epoch [30/500], Step [44/45], Loss: 0.3128
+Epoch [30/500], Step [45/45], Loss: 0.3127
+unique_labels:1.756
+unique_labels:1.6785
+unique_labels:1.722
+unique_labels:1.727
+unique_labels:1.7185
+unique_labels:1.729
+unique_labels:1.748
+unique_labels:1.718
+unique_labels:1.722
+unique_labels:1.7625
+satisfied:0.44044999999999995  purity:3.8797041666666656  acc:0.8276111111111112
+Epoch [31/500], Step [1/45], Loss: 0.3127
+Epoch [31/500], Step [2/45], Loss: 0.3126
+Epoch [31/500], Step [3/45], Loss: 0.3126
+Epoch [31/500], Step [4/45], Loss: 0.3125
+Epoch [31/500], Step [5/45], Loss: 0.3124
+Epoch [31/500], Step [6/45], Loss: 0.3124
+Epoch [31/500], Step [7/45], Loss: 0.3123
+Epoch [31/500], Step [8/45], Loss: 0.3123
+Epoch [31/500], Step [9/45], Loss: 0.3122
+Epoch [31/500], Step [10/45], Loss: 0.3121
+Epoch [31/500], Step [11/45], Loss: 0.3121
+Epoch [31/500], Step [12/45], Loss: 0.3120
+Epoch [31/500], Step [13/45], Loss: 0.3120
+Epoch [31/500], Step [14/45], Loss: 0.3119
+Epoch [31/500], Step [15/45], Loss: 0.3119
+Epoch [31/500], Step [16/45], Loss: 0.3118
+Epoch [31/500], Step [17/45], Loss: 0.3117
+Epoch [31/500], Step [18/45], Loss: 0.3117
+Epoch [31/500], Step [19/45], Loss: 0.3116
+Epoch [31/500], Step [20/45], Loss: 0.3116
+Epoch [31/500], Step [21/45], Loss: 0.3115
+Epoch [31/500], Step [22/45], Loss: 0.3115
+Epoch [31/500], Step [23/45], Loss: 0.3114
+Epoch [31/500], Step [24/45], Loss: 0.3113
+Epoch [31/500], Step [25/45], Loss: 0.3113
+Epoch [31/500], Step [26/45], Loss: 0.3112
+Epoch [31/500], Step [27/45], Loss: 0.3112
+Epoch [31/500], Step [28/45], Loss: 0.3111
+Epoch [31/500], Step [29/45], Loss: 0.3110
+Epoch [31/500], Step [30/45], Loss: 0.3110
+Epoch [31/500], Step [31/45], Loss: 0.3109
+Epoch [31/500], Step [32/45], Loss: 0.3109
+Epoch [31/500], Step [33/45], Loss: 0.3108
+Epoch [31/500], Step [34/45], Loss: 0.3108
+Epoch [31/500], Step [35/45], Loss: 0.3107
+Epoch [31/500], Step [36/45], Loss: 0.3106
+Epoch [31/500], Step [37/45], Loss: 0.3106
+Epoch [31/500], Step [38/45], Loss: 0.3105
+Epoch [31/500], Step [39/45], Loss: 0.3105
+Epoch [31/500], Step [40/45], Loss: 0.3104
+Epoch [31/500], Step [41/45], Loss: 0.3103
+Epoch [31/500], Step [42/45], Loss: 0.3103
+Epoch [31/500], Step [43/45], Loss: 0.3102
+Epoch [31/500], Step [44/45], Loss: 0.3102
+Epoch [31/500], Step [45/45], Loss: 0.3101
+Epoch [32/500], Step [1/45], Loss: 0.3101
+Epoch [32/500], Step [2/45], Loss: 0.3100
+Epoch [32/500], Step [3/45], Loss: 0.3100
+Epoch [32/500], Step [4/45], Loss: 0.3099
+Epoch [32/500], Step [5/45], Loss: 0.3098
+Epoch [32/500], Step [6/45], Loss: 0.3098
+Epoch [32/500], Step [7/45], Loss: 0.3097
+Epoch [32/500], Step [8/45], Loss: 0.3097
+Epoch [32/500], Step [9/45], Loss: 0.3096
+Epoch [32/500], Step [10/45], Loss: 0.3096
+Epoch [32/500], Step [11/45], Loss: 0.3095
+Epoch [32/500], Step [12/45], Loss: 0.3095
+Epoch [32/500], Step [13/45], Loss: 0.3094
+Epoch [32/500], Step [14/45], Loss: 0.3094
+Epoch [32/500], Step [15/45], Loss: 0.3093
+Epoch [32/500], Step [16/45], Loss: 0.3092
+Epoch [32/500], Step [17/45], Loss: 0.3092
+Epoch [32/500], Step [18/45], Loss: 0.3091
+Epoch [32/500], Step [19/45], Loss: 0.3091
+Epoch [32/500], Step [20/45], Loss: 0.3090
+Epoch [32/500], Step [21/45], Loss: 0.3090
+Epoch [32/500], Step [22/45], Loss: 0.3089
+Epoch [32/500], Step [23/45], Loss: 0.3088
+Epoch [32/500], Step [24/45], Loss: 0.3088
+Epoch [32/500], Step [25/45], Loss: 0.3087
+Epoch [32/500], Step [26/45], Loss: 0.3087
+Epoch [32/500], Step [27/45], Loss: 0.3086
+Epoch [32/500], Step [28/45], Loss: 0.3086
+Epoch [32/500], Step [29/45], Loss: 0.3085
+Epoch [32/500], Step [30/45], Loss: 0.3085
+Epoch [32/500], Step [31/45], Loss: 0.3084
+Epoch [32/500], Step [32/45], Loss: 0.3084
+Epoch [32/500], Step [33/45], Loss: 0.3083
+Epoch [32/500], Step [34/45], Loss: 0.3082
+Epoch [32/500], Step [35/45], Loss: 0.3082
+Epoch [32/500], Step [36/45], Loss: 0.3081
+Epoch [32/500], Step [37/45], Loss: 0.3081
+Epoch [32/500], Step [38/45], Loss: 0.3080
+Epoch [32/500], Step [39/45], Loss: 0.3080
+Epoch [32/500], Step [40/45], Loss: 0.3079
+Epoch [32/500], Step [41/45], Loss: 0.3079
+Epoch [32/500], Step [42/45], Loss: 0.3078
+Epoch [32/500], Step [43/45], Loss: 0.3078
+Epoch [32/500], Step [44/45], Loss: 0.3077
+Epoch [32/500], Step [45/45], Loss: 0.3077
+unique_labels:1.747
+unique_labels:1.726
+unique_labels:1.721
+unique_labels:1.761
+unique_labels:1.736
+unique_labels:1.7135
+unique_labels:1.7335
+unique_labels:1.7205
+unique_labels:1.7055
+unique_labels:1.7075
+satisfied:0.4454000000000001  purity:3.9021341666666673  acc:0.8292222222222222
+Epoch [33/500], Step [1/45], Loss: 0.3076
+Epoch [33/500], Step [2/45], Loss: 0.3075
+Epoch [33/500], Step [3/45], Loss: 0.3075
+Epoch [33/500], Step [4/45], Loss: 0.3074
+Epoch [33/500], Step [5/45], Loss: 0.3074
+Epoch [33/500], Step [6/45], Loss: 0.3073
+Epoch [33/500], Step [7/45], Loss: 0.3073
+Epoch [33/500], Step [8/45], Loss: 0.3072
+Epoch [33/500], Step [9/45], Loss: 0.3072
+Epoch [33/500], Step [10/45], Loss: 0.3071
+Epoch [33/500], Step [11/45], Loss: 0.3071
+Epoch [33/500], Step [12/45], Loss: 0.3070
+Epoch [33/500], Step [13/45], Loss: 0.3070
+Epoch [33/500], Step [14/45], Loss: 0.3069
+Epoch [33/500], Step [15/45], Loss: 0.3069
+Epoch [33/500], Step [16/45], Loss: 0.3068
+Epoch [33/500], Step [17/45], Loss: 0.3067
+Epoch [33/500], Step [18/45], Loss: 0.3067
+Epoch [33/500], Step [19/45], Loss: 0.3066
+Epoch [33/500], Step [20/45], Loss: 0.3066
+Epoch [33/500], Step [21/45], Loss: 0.3065
+Epoch [33/500], Step [22/45], Loss: 0.3065
+Epoch [33/500], Step [23/45], Loss: 0.3064
+Epoch [33/500], Step [24/45], Loss: 0.3064
+Epoch [33/500], Step [25/45], Loss: 0.3063
+Epoch [33/500], Step [26/45], Loss: 0.3063
+Epoch [33/500], Step [27/45], Loss: 0.3062
+Epoch [33/500], Step [28/45], Loss: 0.3061
+Epoch [33/500], Step [29/45], Loss: 0.3061
+Epoch [33/500], Step [30/45], Loss: 0.3060
+Epoch [33/500], Step [31/45], Loss: 0.3060
+Epoch [33/500], Step [32/45], Loss: 0.3059
+Epoch [33/500], Step [33/45], Loss: 0.3059
+Epoch [33/500], Step [34/45], Loss: 0.3058
+Epoch [33/500], Step [35/45], Loss: 0.3058
+Epoch [33/500], Step [36/45], Loss: 0.3057
+Epoch [33/500], Step [37/45], Loss: 0.3057
+Epoch [33/500], Step [38/45], Loss: 0.3056
+Epoch [33/500], Step [39/45], Loss: 0.3056
+Epoch [33/500], Step [40/45], Loss: 0.3055
+Epoch [33/500], Step [41/45], Loss: 0.3055
+Epoch [33/500], Step [42/45], Loss: 0.3054
+Epoch [33/500], Step [43/45], Loss: 0.3054
+Epoch [33/500], Step [44/45], Loss: 0.3053
+Epoch [33/500], Step [45/45], Loss: 0.3053
+Epoch [34/500], Step [1/45], Loss: 0.3052
+Epoch [34/500], Step [2/45], Loss: 0.3052
+Epoch [34/500], Step [3/45], Loss: 0.3051
+Epoch [34/500], Step [4/45], Loss: 0.3051
+Epoch [34/500], Step [5/45], Loss: 0.3050
+Epoch [34/500], Step [6/45], Loss: 0.3050
+Epoch [34/500], Step [7/45], Loss: 0.3049
+Epoch [34/500], Step [8/45], Loss: 0.3049
+Epoch [34/500], Step [9/45], Loss: 0.3048
+Epoch [34/500], Step [10/45], Loss: 0.3048
+Epoch [34/500], Step [11/45], Loss: 0.3047
+Epoch [34/500], Step [12/45], Loss: 0.3047
+Epoch [34/500], Step [13/45], Loss: 0.3046
+Epoch [34/500], Step [14/45], Loss: 0.3046
+Epoch [34/500], Step [15/45], Loss: 0.3045
+Epoch [34/500], Step [16/45], Loss: 0.3045
+Epoch [34/500], Step [17/45], Loss: 0.3044
+Epoch [34/500], Step [18/45], Loss: 0.3043
+Epoch [34/500], Step [19/45], Loss: 0.3043
+Epoch [34/500], Step [20/45], Loss: 0.3043
+Epoch [34/500], Step [21/45], Loss: 0.3042
+Epoch [34/500], Step [22/45], Loss: 0.3041
+Epoch [34/500], Step [23/45], Loss: 0.3041
+Epoch [34/500], Step [24/45], Loss: 0.3040
+Epoch [34/500], Step [25/45], Loss: 0.3040
+Epoch [34/500], Step [26/45], Loss: 0.3039
+Epoch [34/500], Step [27/45], Loss: 0.3039
+Epoch [34/500], Step [28/45], Loss: 0.3039
+Epoch [34/500], Step [29/45], Loss: 0.3038
+Epoch [34/500], Step [30/45], Loss: 0.3038
+Epoch [34/500], Step [31/45], Loss: 0.3037
+Epoch [34/500], Step [32/45], Loss: 0.3037
+Epoch [34/500], Step [33/45], Loss: 0.3036
+Epoch [34/500], Step [34/45], Loss: 0.3036
+Epoch [34/500], Step [35/45], Loss: 0.3035
+Epoch [34/500], Step [36/45], Loss: 0.3035
+Epoch [34/500], Step [37/45], Loss: 0.3034
+Epoch [34/500], Step [38/45], Loss: 0.3034
+Epoch [34/500], Step [39/45], Loss: 0.3033
+Epoch [34/500], Step [40/45], Loss: 0.3033
+Epoch [34/500], Step [41/45], Loss: 0.3032
+Epoch [34/500], Step [42/45], Loss: 0.3032
+Epoch [34/500], Step [43/45], Loss: 0.3031
+Epoch [34/500], Step [44/45], Loss: 0.3031
+Epoch [34/500], Step [45/45], Loss: 0.3030
+unique_labels:1.7495
+unique_labels:1.6885
+unique_labels:1.703
+unique_labels:1.7155
+unique_labels:1.7295
+unique_labels:1.757
+unique_labels:1.737
+unique_labels:1.7225
+unique_labels:1.725
+unique_labels:1.7525
+satisfied:0.44414999999999993  purity:3.8954766666666663  acc:0.8283809523809523
+Epoch [35/500], Step [1/45], Loss: 0.3030
+Epoch [35/500], Step [2/45], Loss: 0.3029
+Epoch [35/500], Step [3/45], Loss: 0.3029
+Epoch [35/500], Step [4/45], Loss: 0.3028
+Epoch [35/500], Step [5/45], Loss: 0.3028
+Epoch [35/500], Step [6/45], Loss: 0.3027
+Epoch [35/500], Step [7/45], Loss: 0.3027
+Epoch [35/500], Step [8/45], Loss: 0.3026
+Epoch [35/500], Step [9/45], Loss: 0.3026
+Epoch [35/500], Step [10/45], Loss: 0.3025
+Epoch [35/500], Step [11/45], Loss: 0.3025
+Epoch [35/500], Step [12/45], Loss: 0.3024
+Epoch [35/500], Step [13/45], Loss: 0.3024
+Epoch [35/500], Step [14/45], Loss: 0.3023
+Epoch [35/500], Step [15/45], Loss: 0.3023
+Epoch [35/500], Step [16/45], Loss: 0.3022
+Epoch [35/500], Step [17/45], Loss: 0.3022
+Epoch [35/500], Step [18/45], Loss: 0.3021
+Epoch [35/500], Step [19/45], Loss: 0.3021
+Epoch [35/500], Step [20/45], Loss: 0.3020
+Epoch [35/500], Step [21/45], Loss: 0.3020
+Epoch [35/500], Step [22/45], Loss: 0.3020
+Epoch [35/500], Step [23/45], Loss: 0.3019
+Epoch [35/500], Step [24/45], Loss: 0.3019
+Epoch [35/500], Step [25/45], Loss: 0.3018
+Epoch [35/500], Step [26/45], Loss: 0.3018
+Epoch [35/500], Step [27/45], Loss: 0.3017
+Epoch [35/500], Step [28/45], Loss: 0.3017
+Epoch [35/500], Step [29/45], Loss: 0.3016
+Epoch [35/500], Step [30/45], Loss: 0.3016
+Epoch [35/500], Step [31/45], Loss: 0.3015
+Epoch [35/500], Step [32/45], Loss: 0.3015
+Epoch [35/500], Step [33/45], Loss: 0.3014
+Epoch [35/500], Step [34/45], Loss: 0.3014
+Epoch [35/500], Step [35/45], Loss: 0.3013
+Epoch [35/500], Step [36/45], Loss: 0.3013
+Epoch [35/500], Step [37/45], Loss: 0.3012
+Epoch [35/500], Step [38/45], Loss: 0.3012
+Epoch [35/500], Step [39/45], Loss: 0.3012
+Epoch [35/500], Step [40/45], Loss: 0.3011
+Epoch [35/500], Step [41/45], Loss: 0.3011
+Epoch [35/500], Step [42/45], Loss: 0.3010
+Epoch [35/500], Step [43/45], Loss: 0.3010
+Epoch [35/500], Step [44/45], Loss: 0.3009
+Epoch [35/500], Step [45/45], Loss: 0.3009
+Epoch [36/500], Step [1/45], Loss: 0.3008
+Epoch [36/500], Step [2/45], Loss: 0.3008
+Epoch [36/500], Step [3/45], Loss: 0.3007
+Epoch [36/500], Step [4/45], Loss: 0.3007
+Epoch [36/500], Step [5/45], Loss: 0.3006
+Epoch [36/500], Step [6/45], Loss: 0.3006
+Epoch [36/500], Step [7/45], Loss: 0.3005
+Epoch [36/500], Step [8/45], Loss: 0.3005
+Epoch [36/500], Step [9/45], Loss: 0.3004
+Epoch [36/500], Step [10/45], Loss: 0.3004
+Epoch [36/500], Step [11/45], Loss: 0.3003
+Epoch [36/500], Step [12/45], Loss: 0.3003
+Epoch [36/500], Step [13/45], Loss: 0.3003
+Epoch [36/500], Step [14/45], Loss: 0.3002
+Epoch [36/500], Step [15/45], Loss: 0.3002
+Epoch [36/500], Step [16/45], Loss: 0.3001
+Epoch [36/500], Step [17/45], Loss: 0.3001
+Epoch [36/500], Step [18/45], Loss: 0.3000
+Epoch [36/500], Step [19/45], Loss: 0.3000
+Epoch [36/500], Step [20/45], Loss: 0.2999
+Epoch [36/500], Step [21/45], Loss: 0.2999
+Epoch [36/500], Step [22/45], Loss: 0.2998
+Epoch [36/500], Step [23/45], Loss: 0.2998
+Epoch [36/500], Step [24/45], Loss: 0.2997
+Epoch [36/500], Step [25/45], Loss: 0.2997
+Epoch [36/500], Step [26/45], Loss: 0.2996
+Epoch [36/500], Step [27/45], Loss: 0.2996
+Epoch [36/500], Step [28/45], Loss: 0.2996
+Epoch [36/500], Step [29/45], Loss: 0.2995
+Epoch [36/500], Step [30/45], Loss: 0.2995
+Epoch [36/500], Step [31/45], Loss: 0.2994
+Epoch [36/500], Step [32/45], Loss: 0.2994
+Epoch [36/500], Step [33/45], Loss: 0.2993
+Epoch [36/500], Step [34/45], Loss: 0.2993
+Epoch [36/500], Step [35/45], Loss: 0.2992
+Epoch [36/500], Step [36/45], Loss: 0.2992
+Epoch [36/500], Step [37/45], Loss: 0.2992
+Epoch [36/500], Step [38/45], Loss: 0.2991
+Epoch [36/500], Step [39/45], Loss: 0.2991
+Epoch [36/500], Step [40/45], Loss: 0.2990
+Epoch [36/500], Step [41/45], Loss: 0.2990
+Epoch [36/500], Step [42/45], Loss: 0.2989
+Epoch [36/500], Step [43/45], Loss: 0.2989
+Epoch [36/500], Step [44/45], Loss: 0.2988
+Epoch [36/500], Step [45/45], Loss: 0.2988
+unique_labels:1.7355
+unique_labels:1.726
+unique_labels:1.682
+unique_labels:1.714
+unique_labels:1.7565
+unique_labels:1.719
+unique_labels:1.743
+unique_labels:1.722
+unique_labels:1.7245
+unique_labels:1.7315
+satisfied:0.44925  purity:3.9120808333333335  acc:0.8287936507936507
+Epoch [37/500], Step [1/45], Loss: 0.2987
+Epoch [37/500], Step [2/45], Loss: 0.2987
+Epoch [37/500], Step [3/45], Loss: 0.2987
+Epoch [37/500], Step [4/45], Loss: 0.2986
+Epoch [37/500], Step [5/45], Loss: 0.2986
+Epoch [37/500], Step [6/45], Loss: 0.2985
+Epoch [37/500], Step [7/45], Loss: 0.2985
+Epoch [37/500], Step [8/45], Loss: 0.2984
+Epoch [37/500], Step [9/45], Loss: 0.2984
+Epoch [37/500], Step [10/45], Loss: 0.2983
+Epoch [37/500], Step [11/45], Loss: 0.2983
+Epoch [37/500], Step [12/45], Loss: 0.2983
+Epoch [37/500], Step [13/45], Loss: 0.2982
+Epoch [37/500], Step [14/45], Loss: 0.2982
+Epoch [37/500], Step [15/45], Loss: 0.2981
+Epoch [37/500], Step [16/45], Loss: 0.2981
+Epoch [37/500], Step [17/45], Loss: 0.2980
+Epoch [37/500], Step [18/45], Loss: 0.2980
+Epoch [37/500], Step [19/45], Loss: 0.2979
+Epoch [37/500], Step [20/45], Loss: 0.2979
+Epoch [37/500], Step [21/45], Loss: 0.2979
+Epoch [37/500], Step [22/45], Loss: 0.2978
+Epoch [37/500], Step [23/45], Loss: 0.2978
+Epoch [37/500], Step [24/45], Loss: 0.2977
+Epoch [37/500], Step [25/45], Loss: 0.2977
+Epoch [37/500], Step [26/45], Loss: 0.2976
+Epoch [37/500], Step [27/45], Loss: 0.2976
+Epoch [37/500], Step [28/45], Loss: 0.2976
+Epoch [37/500], Step [29/45], Loss: 0.2975
+Epoch [37/500], Step [30/45], Loss: 0.2975
+Epoch [37/500], Step [31/45], Loss: 0.2974
+Epoch [37/500], Step [32/45], Loss: 0.2974
+Epoch [37/500], Step [33/45], Loss: 0.2973
+Epoch [37/500], Step [34/45], Loss: 0.2973
+Epoch [37/500], Step [35/45], Loss: 0.2972
+Epoch [37/500], Step [36/45], Loss: 0.2972
+Epoch [37/500], Step [37/45], Loss: 0.2972
+Epoch [37/500], Step [38/45], Loss: 0.2971
+Epoch [37/500], Step [39/45], Loss: 0.2971
+Epoch [37/500], Step [40/45], Loss: 0.2970
+Epoch [37/500], Step [41/45], Loss: 0.2970
+Epoch [37/500], Step [42/45], Loss: 0.2970
+Epoch [37/500], Step [43/45], Loss: 0.2969
+Epoch [37/500], Step [44/45], Loss: 0.2969
+Epoch [37/500], Step [45/45], Loss: 0.2968
+Epoch [38/500], Step [1/45], Loss: 0.2968
+Epoch [38/500], Step [2/45], Loss: 0.2967
+Epoch [38/500], Step [3/45], Loss: 0.2967
+Epoch [38/500], Step [4/45], Loss: 0.2966
+Epoch [38/500], Step [5/45], Loss: 0.2966
+Epoch [38/500], Step [6/45], Loss: 0.2965
+Epoch [38/500], Step [7/45], Loss: 0.2965
+Epoch [38/500], Step [8/45], Loss: 0.2965
+Epoch [38/500], Step [9/45], Loss: 0.2964
+Epoch [38/500], Step [10/45], Loss: 0.2964
+Epoch [38/500], Step [11/45], Loss: 0.2963
+Epoch [38/500], Step [12/45], Loss: 0.2963
+Epoch [38/500], Step [13/45], Loss: 0.2963
+Epoch [38/500], Step [14/45], Loss: 0.2962
+Epoch [38/500], Step [15/45], Loss: 0.2962
+Epoch [38/500], Step [16/45], Loss: 0.2961
+Epoch [38/500], Step [17/45], Loss: 0.2961
+Epoch [38/500], Step [18/45], Loss: 0.2960
+Epoch [38/500], Step [19/45], Loss: 0.2960
+Epoch [38/500], Step [20/45], Loss: 0.2960
+Epoch [38/500], Step [21/45], Loss: 0.2959
+Epoch [38/500], Step [22/45], Loss: 0.2959
+Epoch [38/500], Step [23/45], Loss: 0.2958
+Epoch [38/500], Step [24/45], Loss: 0.2958
+Epoch [38/500], Step [25/45], Loss: 0.2957
+Epoch [38/500], Step [26/45], Loss: 0.2957
+Epoch [38/500], Step [27/45], Loss: 0.2956
+Epoch [38/500], Step [28/45], Loss: 0.2956
+Epoch [38/500], Step [29/45], Loss: 0.2956
+Epoch [38/500], Step [30/45], Loss: 0.2955
+Epoch [38/500], Step [31/45], Loss: 0.2955
+Epoch [38/500], Step [32/45], Loss: 0.2954
+Epoch [38/500], Step [33/45], Loss: 0.2954
+Epoch [38/500], Step [34/45], Loss: 0.2954
+Epoch [38/500], Step [35/45], Loss: 0.2953
+Epoch [38/500], Step [36/45], Loss: 0.2953
+Epoch [38/500], Step [37/45], Loss: 0.2952
+Epoch [38/500], Step [38/45], Loss: 0.2952
+Epoch [38/500], Step [39/45], Loss: 0.2951
+Epoch [38/500], Step [40/45], Loss: 0.2951
+Epoch [38/500], Step [41/45], Loss: 0.2951
+Epoch [38/500], Step [42/45], Loss: 0.2950
+Epoch [38/500], Step [43/45], Loss: 0.2950
+Epoch [38/500], Step [44/45], Loss: 0.2949
+Epoch [38/500], Step [45/45], Loss: 0.2949
+unique_labels:1.7455
+unique_labels:1.684
+unique_labels:1.7095
+unique_labels:1.7045
+unique_labels:1.7295
+unique_labels:1.714
+unique_labels:1.7515
+unique_labels:1.73
+unique_labels:1.6825
+unique_labels:1.7585
+satisfied:0.45124999999999993  purity:3.922963333333333  acc:0.8317380952380953
+Epoch [38/500], Checkpoint saved to log/weight/part8.pth satisfied:0.45124999999999993 acc:0.8317380952380953
+Epoch [39/500], Step [1/45], Loss: 0.2948
+Epoch [39/500], Step [2/45], Loss: 0.2948
+Epoch [39/500], Step [3/45], Loss: 0.2948
+Epoch [39/500], Step [4/45], Loss: 0.2947
+Epoch [39/500], Step [5/45], Loss: 0.2947
+Epoch [39/500], Step [6/45], Loss: 0.2946
+Epoch [39/500], Step [7/45], Loss: 0.2946
+Epoch [39/500], Step [8/45], Loss: 0.2945
+Epoch [39/500], Step [9/45], Loss: 0.2945
+Epoch [39/500], Step [10/45], Loss: 0.2945
+Epoch [39/500], Step [11/45], Loss: 0.2944
+Epoch [39/500], Step [12/45], Loss: 0.2944
+Epoch [39/500], Step [13/45], Loss: 0.2943
+Epoch [39/500], Step [14/45], Loss: 0.2943
+Epoch [39/500], Step [15/45], Loss: 0.2943
+Epoch [39/500], Step [16/45], Loss: 0.2942
+Epoch [39/500], Step [17/45], Loss: 0.2942
+Epoch [39/500], Step [18/45], Loss: 0.2941
+Epoch [39/500], Step [19/45], Loss: 0.2941
+Epoch [39/500], Step [20/45], Loss: 0.2941
+Epoch [39/500], Step [21/45], Loss: 0.2940
+Epoch [39/500], Step [22/45], Loss: 0.2940
+Epoch [39/500], Step [23/45], Loss: 0.2939
+Epoch [39/500], Step [24/45], Loss: 0.2939
+Epoch [39/500], Step [25/45], Loss: 0.2938
+Epoch [39/500], Step [26/45], Loss: 0.2938
+Epoch [39/500], Step [27/45], Loss: 0.2938
+Epoch [39/500], Step [28/45], Loss: 0.2937
+Epoch [39/500], Step [29/45], Loss: 0.2937
+Epoch [39/500], Step [30/45], Loss: 0.2936
+Epoch [39/500], Step [31/45], Loss: 0.2936
+Epoch [39/500], Step [32/45], Loss: 0.2936
+Epoch [39/500], Step [33/45], Loss: 0.2935
+Epoch [39/500], Step [34/45], Loss: 0.2935
+Epoch [39/500], Step [35/45], Loss: 0.2934
+Epoch [39/500], Step [36/45], Loss: 0.2934
+Epoch [39/500], Step [37/45], Loss: 0.2934
+Epoch [39/500], Step [38/45], Loss: 0.2933
+Epoch [39/500], Step [39/45], Loss: 0.2933
+Epoch [39/500], Step [40/45], Loss: 0.2932
+Epoch [39/500], Step [41/45], Loss: 0.2932
+Epoch [39/500], Step [42/45], Loss: 0.2932
+Epoch [39/500], Step [43/45], Loss: 0.2931
+Epoch [39/500], Step [44/45], Loss: 0.2931
+Epoch [39/500], Step [45/45], Loss: 0.2930
+Epoch [40/500], Step [1/45], Loss: 0.2930
+Epoch [40/500], Step [2/45], Loss: 0.2930
+Epoch [40/500], Step [3/45], Loss: 0.2929
+Epoch [40/500], Step [4/45], Loss: 0.2929
+Epoch [40/500], Step [5/45], Loss: 0.2928
+Epoch [40/500], Step [6/45], Loss: 0.2928
+Epoch [40/500], Step [7/45], Loss: 0.2927
+Epoch [40/500], Step [8/45], Loss: 0.2927
+Epoch [40/500], Step [9/45], Loss: 0.2927
+Epoch [40/500], Step [10/45], Loss: 0.2926
+Epoch [40/500], Step [11/45], Loss: 0.2926
+Epoch [40/500], Step [12/45], Loss: 0.2925
+Epoch [40/500], Step [13/45], Loss: 0.2925
+Epoch [40/500], Step [14/45], Loss: 0.2925
+Epoch [40/500], Step [15/45], Loss: 0.2924
+Epoch [40/500], Step [16/45], Loss: 0.2924
+Epoch [40/500], Step [17/45], Loss: 0.2923
+Epoch [40/500], Step [18/45], Loss: 0.2923
+Epoch [40/500], Step [19/45], Loss: 0.2923
+Epoch [40/500], Step [20/45], Loss: 0.2922
+Epoch [40/500], Step [21/45], Loss: 0.2922
+Epoch [40/500], Step [22/45], Loss: 0.2921
+Epoch [40/500], Step [23/45], Loss: 0.2921
+Epoch [40/500], Step [24/45], Loss: 0.2921
+Epoch [40/500], Step [25/45], Loss: 0.2920
+Epoch [40/500], Step [26/45], Loss: 0.2920
+Epoch [40/500], Step [27/45], Loss: 0.2919
+Epoch [40/500], Step [28/45], Loss: 0.2919
+Epoch [40/500], Step [29/45], Loss: 0.2919
+Epoch [40/500], Step [30/45], Loss: 0.2918
+Epoch [40/500], Step [31/45], Loss: 0.2918
+Epoch [40/500], Step [32/45], Loss: 0.2918
+Epoch [40/500], Step [33/45], Loss: 0.2917
+Epoch [40/500], Step [34/45], Loss: 0.2917
+Epoch [40/500], Step [35/45], Loss: 0.2916
+Epoch [40/500], Step [36/45], Loss: 0.2916
+Epoch [40/500], Step [37/45], Loss: 0.2916
+Epoch [40/500], Step [38/45], Loss: 0.2915
+Epoch [40/500], Step [39/45], Loss: 0.2915
+Epoch [40/500], Step [40/45], Loss: 0.2914
+Epoch [40/500], Step [41/45], Loss: 0.2914
+Epoch [40/500], Step [42/45], Loss: 0.2914
+Epoch [40/500], Step [43/45], Loss: 0.2913
+Epoch [40/500], Step [44/45], Loss: 0.2913
+Epoch [40/500], Step [45/45], Loss: 0.2912
+unique_labels:1.722
+unique_labels:1.6895
+unique_labels:1.7295
+unique_labels:1.7675
+unique_labels:1.7345
+unique_labels:1.7455
+unique_labels:1.722
+unique_labels:1.6735
+unique_labels:1.731
+unique_labels:1.716
+satisfied:0.44820000000000004  purity:3.907547500000001  acc:0.8295714285714286
+Epoch [41/500], Step [1/45], Loss: 0.2912
+Epoch [41/500], Step [2/45], Loss: 0.2912
+Epoch [41/500], Step [3/45], Loss: 0.2911
+Epoch [41/500], Step [4/45], Loss: 0.2911
+Epoch [41/500], Step [5/45], Loss: 0.2910
+Epoch [41/500], Step [6/45], Loss: 0.2910
+Epoch [41/500], Step [7/45], Loss: 0.2910
+Epoch [41/500], Step [8/45], Loss: 0.2909
+Epoch [41/500], Step [9/45], Loss: 0.2909
+Epoch [41/500], Step [10/45], Loss: 0.2908
+Epoch [41/500], Step [11/45], Loss: 0.2908
+Epoch [41/500], Step [12/45], Loss: 0.2908
+Epoch [41/500], Step [13/45], Loss: 0.2907
+Epoch [41/500], Step [14/45], Loss: 0.2907
+Epoch [41/500], Step [15/45], Loss: 0.2907
+Epoch [41/500], Step [16/45], Loss: 0.2906
+Epoch [41/500], Step [17/45], Loss: 0.2906
+Epoch [41/500], Step [18/45], Loss: 0.2905
+Epoch [41/500], Step [19/45], Loss: 0.2905
+Epoch [41/500], Step [20/45], Loss: 0.2905
+Epoch [41/500], Step [21/45], Loss: 0.2904
+Epoch [41/500], Step [22/45], Loss: 0.2904
+Epoch [41/500], Step [23/45], Loss: 0.2903
+Epoch [41/500], Step [24/45], Loss: 0.2903
+Epoch [41/500], Step [25/45], Loss: 0.2903
+Epoch [41/500], Step [26/45], Loss: 0.2902
+Epoch [41/500], Step [27/45], Loss: 0.2902
+Epoch [41/500], Step [28/45], Loss: 0.2901
+Epoch [41/500], Step [29/45], Loss: 0.2901
+Epoch [41/500], Step [30/45], Loss: 0.2901
+Epoch [41/500], Step [31/45], Loss: 0.2900
+Epoch [41/500], Step [32/45], Loss: 0.2900
+Epoch [41/500], Step [33/45], Loss: 0.2900
+Epoch [41/500], Step [34/45], Loss: 0.2899
+Epoch [41/500], Step [35/45], Loss: 0.2899
+Epoch [41/500], Step [36/45], Loss: 0.2898
+Epoch [41/500], Step [37/45], Loss: 0.2898
+Epoch [41/500], Step [38/45], Loss: 0.2898
+Epoch [41/500], Step [39/45], Loss: 0.2897
+Epoch [41/500], Step [40/45], Loss: 0.2897
+Epoch [41/500], Step [41/45], Loss: 0.2897
+Epoch [41/500], Step [42/45], Loss: 0.2896
+Epoch [41/500], Step [43/45], Loss: 0.2896
+Epoch [41/500], Step [44/45], Loss: 0.2895
+Epoch [41/500], Step [45/45], Loss: 0.2895
+Epoch [42/500], Step [1/45], Loss: 0.2895
+Epoch [42/500], Step [2/45], Loss: 0.2894
+Epoch [42/500], Step [3/45], Loss: 0.2894
+Epoch [42/500], Step [4/45], Loss: 0.2894
+Epoch [42/500], Step [5/45], Loss: 0.2893
+Epoch [42/500], Step [6/45], Loss: 0.2893
+Epoch [42/500], Step [7/45], Loss: 0.2892
+Epoch [42/500], Step [8/45], Loss: 0.2892
+Epoch [42/500], Step [9/45], Loss: 0.2892
+Epoch [42/500], Step [10/45], Loss: 0.2891
+Epoch [42/500], Step [11/45], Loss: 0.2891
+Epoch [42/500], Step [12/45], Loss: 0.2891
+Epoch [42/500], Step [13/45], Loss: 0.2890
+Epoch [42/500], Step [14/45], Loss: 0.2890
+Epoch [42/500], Step [15/45], Loss: 0.2889
+Epoch [42/500], Step [16/45], Loss: 0.2889
+Epoch [42/500], Step [17/45], Loss: 0.2889
+Epoch [42/500], Step [18/45], Loss: 0.2888
+Epoch [42/500], Step [19/45], Loss: 0.2888
+Epoch [42/500], Step [20/45], Loss: 0.2888
+Epoch [42/500], Step [21/45], Loss: 0.2887
+Epoch [42/500], Step [22/45], Loss: 0.2887
+Epoch [42/500], Step [23/45], Loss: 0.2887
+Epoch [42/500], Step [24/45], Loss: 0.2886
+Epoch [42/500], Step [25/45], Loss: 0.2886
+Epoch [42/500], Step [26/45], Loss: 0.2885
+Epoch [42/500], Step [27/45], Loss: 0.2885
+Epoch [42/500], Step [28/45], Loss: 0.2885
+Epoch [42/500], Step [29/45], Loss: 0.2884
+Epoch [42/500], Step [30/45], Loss: 0.2884
+Epoch [42/500], Step [31/45], Loss: 0.2884
+Epoch [42/500], Step [32/45], Loss: 0.2883
+Epoch [42/500], Step [33/45], Loss: 0.2883
+Epoch [42/500], Step [34/45], Loss: 0.2882
+Epoch [42/500], Step [35/45], Loss: 0.2882
+Epoch [42/500], Step [36/45], Loss: 0.2882
+Epoch [42/500], Step [37/45], Loss: 0.2881
+Epoch [42/500], Step [38/45], Loss: 0.2881
+Epoch [42/500], Step [39/45], Loss: 0.2881
+Epoch [42/500], Step [40/45], Loss: 0.2880
+Epoch [42/500], Step [41/45], Loss: 0.2880
+Epoch [42/500], Step [42/45], Loss: 0.2879
+Epoch [42/500], Step [43/45], Loss: 0.2879
+Epoch [42/500], Step [44/45], Loss: 0.2879
+Epoch [42/500], Step [45/45], Loss: 0.2878
+unique_labels:1.735
+unique_labels:1.7705
+unique_labels:1.7245
+unique_labels:1.7285
+unique_labels:1.7205
+unique_labels:1.737
+unique_labels:1.7065
+unique_labels:1.704
+unique_labels:1.731
+unique_labels:1.747
+satisfied:0.44279999999999997  purity:3.8907374999999993  acc:0.8290158730158732
+Epoch [43/500], Step [1/45], Loss: 0.2878
+Epoch [43/500], Step [2/45], Loss: 0.2878
+Epoch [43/500], Step [3/45], Loss: 0.2877
+Epoch [43/500], Step [4/45], Loss: 0.2877
+Epoch [43/500], Step [5/45], Loss: 0.2876
+Epoch [43/500], Step [6/45], Loss: 0.2876
+Epoch [43/500], Step [7/45], Loss: 0.2876
+Epoch [43/500], Step [8/45], Loss: 0.2875
+Epoch [43/500], Step [9/45], Loss: 0.2875
+Epoch [43/500], Step [10/45], Loss: 0.2875
+Epoch [43/500], Step [11/45], Loss: 0.2874
+Epoch [43/500], Step [12/45], Loss: 0.2874
+Epoch [43/500], Step [13/45], Loss: 0.2874
+Epoch [43/500], Step [14/45], Loss: 0.2873
+Epoch [43/500], Step [15/45], Loss: 0.2873
+Epoch [43/500], Step [16/45], Loss: 0.2873
+Epoch [43/500], Step [17/45], Loss: 0.2872
+Epoch [43/500], Step [18/45], Loss: 0.2872
+Epoch [43/500], Step [19/45], Loss: 0.2871
+Epoch [43/500], Step [20/45], Loss: 0.2871
+Epoch [43/500], Step [21/45], Loss: 0.2871
+Epoch [43/500], Step [22/45], Loss: 0.2870
+Epoch [43/500], Step [23/45], Loss: 0.2870
+Epoch [43/500], Step [24/45], Loss: 0.2870
+Epoch [43/500], Step [25/45], Loss: 0.2869
+Epoch [43/500], Step [26/45], Loss: 0.2869
+Epoch [43/500], Step [27/45], Loss: 0.2869
+Epoch [43/500], Step [28/45], Loss: 0.2868
+Epoch [43/500], Step [29/45], Loss: 0.2868
+Epoch [43/500], Step [30/45], Loss: 0.2868
+Epoch [43/500], Step [31/45], Loss: 0.2867
+Epoch [43/500], Step [32/45], Loss: 0.2867
+Epoch [43/500], Step [33/45], Loss: 0.2866
+Epoch [43/500], Step [34/45], Loss: 0.2866
+Epoch [43/500], Step [35/45], Loss: 0.2866
+Epoch [43/500], Step [36/45], Loss: 0.2865
+Epoch [43/500], Step [37/45], Loss: 0.2865
+Epoch [43/500], Step [38/45], Loss: 0.2865
+Epoch [43/500], Step [39/45], Loss: 0.2864
+Epoch [43/500], Step [40/45], Loss: 0.2864
+Epoch [43/500], Step [41/45], Loss: 0.2864
+Epoch [43/500], Step [42/45], Loss: 0.2863
+Epoch [43/500], Step [43/45], Loss: 0.2863
+Epoch [43/500], Step [44/45], Loss: 0.2862
+Epoch [43/500], Step [45/45], Loss: 0.2862
+Epoch [44/500], Step [1/45], Loss: 0.2862
+Epoch [44/500], Step [2/45], Loss: 0.2861
+Epoch [44/500], Step [3/45], Loss: 0.2861
+Epoch [44/500], Step [4/45], Loss: 0.2861
+Epoch [44/500], Step [5/45], Loss: 0.2860
+Epoch [44/500], Step [6/45], Loss: 0.2860
+Epoch [44/500], Step [7/45], Loss: 0.2860
+Epoch [44/500], Step [8/45], Loss: 0.2859
+Epoch [44/500], Step [9/45], Loss: 0.2859
+Epoch [44/500], Step [10/45], Loss: 0.2859
+Epoch [44/500], Step [11/45], Loss: 0.2858
+Epoch [44/500], Step [12/45], Loss: 0.2858
+Epoch [44/500], Step [13/45], Loss: 0.2858
+Epoch [44/500], Step [14/45], Loss: 0.2857
+Epoch [44/500], Step [15/45], Loss: 0.2857
+Epoch [44/500], Step [16/45], Loss: 0.2857
+Epoch [44/500], Step [17/45], Loss: 0.2856
+Epoch [44/500], Step [18/45], Loss: 0.2856
+Epoch [44/500], Step [19/45], Loss: 0.2856
+Epoch [44/500], Step [20/45], Loss: 0.2855
+Epoch [44/500], Step [21/45], Loss: 0.2855
+Epoch [44/500], Step [22/45], Loss: 0.2855
+Epoch [44/500], Step [23/45], Loss: 0.2854
+Epoch [44/500], Step [24/45], Loss: 0.2854
+Epoch [44/500], Step [25/45], Loss: 0.2853
+Epoch [44/500], Step [26/45], Loss: 0.2853
+Epoch [44/500], Step [27/45], Loss: 0.2853
+Epoch [44/500], Step [28/45], Loss: 0.2852
+Epoch [44/500], Step [29/45], Loss: 0.2852
+Epoch [44/500], Step [30/45], Loss: 0.2852
+Epoch [44/500], Step [31/45], Loss: 0.2851
+Epoch [44/500], Step [32/45], Loss: 0.2851
+Epoch [44/500], Step [33/45], Loss: 0.2851
+Epoch [44/500], Step [34/45], Loss: 0.2850
+Epoch [44/500], Step [35/45], Loss: 0.2850
+Epoch [44/500], Step [36/45], Loss: 0.2850
+Epoch [44/500], Step [37/45], Loss: 0.2849
+Epoch [44/500], Step [38/45], Loss: 0.2849
+Epoch [44/500], Step [39/45], Loss: 0.2849
+Epoch [44/500], Step [40/45], Loss: 0.2848
+Epoch [44/500], Step [41/45], Loss: 0.2848
+Epoch [44/500], Step [42/45], Loss: 0.2848
+Epoch [44/500], Step [43/45], Loss: 0.2847
+Epoch [44/500], Step [44/45], Loss: 0.2847
+Epoch [44/500], Step [45/45], Loss: 0.2847
+unique_labels:1.7145
+unique_labels:1.683
+unique_labels:1.737
+unique_labels:1.7265
+unique_labels:1.695
+unique_labels:1.7005
+unique_labels:1.781
+unique_labels:1.681
+unique_labels:1.707
+unique_labels:1.717
+satisfied:0.4554499999999999  purity:3.9419766666666676  acc:0.8321428571428571
+Epoch [44/500], Checkpoint saved to log/weight/part8.pth satisfied:0.4554499999999999 acc:0.8321428571428571
+Epoch [45/500], Step [1/45], Loss: 0.2846
+Epoch [45/500], Step [2/45], Loss: 0.2846
+Epoch [45/500], Step [3/45], Loss: 0.2846
+Epoch [45/500], Step [4/45], Loss: 0.2845
+Epoch [45/500], Step [5/45], Loss: 0.2845
+Epoch [45/500], Step [6/45], Loss: 0.2845
+Epoch [45/500], Step [7/45], Loss: 0.2844
+Epoch [45/500], Step [8/45], Loss: 0.2844
+Epoch [45/500], Step [9/45], Loss: 0.2844
+Epoch [45/500], Step [10/45], Loss: 0.2843
+Epoch [45/500], Step [11/45], Loss: 0.2843
+Epoch [45/500], Step [12/45], Loss: 0.2843
+Epoch [45/500], Step [13/45], Loss: 0.2842
+Epoch [45/500], Step [14/45], Loss: 0.2842
+Epoch [45/500], Step [15/45], Loss: 0.2842
+Epoch [45/500], Step [16/45], Loss: 0.2841
+Epoch [45/500], Step [17/45], Loss: 0.2841
+Epoch [45/500], Step [18/45], Loss: 0.2841
+Epoch [45/500], Step [19/45], Loss: 0.2840
+Epoch [45/500], Step [20/45], Loss: 0.2840
+Epoch [45/500], Step [21/45], Loss: 0.2840
+Epoch [45/500], Step [22/45], Loss: 0.2839
+Epoch [45/500], Step [23/45], Loss: 0.2839
+Epoch [45/500], Step [24/45], Loss: 0.2839
+Epoch [45/500], Step [25/45], Loss: 0.2838
+Epoch [45/500], Step [26/45], Loss: 0.2838
+Epoch [45/500], Step [27/45], Loss: 0.2838
+Epoch [45/500], Step [28/45], Loss: 0.2837
+Epoch [45/500], Step [29/45], Loss: 0.2837
+Epoch [45/500], Step [30/45], Loss: 0.2837
+Epoch [45/500], Step [31/45], Loss: 0.2836
+Epoch [45/500], Step [32/45], Loss: 0.2836
+Epoch [45/500], Step [33/45], Loss: 0.2836
+Epoch [45/500], Step [34/45], Loss: 0.2835
+Epoch [45/500], Step [35/45], Loss: 0.2835
+Epoch [45/500], Step [36/45], Loss: 0.2835
+Epoch [45/500], Step [37/45], Loss: 0.2834
+Epoch [45/500], Step [38/45], Loss: 0.2834
+Epoch [45/500], Step [39/45], Loss: 0.2834
+Epoch [45/500], Step [40/45], Loss: 0.2833
+Epoch [45/500], Step [41/45], Loss: 0.2833
+Epoch [45/500], Step [42/45], Loss: 0.2833
+Epoch [45/500], Step [43/45], Loss: 0.2832
+Epoch [45/500], Step [44/45], Loss: 0.2832
+Epoch [45/500], Step [45/45], Loss: 0.2832
+Epoch [46/500], Step [1/45], Loss: 0.2831
+Epoch [46/500], Step [2/45], Loss: 0.2831
+Epoch [46/500], Step [3/45], Loss: 0.2831
+Epoch [46/500], Step [4/45], Loss: 0.2830
+Epoch [46/500], Step [5/45], Loss: 0.2830
+Epoch [46/500], Step [6/45], Loss: 0.2830
+Epoch [46/500], Step [7/45], Loss: 0.2829
+Epoch [46/500], Step [8/45], Loss: 0.2829
+Epoch [46/500], Step [9/45], Loss: 0.2829
+Epoch [46/500], Step [10/45], Loss: 0.2828
+Epoch [46/500], Step [11/45], Loss: 0.2828
+Epoch [46/500], Step [12/45], Loss: 0.2828
+Epoch [46/500], Step [13/45], Loss: 0.2827
+Epoch [46/500], Step [14/45], Loss: 0.2827
+Epoch [46/500], Step [15/45], Loss: 0.2827
+Epoch [46/500], Step [16/45], Loss: 0.2826
+Epoch [46/500], Step [17/45], Loss: 0.2826
+Epoch [46/500], Step [18/45], Loss: 0.2826
+Epoch [46/500], Step [19/45], Loss: 0.2825
+Epoch [46/500], Step [20/45], Loss: 0.2825
+Epoch [46/500], Step [21/45], Loss: 0.2825
+Epoch [46/500], Step [22/45], Loss: 0.2824
+Epoch [46/500], Step [23/45], Loss: 0.2824
+Epoch [46/500], Step [24/45], Loss: 0.2824
+Epoch [46/500], Step [25/45], Loss: 0.2824
+Epoch [46/500], Step [26/45], Loss: 0.2823
+Epoch [46/500], Step [27/45], Loss: 0.2823
+Epoch [46/500], Step [28/45], Loss: 0.2823
+Epoch [46/500], Step [29/45], Loss: 0.2822
+Epoch [46/500], Step [30/45], Loss: 0.2822
+Epoch [46/500], Step [31/45], Loss: 0.2822
+Epoch [46/500], Step [32/45], Loss: 0.2821
+Epoch [46/500], Step [33/45], Loss: 0.2821
+Epoch [46/500], Step [34/45], Loss: 0.2821
+Epoch [46/500], Step [35/45], Loss: 0.2820
+Epoch [46/500], Step [36/45], Loss: 0.2820
+Epoch [46/500], Step [37/45], Loss: 0.2820
+Epoch [46/500], Step [38/45], Loss: 0.2819
+Epoch [46/500], Step [39/45], Loss: 0.2819
+Epoch [46/500], Step [40/45], Loss: 0.2819
+Epoch [46/500], Step [41/45], Loss: 0.2818
+Epoch [46/500], Step [42/45], Loss: 0.2818
+Epoch [46/500], Step [43/45], Loss: 0.2818
+Epoch [46/500], Step [44/45], Loss: 0.2817
+Epoch [46/500], Step [45/45], Loss: 0.2817
+unique_labels:1.7555
+unique_labels:1.6975
+unique_labels:1.774
+unique_labels:1.743
+unique_labels:1.7035
+unique_labels:1.7165
+unique_labels:1.729
+unique_labels:1.727
+unique_labels:1.725
+unique_labels:1.76
+satisfied:0.4445  purity:3.8847366666666665  acc:0.8275
+Epoch [47/500], Step [1/45], Loss: 0.2817
+Epoch [47/500], Step [2/45], Loss: 0.2816
+Epoch [47/500], Step [3/45], Loss: 0.2816
+Epoch [47/500], Step [4/45], Loss: 0.2816
+Epoch [47/500], Step [5/45], Loss: 0.2815
+Epoch [47/500], Step [6/45], Loss: 0.2815
+Epoch [47/500], Step [7/45], Loss: 0.2815
+Epoch [47/500], Step [8/45], Loss: 0.2814
+Epoch [47/500], Step [9/45], Loss: 0.2814
+Epoch [47/500], Step [10/45], Loss: 0.2814
+Epoch [47/500], Step [11/45], Loss: 0.2813
+Epoch [47/500], Step [12/45], Loss: 0.2813
+Epoch [47/500], Step [13/45], Loss: 0.2813
+Epoch [47/500], Step [14/45], Loss: 0.2813
+Epoch [47/500], Step [15/45], Loss: 0.2812
+Epoch [47/500], Step [16/45], Loss: 0.2812
+Epoch [47/500], Step [17/45], Loss: 0.2812
+Epoch [47/500], Step [18/45], Loss: 0.2811
+Epoch [47/500], Step [19/45], Loss: 0.2811
+Epoch [47/500], Step [20/45], Loss: 0.2811
+Epoch [47/500], Step [21/45], Loss: 0.2810
+Epoch [47/500], Step [22/45], Loss: 0.2810
+Epoch [47/500], Step [23/45], Loss: 0.2810
+Epoch [47/500], Step [24/45], Loss: 0.2809
+Epoch [47/500], Step [25/45], Loss: 0.2809
+Epoch [47/500], Step [26/45], Loss: 0.2809
+Epoch [47/500], Step [27/45], Loss: 0.2808
+Epoch [47/500], Step [28/45], Loss: 0.2808
+Epoch [47/500], Step [29/45], Loss: 0.2808
+Epoch [47/500], Step [30/45], Loss: 0.2807
+Epoch [47/500], Step [31/45], Loss: 0.2807
+Epoch [47/500], Step [32/45], Loss: 0.2807
+Epoch [47/500], Step [33/45], Loss: 0.2806
+Epoch [47/500], Step [34/45], Loss: 0.2806
+Epoch [47/500], Step [35/45], Loss: 0.2806
+Epoch [47/500], Step [36/45], Loss: 0.2805
+Epoch [47/500], Step [37/45], Loss: 0.2805
+Epoch [47/500], Step [38/45], Loss: 0.2805
+Epoch [47/500], Step [39/45], Loss: 0.2804
+Epoch [47/500], Step [40/45], Loss: 0.2804
+Epoch [47/500], Step [41/45], Loss: 0.2804
+Epoch [47/500], Step [42/45], Loss: 0.2803
+Epoch [47/500], Step [43/45], Loss: 0.2803
+Epoch [47/500], Step [44/45], Loss: 0.2803
+Epoch [47/500], Step [45/45], Loss: 0.2802
+Epoch [48/500], Step [1/45], Loss: 0.2802
+Epoch [48/500], Step [2/45], Loss: 0.2802
+Epoch [48/500], Step [3/45], Loss: 0.2802
+Epoch [48/500], Step [4/45], Loss: 0.2801
+Epoch [48/500], Step [5/45], Loss: 0.2801
+Epoch [48/500], Step [6/45], Loss: 0.2801
+Epoch [48/500], Step [7/45], Loss: 0.2800
+Epoch [48/500], Step [8/45], Loss: 0.2800
+Epoch [48/500], Step [9/45], Loss: 0.2800
+Epoch [48/500], Step [10/45], Loss: 0.2799
+Epoch [48/500], Step [11/45], Loss: 0.2799
+Epoch [48/500], Step [12/45], Loss: 0.2799
+Epoch [48/500], Step [13/45], Loss: 0.2798
+Epoch [48/500], Step [14/45], Loss: 0.2798
+Epoch [48/500], Step [15/45], Loss: 0.2798
+Epoch [48/500], Step [16/45], Loss: 0.2798
+Epoch [48/500], Step [17/45], Loss: 0.2797
+Epoch [48/500], Step [18/45], Loss: 0.2797
+Epoch [48/500], Step [19/45], Loss: 0.2797
+Epoch [48/500], Step [20/45], Loss: 0.2796
+Epoch [48/500], Step [21/45], Loss: 0.2796
+Epoch [48/500], Step [22/45], Loss: 0.2796
+Epoch [48/500], Step [23/45], Loss: 0.2795
+Epoch [48/500], Step [24/45], Loss: 0.2795
+Epoch [48/500], Step [25/45], Loss: 0.2795
+Epoch [48/500], Step [26/45], Loss: 0.2794
+Epoch [48/500], Step [27/45], Loss: 0.2794
+Epoch [48/500], Step [28/45], Loss: 0.2794
+Epoch [48/500], Step [29/45], Loss: 0.2794
+Epoch [48/500], Step [30/45], Loss: 0.2793
+Epoch [48/500], Step [31/45], Loss: 0.2793
+Epoch [48/500], Step [32/45], Loss: 0.2793
+Epoch [48/500], Step [33/45], Loss: 0.2792
+Epoch [48/500], Step [34/45], Loss: 0.2792
+Epoch [48/500], Step [35/45], Loss: 0.2792
+Epoch [48/500], Step [36/45], Loss: 0.2791
+Epoch [48/500], Step [37/45], Loss: 0.2791
+Epoch [48/500], Step [38/45], Loss: 0.2791
+Epoch [48/500], Step [39/45], Loss: 0.2790
+Epoch [48/500], Step [40/45], Loss: 0.2790
+Epoch [48/500], Step [41/45], Loss: 0.2790
+Epoch [48/500], Step [42/45], Loss: 0.2790
+Epoch [48/500], Step [43/45], Loss: 0.2789
+Epoch [48/500], Step [44/45], Loss: 0.2789
+Epoch [48/500], Step [45/45], Loss: 0.2789
+unique_labels:1.7115
+unique_labels:1.67
+unique_labels:1.6815
+unique_labels:1.7275
+unique_labels:1.749
+unique_labels:1.694
+unique_labels:1.721
+unique_labels:1.693
+unique_labels:1.725
+unique_labels:1.7335
+satisfied:0.45535  purity:3.9489708333333327  acc:0.831968253968254
+Epoch [49/500], Step [1/45], Loss: 0.2788
+Epoch [49/500], Step [2/45], Loss: 0.2788
+Epoch [49/500], Step [3/45], Loss: 0.2788
+Epoch [49/500], Step [4/45], Loss: 0.2787
+Epoch [49/500], Step [5/45], Loss: 0.2787
+Epoch [49/500], Step [6/45], Loss: 0.2787
+Epoch [49/500], Step [7/45], Loss: 0.2786
+Epoch [49/500], Step [8/45], Loss: 0.2786
+Epoch [49/500], Step [9/45], Loss: 0.2786
+Epoch [49/500], Step [10/45], Loss: 0.2786
+Epoch [49/500], Step [11/45], Loss: 0.2785
+Epoch [49/500], Step [12/45], Loss: 0.2785
+Epoch [49/500], Step [13/45], Loss: 0.2785
+Epoch [49/500], Step [14/45], Loss: 0.2784
+Epoch [49/500], Step [15/45], Loss: 0.2784
+Epoch [49/500], Step [16/45], Loss: 0.2784
+Epoch [49/500], Step [17/45], Loss: 0.2784
+Epoch [49/500], Step [18/45], Loss: 0.2783
+Epoch [49/500], Step [19/45], Loss: 0.2783
+Epoch [49/500], Step [20/45], Loss: 0.2783
+Epoch [49/500], Step [21/45], Loss: 0.2782
+Epoch [49/500], Step [22/45], Loss: 0.2782
+Epoch [49/500], Step [23/45], Loss: 0.2782
+Epoch [49/500], Step [24/45], Loss: 0.2781
+Epoch [49/500], Step [25/45], Loss: 0.2781
+Epoch [49/500], Step [26/45], Loss: 0.2781
+Epoch [49/500], Step [27/45], Loss: 0.2780
+Epoch [49/500], Step [28/45], Loss: 0.2780
+Epoch [49/500], Step [29/45], Loss: 0.2780
+Epoch [49/500], Step [30/45], Loss: 0.2780
+Epoch [49/500], Step [31/45], Loss: 0.2779
+Epoch [49/500], Step [32/45], Loss: 0.2779
+Epoch [49/500], Step [33/45], Loss: 0.2779
+Epoch [49/500], Step [34/45], Loss: 0.2778
+Epoch [49/500], Step [35/45], Loss: 0.2778
+Epoch [49/500], Step [36/45], Loss: 0.2778
+Epoch [49/500], Step [37/45], Loss: 0.2778
+Epoch [49/500], Step [38/45], Loss: 0.2777
+Epoch [49/500], Step [39/45], Loss: 0.2777
+Epoch [49/500], Step [40/45], Loss: 0.2777
+Epoch [49/500], Step [41/45], Loss: 0.2776
+Epoch [49/500], Step [42/45], Loss: 0.2776
+Epoch [49/500], Step [43/45], Loss: 0.2776
+Epoch [49/500], Step [44/45], Loss: 0.2775
+Epoch [49/500], Step [45/45], Loss: 0.2775
+Epoch [50/500], Step [1/45], Loss: 0.2775
+Epoch [50/500], Step [2/45], Loss: 0.2774
+Epoch [50/500], Step [3/45], Loss: 0.2774
+Epoch [50/500], Step [4/45], Loss: 0.2774
+Epoch [50/500], Step [5/45], Loss: 0.2773
+Epoch [50/500], Step [6/45], Loss: 0.2773
+Epoch [50/500], Step [7/45], Loss: 0.2773
+Epoch [50/500], Step [8/45], Loss: 0.2773
+Epoch [50/500], Step [9/45], Loss: 0.2772
+Epoch [50/500], Step [10/45], Loss: 0.2772
+Epoch [50/500], Step [11/45], Loss: 0.2772
+Epoch [50/500], Step [12/45], Loss: 0.2772
+Epoch [50/500], Step [13/45], Loss: 0.2771
+Epoch [50/500], Step [14/45], Loss: 0.2771
+Epoch [50/500], Step [15/45], Loss: 0.2771
+Epoch [50/500], Step [16/45], Loss: 0.2770
+Epoch [50/500], Step [17/45], Loss: 0.2770
+Epoch [50/500], Step [18/45], Loss: 0.2770
+Epoch [50/500], Step [19/45], Loss: 0.2770
+Epoch [50/500], Step [20/45], Loss: 0.2769
+Epoch [50/500], Step [21/45], Loss: 0.2769
+Epoch [50/500], Step [22/45], Loss: 0.2769
+Epoch [50/500], Step [23/45], Loss: 0.2768
+Epoch [50/500], Step [24/45], Loss: 0.2768
+Epoch [50/500], Step [25/45], Loss: 0.2768
+Epoch [50/500], Step [26/45], Loss: 0.2767
+Epoch [50/500], Step [27/45], Loss: 0.2767
+Epoch [50/500], Step [28/45], Loss: 0.2767
+Epoch [50/500], Step [29/45], Loss: 0.2767
+Epoch [50/500], Step [30/45], Loss: 0.2766
+Epoch [50/500], Step [31/45], Loss: 0.2766
+Epoch [50/500], Step [32/45], Loss: 0.2766
+Epoch [50/500], Step [33/45], Loss: 0.2765
+Epoch [50/500], Step [34/45], Loss: 0.2765
+Epoch [50/500], Step [35/45], Loss: 0.2765
+Epoch [50/500], Step [36/45], Loss: 0.2764
+Epoch [50/500], Step [37/45], Loss: 0.2764
+Epoch [50/500], Step [38/45], Loss: 0.2764
+Epoch [50/500], Step [39/45], Loss: 0.2764
+Epoch [50/500], Step [40/45], Loss: 0.2763
+Epoch [50/500], Step [41/45], Loss: 0.2763
+Epoch [50/500], Step [42/45], Loss: 0.2763
+Epoch [50/500], Step [43/45], Loss: 0.2762
+Epoch [50/500], Step [44/45], Loss: 0.2762
+Epoch [50/500], Step [45/45], Loss: 0.2762
+unique_labels:1.7045
+unique_labels:1.7025
+unique_labels:1.7355
+unique_labels:1.7225
+unique_labels:1.685
+unique_labels:1.723
+unique_labels:1.7165
+unique_labels:1.679
+unique_labels:1.735
+unique_labels:1.705
+satisfied:0.4537  purity:3.9431183333333335  acc:0.8327222222222221
+Epoch [50/500], Checkpoint saved to log/weight/part8.pth satisfied:0.4537 acc:0.8327222222222221
+Epoch [51/500], Step [1/45], Loss: 0.2761
+Epoch [51/500], Step [2/45], Loss: 0.2761
+Epoch [51/500], Step [3/45], Loss: 0.2761
+Epoch [51/500], Step [4/45], Loss: 0.2761
+Epoch [51/500], Step [5/45], Loss: 0.2760
+Epoch [51/500], Step [6/45], Loss: 0.2760
+Epoch [51/500], Step [7/45], Loss: 0.2760
+Epoch [51/500], Step [8/45], Loss: 0.2759
+Epoch [51/500], Step [9/45], Loss: 0.2759
+Epoch [51/500], Step [10/45], Loss: 0.2759
+Epoch [51/500], Step [11/45], Loss: 0.2759
+Epoch [51/500], Step [12/45], Loss: 0.2758
+Epoch [51/500], Step [13/45], Loss: 0.2758
+Epoch [51/500], Step [14/45], Loss: 0.2758
+Epoch [51/500], Step [15/45], Loss: 0.2757
+Epoch [51/500], Step [16/45], Loss: 0.2757
+Epoch [51/500], Step [17/45], Loss: 0.2757
+Epoch [51/500], Step [18/45], Loss: 0.2757
+Epoch [51/500], Step [19/45], Loss: 0.2756
+Epoch [51/500], Step [20/45], Loss: 0.2756
+Epoch [51/500], Step [21/45], Loss: 0.2756
+Epoch [51/500], Step [22/45], Loss: 0.2755
+Epoch [51/500], Step [23/45], Loss: 0.2755
+Epoch [51/500], Step [24/45], Loss: 0.2755
+Epoch [51/500], Step [25/45], Loss: 0.2755
+Epoch [51/500], Step [26/45], Loss: 0.2754
+Epoch [51/500], Step [27/45], Loss: 0.2754
+Epoch [51/500], Step [28/45], Loss: 0.2754
+Epoch [51/500], Step [29/45], Loss: 0.2753
+Epoch [51/500], Step [30/45], Loss: 0.2753
+Epoch [51/500], Step [31/45], Loss: 0.2753
+Epoch [51/500], Step [32/45], Loss: 0.2753
+Epoch [51/500], Step [33/45], Loss: 0.2752
+Epoch [51/500], Step [34/45], Loss: 0.2752
+Epoch [51/500], Step [35/45], Loss: 0.2752
+Epoch [51/500], Step [36/45], Loss: 0.2751
+Epoch [51/500], Step [37/45], Loss: 0.2751
+Epoch [51/500], Step [38/45], Loss: 0.2751
+Epoch [51/500], Step [39/45], Loss: 0.2751
+Epoch [51/500], Step [40/45], Loss: 0.2750
+Epoch [51/500], Step [41/45], Loss: 0.2750
+Epoch [51/500], Step [42/45], Loss: 0.2750
+Epoch [51/500], Step [43/45], Loss: 0.2749
+Epoch [51/500], Step [44/45], Loss: 0.2749
+Epoch [51/500], Step [45/45], Loss: 0.2749
+Epoch [52/500], Step [1/45], Loss: 0.2749
+Epoch [52/500], Step [2/45], Loss: 0.2748
+Epoch [52/500], Step [3/45], Loss: 0.2748
+Epoch [52/500], Step [4/45], Loss: 0.2748
+Epoch [52/500], Step [5/45], Loss: 0.2747
+Epoch [52/500], Step [6/45], Loss: 0.2747
+Epoch [52/500], Step [7/45], Loss: 0.2747
+Epoch [52/500], Step [8/45], Loss: 0.2747
+Epoch [52/500], Step [9/45], Loss: 0.2746
+Epoch [52/500], Step [10/45], Loss: 0.2746
+Epoch [52/500], Step [11/45], Loss: 0.2746
+Epoch [52/500], Step [12/45], Loss: 0.2745
+Epoch [52/500], Step [13/45], Loss: 0.2745
+Epoch [52/500], Step [14/45], Loss: 0.2745
+Epoch [52/500], Step [15/45], Loss: 0.2745
+Epoch [52/500], Step [16/45], Loss: 0.2744
+Epoch [52/500], Step [17/45], Loss: 0.2744
+Epoch [52/500], Step [18/45], Loss: 0.2744
+Epoch [52/500], Step [19/45], Loss: 0.2743
+Epoch [52/500], Step [20/45], Loss: 0.2743
+Epoch [52/500], Step [21/45], Loss: 0.2743
+Epoch [52/500], Step [22/45], Loss: 0.2743
+Epoch [52/500], Step [23/45], Loss: 0.2742
+Epoch [52/500], Step [24/45], Loss: 0.2742
+Epoch [52/500], Step [25/45], Loss: 0.2742
+Epoch [52/500], Step [26/45], Loss: 0.2741
+Epoch [52/500], Step [27/45], Loss: 0.2741
+Epoch [52/500], Step [28/45], Loss: 0.2741
+Epoch [52/500], Step [29/45], Loss: 0.2741
+Epoch [52/500], Step [30/45], Loss: 0.2740
+Epoch [52/500], Step [31/45], Loss: 0.2740
+Epoch [52/500], Step [32/45], Loss: 0.2740
+Epoch [52/500], Step [33/45], Loss: 0.2740
+Epoch [52/500], Step [34/45], Loss: 0.2739
+Epoch [52/500], Step [35/45], Loss: 0.2739
+Epoch [52/500], Step [36/45], Loss: 0.2739
+Epoch [52/500], Step [37/45], Loss: 0.2739
+Epoch [52/500], Step [38/45], Loss: 0.2738
+Epoch [52/500], Step [39/45], Loss: 0.2738
+Epoch [52/500], Step [40/45], Loss: 0.2738
+Epoch [52/500], Step [41/45], Loss: 0.2737
+Epoch [52/500], Step [42/45], Loss: 0.2737
+Epoch [52/500], Step [43/45], Loss: 0.2737
+Epoch [52/500], Step [44/45], Loss: 0.2737
+Epoch [52/500], Step [45/45], Loss: 0.2736
+unique_labels:1.719
+unique_labels:1.7055
+unique_labels:1.7535
+unique_labels:1.7265
+unique_labels:1.682
+unique_labels:1.7135
+unique_labels:1.7075
+unique_labels:1.7345
+unique_labels:1.712
+unique_labels:1.7455
+satisfied:0.45099999999999996  purity:3.924075833333334  acc:0.8308095238095238
+Epoch [53/500], Step [1/45], Loss: 0.2736
+Epoch [53/500], Step [2/45], Loss: 0.2736
+Epoch [53/500], Step [3/45], Loss: 0.2735
+Epoch [53/500], Step [4/45], Loss: 0.2735
+Epoch [53/500], Step [5/45], Loss: 0.2735
+Epoch [53/500], Step [6/45], Loss: 0.2735
+Epoch [53/500], Step [7/45], Loss: 0.2734
+Epoch [53/500], Step [8/45], Loss: 0.2734
+Epoch [53/500], Step [9/45], Loss: 0.2734
+Epoch [53/500], Step [10/45], Loss: 0.2733
+Epoch [53/500], Step [11/45], Loss: 0.2733
+Epoch [53/500], Step [12/45], Loss: 0.2733
+Epoch [53/500], Step [13/45], Loss: 0.2733
+Epoch [53/500], Step [14/45], Loss: 0.2732
+Epoch [53/500], Step [15/45], Loss: 0.2732
+Epoch [53/500], Step [16/45], Loss: 0.2732
+Epoch [53/500], Step [17/45], Loss: 0.2732
+Epoch [53/500], Step [18/45], Loss: 0.2731
+Epoch [53/500], Step [19/45], Loss: 0.2731
+Epoch [53/500], Step [20/45], Loss: 0.2731
+Epoch [53/500], Step [21/45], Loss: 0.2730
+Epoch [53/500], Step [22/45], Loss: 0.2730
+Epoch [53/500], Step [23/45], Loss: 0.2730
+Epoch [53/500], Step [24/45], Loss: 0.2730
+Epoch [53/500], Step [25/45], Loss: 0.2729
+Epoch [53/500], Step [26/45], Loss: 0.2729
+Epoch [53/500], Step [27/45], Loss: 0.2729
+Epoch [53/500], Step [28/45], Loss: 0.2729
+Epoch [53/500], Step [29/45], Loss: 0.2728
+Epoch [53/500], Step [30/45], Loss: 0.2728
+Epoch [53/500], Step [31/45], Loss: 0.2728
+Epoch [53/500], Step [32/45], Loss: 0.2728
+Epoch [53/500], Step [33/45], Loss: 0.2727
+Epoch [53/500], Step [34/45], Loss: 0.2727
+Epoch [53/500], Step [35/45], Loss: 0.2727
+Epoch [53/500], Step [36/45], Loss: 0.2726
+Epoch [53/500], Step [37/45], Loss: 0.2726
+Epoch [53/500], Step [38/45], Loss: 0.2726
+Epoch [53/500], Step [39/45], Loss: 0.2726
+Epoch [53/500], Step [40/45], Loss: 0.2725
+Epoch [53/500], Step [41/45], Loss: 0.2725
+Epoch [53/500], Step [42/45], Loss: 0.2725
+Epoch [53/500], Step [43/45], Loss: 0.2724
+Epoch [53/500], Step [44/45], Loss: 0.2724
+Epoch [53/500], Step [45/45], Loss: 0.2724
+Epoch [54/500], Step [1/45], Loss: 0.2724
+Epoch [54/500], Step [2/45], Loss: 0.2723
+Epoch [54/500], Step [3/45], Loss: 0.2723
+Epoch [54/500], Step [4/45], Loss: 0.2723
+Epoch [54/500], Step [5/45], Loss: 0.2723
+Epoch [54/500], Step [6/45], Loss: 0.2722
+Epoch [54/500], Step [7/45], Loss: 0.2722
+Epoch [54/500], Step [8/45], Loss: 0.2722
+Epoch [54/500], Step [9/45], Loss: 0.2721
+Epoch [54/500], Step [10/45], Loss: 0.2721
+Epoch [54/500], Step [11/45], Loss: 0.2721
+Epoch [54/500], Step [12/45], Loss: 0.2721
+Epoch [54/500], Step [13/45], Loss: 0.2720
+Epoch [54/500], Step [14/45], Loss: 0.2720
+Epoch [54/500], Step [15/45], Loss: 0.2720
+Epoch [54/500], Step [16/45], Loss: 0.2720
+Epoch [54/500], Step [17/45], Loss: 0.2719
+Epoch [54/500], Step [18/45], Loss: 0.2719
+Epoch [54/500], Step [19/45], Loss: 0.2719
+Epoch [54/500], Step [20/45], Loss: 0.2719
+Epoch [54/500], Step [21/45], Loss: 0.2718
+Epoch [54/500], Step [22/45], Loss: 0.2718
+Epoch [54/500], Step [23/45], Loss: 0.2718
+Epoch [54/500], Step [24/45], Loss: 0.2718
+Epoch [54/500], Step [25/45], Loss: 0.2717
+Epoch [54/500], Step [26/45], Loss: 0.2717
+Epoch [54/500], Step [27/45], Loss: 0.2717
+Epoch [54/500], Step [28/45], Loss: 0.2716
+Epoch [54/500], Step [29/45], Loss: 0.2716
+Epoch [54/500], Step [30/45], Loss: 0.2716
+Epoch [54/500], Step [31/45], Loss: 0.2716
+Epoch [54/500], Step [32/45], Loss: 0.2715
+Epoch [54/500], Step [33/45], Loss: 0.2715
+Epoch [54/500], Step [34/45], Loss: 0.2715
+Epoch [54/500], Step [35/45], Loss: 0.2715
+Epoch [54/500], Step [36/45], Loss: 0.2714
+Epoch [54/500], Step [37/45], Loss: 0.2714
+Epoch [54/500], Step [38/45], Loss: 0.2714
+Epoch [54/500], Step [39/45], Loss: 0.2714
+Epoch [54/500], Step [40/45], Loss: 0.2713
+Epoch [54/500], Step [41/45], Loss: 0.2713
+Epoch [54/500], Step [42/45], Loss: 0.2713
+Epoch [54/500], Step [43/45], Loss: 0.2712
+Epoch [54/500], Step [44/45], Loss: 0.2712
+Epoch [54/500], Step [45/45], Loss: 0.2712
+unique_labels:1.688
+unique_labels:1.674
+unique_labels:1.7075
+unique_labels:1.727
+unique_labels:1.7275
+unique_labels:1.7365
+unique_labels:1.715
+unique_labels:1.71
+unique_labels:1.7115
+unique_labels:1.7545
+satisfied:0.453  purity:3.9325874999999995  acc:0.8305238095238096
+Epoch [55/500], Step [1/45], Loss: 0.2712
+Epoch [55/500], Step [2/45], Loss: 0.2711
+Epoch [55/500], Step [3/45], Loss: 0.2711
+Epoch [55/500], Step [4/45], Loss: 0.2711
+Epoch [55/500], Step [5/45], Loss: 0.2711
+Epoch [55/500], Step [6/45], Loss: 0.2710
+Epoch [55/500], Step [7/45], Loss: 0.2710
+Epoch [55/500], Step [8/45], Loss: 0.2710
+Epoch [55/500], Step [9/45], Loss: 0.2710
+Epoch [55/500], Step [10/45], Loss: 0.2709
+Epoch [55/500], Step [11/45], Loss: 0.2709
+Epoch [55/500], Step [12/45], Loss: 0.2709
+Epoch [55/500], Step [13/45], Loss: 0.2709
+Epoch [55/500], Step [14/45], Loss: 0.2708
+Epoch [55/500], Step [15/45], Loss: 0.2708
+Epoch [55/500], Step [16/45], Loss: 0.2708
+Epoch [55/500], Step [17/45], Loss: 0.2708
+Epoch [55/500], Step [18/45], Loss: 0.2707
+Epoch [55/500], Step [19/45], Loss: 0.2707
+Epoch [55/500], Step [20/45], Loss: 0.2707
+Epoch [55/500], Step [21/45], Loss: 0.2706
+Epoch [55/500], Step [22/45], Loss: 0.2706
+Epoch [55/500], Step [23/45], Loss: 0.2706
+Epoch [55/500], Step [24/45], Loss: 0.2706
+Epoch [55/500], Step [25/45], Loss: 0.2705
+Epoch [55/500], Step [26/45], Loss: 0.2705
+Epoch [55/500], Step [27/45], Loss: 0.2705
+Epoch [55/500], Step [28/45], Loss: 0.2705
+Epoch [55/500], Step [29/45], Loss: 0.2704
+Epoch [55/500], Step [30/45], Loss: 0.2704
+Epoch [55/500], Step [31/45], Loss: 0.2704
+Epoch [55/500], Step [32/45], Loss: 0.2704
+Epoch [55/500], Step [33/45], Loss: 0.2703
+Epoch [55/500], Step [34/45], Loss: 0.2703
+Epoch [55/500], Step [35/45], Loss: 0.2703
+Epoch [55/500], Step [36/45], Loss: 0.2703
+Epoch [55/500], Step [37/45], Loss: 0.2702
+Epoch [55/500], Step [38/45], Loss: 0.2702
+Epoch [55/500], Step [39/45], Loss: 0.2702
+Epoch [55/500], Step [40/45], Loss: 0.2702
+Epoch [55/500], Step [41/45], Loss: 0.2701
+Epoch [55/500], Step [42/45], Loss: 0.2701
+Epoch [55/500], Step [43/45], Loss: 0.2701
+Epoch [55/500], Step [44/45], Loss: 0.2701
+Epoch [55/500], Step [45/45], Loss: 0.2700
+Epoch [56/500], Step [1/45], Loss: 0.2700
+Epoch [56/500], Step [2/45], Loss: 0.2700
+Epoch [56/500], Step [3/45], Loss: 0.2700
+Epoch [56/500], Step [4/45], Loss: 0.2699
+Epoch [56/500], Step [5/45], Loss: 0.2699
+Epoch [56/500], Step [6/45], Loss: 0.2699
+Epoch [56/500], Step [7/45], Loss: 0.2698
+Epoch [56/500], Step [8/45], Loss: 0.2698
+Epoch [56/500], Step [9/45], Loss: 0.2698
+Epoch [56/500], Step [10/45], Loss: 0.2698
+Epoch [56/500], Step [11/45], Loss: 0.2697
+Epoch [56/500], Step [12/45], Loss: 0.2697
+Epoch [56/500], Step [13/45], Loss: 0.2697
+Epoch [56/500], Step [14/45], Loss: 0.2697
+Epoch [56/500], Step [15/45], Loss: 0.2696
+Epoch [56/500], Step [16/45], Loss: 0.2696
+Epoch [56/500], Step [17/45], Loss: 0.2696
+Epoch [56/500], Step [18/45], Loss: 0.2696
+Epoch [56/500], Step [19/45], Loss: 0.2696
+Epoch [56/500], Step [20/45], Loss: 0.2695
+Epoch [56/500], Step [21/45], Loss: 0.2695
+Epoch [56/500], Step [22/45], Loss: 0.2695
+Epoch [56/500], Step [23/45], Loss: 0.2694
+Epoch [56/500], Step [24/45], Loss: 0.2694
+Epoch [56/500], Step [25/45], Loss: 0.2694
+Epoch [56/500], Step [26/45], Loss: 0.2694
+Epoch [56/500], Step [27/45], Loss: 0.2693
+Epoch [56/500], Step [28/45], Loss: 0.2693
+Epoch [56/500], Step [29/45], Loss: 0.2693
+Epoch [56/500], Step [30/45], Loss: 0.2693
+Epoch [56/500], Step [31/45], Loss: 0.2692
+Epoch [56/500], Step [32/45], Loss: 0.2692
+Epoch [56/500], Step [33/45], Loss: 0.2692
+Epoch [56/500], Step [34/45], Loss: 0.2692
+Epoch [56/500], Step [35/45], Loss: 0.2691
+Epoch [56/500], Step [36/45], Loss: 0.2691
+Epoch [56/500], Step [37/45], Loss: 0.2691
+Epoch [56/500], Step [38/45], Loss: 0.2691
+Epoch [56/500], Step [39/45], Loss: 0.2690
+Epoch [56/500], Step [40/45], Loss: 0.2690
+Epoch [56/500], Step [41/45], Loss: 0.2690
+Epoch [56/500], Step [42/45], Loss: 0.2690
+Epoch [56/500], Step [43/45], Loss: 0.2689
+Epoch [56/500], Step [44/45], Loss: 0.2689
+Epoch [56/500], Step [45/45], Loss: 0.2689
+unique_labels:1.7195
+unique_labels:1.719
+unique_labels:1.7305
+unique_labels:1.723
+unique_labels:1.683
+unique_labels:1.684
+unique_labels:1.705
+unique_labels:1.6985
+unique_labels:1.7475
+unique_labels:1.683
+satisfied:0.45504999999999995  purity:3.952039999999999  acc:0.8339047619047619
+Epoch [56/500], Checkpoint saved to log/weight/part8.pth satisfied:0.45504999999999995 acc:0.8339047619047619
+Epoch [57/500], Step [1/45], Loss: 0.2689
+Epoch [57/500], Step [2/45], Loss: 0.2688
+Epoch [57/500], Step [3/45], Loss: 0.2688
+Epoch [57/500], Step [4/45], Loss: 0.2688
+Epoch [57/500], Step [5/45], Loss: 0.2688
+Epoch [57/500], Step [6/45], Loss: 0.2687
+Epoch [57/500], Step [7/45], Loss: 0.2687
+Epoch [57/500], Step [8/45], Loss: 0.2687
+Epoch [57/500], Step [9/45], Loss: 0.2687
+Epoch [57/500], Step [10/45], Loss: 0.2686
+Epoch [57/500], Step [11/45], Loss: 0.2686
+Epoch [57/500], Step [12/45], Loss: 0.2686
+Epoch [57/500], Step [13/45], Loss: 0.2686
+Epoch [57/500], Step [14/45], Loss: 0.2685
+Epoch [57/500], Step [15/45], Loss: 0.2685
+Epoch [57/500], Step [16/45], Loss: 0.2685
+Epoch [57/500], Step [17/45], Loss: 0.2685
+Epoch [57/500], Step [18/45], Loss: 0.2684
+Epoch [57/500], Step [19/45], Loss: 0.2684
+Epoch [57/500], Step [20/45], Loss: 0.2684
+Epoch [57/500], Step [21/45], Loss: 0.2684
+Epoch [57/500], Step [22/45], Loss: 0.2683
+Epoch [57/500], Step [23/45], Loss: 0.2683
+Epoch [57/500], Step [24/45], Loss: 0.2683
+Epoch [57/500], Step [25/45], Loss: 0.2683
+Epoch [57/500], Step [26/45], Loss: 0.2682
+Epoch [57/500], Step [27/45], Loss: 0.2682
+Epoch [57/500], Step [28/45], Loss: 0.2682
+Epoch [57/500], Step [29/45], Loss: 0.2682
+Epoch [57/500], Step [30/45], Loss: 0.2681
+Epoch [57/500], Step [31/45], Loss: 0.2681
+Epoch [57/500], Step [32/45], Loss: 0.2681
+Epoch [57/500], Step [33/45], Loss: 0.2681
+Epoch [57/500], Step [34/45], Loss: 0.2681
+Epoch [57/500], Step [35/45], Loss: 0.2680
+Epoch [57/500], Step [36/45], Loss: 0.2680
+Epoch [57/500], Step [37/45], Loss: 0.2680
+Epoch [57/500], Step [38/45], Loss: 0.2680
+Epoch [57/500], Step [39/45], Loss: 0.2679
+Epoch [57/500], Step [40/45], Loss: 0.2679
+Epoch [57/500], Step [41/45], Loss: 0.2679
+Epoch [57/500], Step [42/45], Loss: 0.2679
+Epoch [57/500], Step [43/45], Loss: 0.2678
+Epoch [57/500], Step [44/45], Loss: 0.2678
+Epoch [57/500], Step [45/45], Loss: 0.2678
+Epoch [58/500], Step [1/45], Loss: 0.2678
+Epoch [58/500], Step [2/45], Loss: 0.2677
+Epoch [58/500], Step [3/45], Loss: 0.2677
+Epoch [58/500], Step [4/45], Loss: 0.2677
+Epoch [58/500], Step [5/45], Loss: 0.2677
+Epoch [58/500], Step [6/45], Loss: 0.2676
+Epoch [58/500], Step [7/45], Loss: 0.2676
+Epoch [58/500], Step [8/45], Loss: 0.2676
+Epoch [58/500], Step [9/45], Loss: 0.2676
+Epoch [58/500], Step [10/45], Loss: 0.2675
+Epoch [58/500], Step [11/45], Loss: 0.2675
+Epoch [58/500], Step [12/45], Loss: 0.2675
+Epoch [58/500], Step [13/45], Loss: 0.2675
+Epoch [58/500], Step [14/45], Loss: 0.2674
+Epoch [58/500], Step [15/45], Loss: 0.2674
+Epoch [58/500], Step [16/45], Loss: 0.2674
+Epoch [58/500], Step [17/45], Loss: 0.2674
+Epoch [58/500], Step [18/45], Loss: 0.2673
+Epoch [58/500], Step [19/45], Loss: 0.2673
+Epoch [58/500], Step [20/45], Loss: 0.2673
+Epoch [58/500], Step [21/45], Loss: 0.2673
+Epoch [58/500], Step [22/45], Loss: 0.2672
+Epoch [58/500], Step [23/45], Loss: 0.2672
+Epoch [58/500], Step [24/45], Loss: 0.2672
+Epoch [58/500], Step [25/45], Loss: 0.2672
+Epoch [58/500], Step [26/45], Loss: 0.2671
+Epoch [58/500], Step [27/45], Loss: 0.2671
+Epoch [58/500], Step [28/45], Loss: 0.2671
+Epoch [58/500], Step [29/45], Loss: 0.2671
+Epoch [58/500], Step [30/45], Loss: 0.2671
+Epoch [58/500], Step [31/45], Loss: 0.2670
+Epoch [58/500], Step [32/45], Loss: 0.2670
+Epoch [58/500], Step [33/45], Loss: 0.2670
+Epoch [58/500], Step [34/45], Loss: 0.2670
+Epoch [58/500], Step [35/45], Loss: 0.2669
+Epoch [58/500], Step [36/45], Loss: 0.2669
+Epoch [58/500], Step [37/45], Loss: 0.2669
+Epoch [58/500], Step [38/45], Loss: 0.2669
+Epoch [58/500], Step [39/45], Loss: 0.2668
+Epoch [58/500], Step [40/45], Loss: 0.2668
+Epoch [58/500], Step [41/45], Loss: 0.2668
+Epoch [58/500], Step [42/45], Loss: 0.2668
+Epoch [58/500], Step [43/45], Loss: 0.2667
+Epoch [58/500], Step [44/45], Loss: 0.2667
+Epoch [58/500], Step [45/45], Loss: 0.2667
+unique_labels:1.722
+unique_labels:1.7215
+unique_labels:1.726
+unique_labels:1.757
+unique_labels:1.721
+unique_labels:1.7125
+unique_labels:1.719
+unique_labels:1.7305
+unique_labels:1.716
+unique_labels:1.773
+satisfied:0.44805  purity:3.9031866666666657  acc:0.8287777777777776
+Epoch [59/500], Step [1/45], Loss: 0.2667
+Epoch [59/500], Step [2/45], Loss: 0.2666
+Epoch [59/500], Step [3/45], Loss: 0.2666
+Epoch [59/500], Step [4/45], Loss: 0.2666
+Epoch [59/500], Step [5/45], Loss: 0.2666
+Epoch [59/500], Step [6/45], Loss: 0.2665
+Epoch [59/500], Step [7/45], Loss: 0.2665
+Epoch [59/500], Step [8/45], Loss: 0.2665
+Epoch [59/500], Step [9/45], Loss: 0.2665
+Epoch [59/500], Step [10/45], Loss: 0.2665
+Epoch [59/500], Step [11/45], Loss: 0.2664
+Epoch [59/500], Step [12/45], Loss: 0.2664
+Epoch [59/500], Step [13/45], Loss: 0.2664
+Epoch [59/500], Step [14/45], Loss: 0.2664
+Epoch [59/500], Step [15/45], Loss: 0.2663
+Epoch [59/500], Step [16/45], Loss: 0.2663
+Epoch [59/500], Step [17/45], Loss: 0.2663
+Epoch [59/500], Step [18/45], Loss: 0.2663
+Epoch [59/500], Step [19/45], Loss: 0.2662
+Epoch [59/500], Step [20/45], Loss: 0.2662
+Epoch [59/500], Step [21/45], Loss: 0.2662
+Epoch [59/500], Step [22/45], Loss: 0.2662
+Epoch [59/500], Step [23/45], Loss: 0.2661
+Epoch [59/500], Step [24/45], Loss: 0.2661
+Epoch [59/500], Step [25/45], Loss: 0.2661
+Epoch [59/500], Step [26/45], Loss: 0.2661
+Epoch [59/500], Step [27/45], Loss: 0.2660
+Epoch [59/500], Step [28/45], Loss: 0.2660
+Epoch [59/500], Step [29/45], Loss: 0.2660
+Epoch [59/500], Step [30/45], Loss: 0.2660
+Epoch [59/500], Step [31/45], Loss: 0.2660
+Epoch [59/500], Step [32/45], Loss: 0.2659
+Epoch [59/500], Step [33/45], Loss: 0.2659
+Epoch [59/500], Step [34/45], Loss: 0.2659
+Epoch [59/500], Step [35/45], Loss: 0.2659
+Epoch [59/500], Step [36/45], Loss: 0.2658
+Epoch [59/500], Step [37/45], Loss: 0.2658
+Epoch [59/500], Step [38/45], Loss: 0.2658
+Epoch [59/500], Step [39/45], Loss: 0.2658
+Epoch [59/500], Step [40/45], Loss: 0.2657
+Epoch [59/500], Step [41/45], Loss: 0.2657
+Epoch [59/500], Step [42/45], Loss: 0.2657
+Epoch [59/500], Step [43/45], Loss: 0.2657
+Epoch [59/500], Step [44/45], Loss: 0.2656
+Epoch [59/500], Step [45/45], Loss: 0.2656
+Epoch [60/500], Step [1/45], Loss: 0.2656
+Epoch [60/500], Step [2/45], Loss: 0.2656
+Epoch [60/500], Step [3/45], Loss: 0.2656
+Epoch [60/500], Step [4/45], Loss: 0.2655
+Epoch [60/500], Step [5/45], Loss: 0.2655
+Epoch [60/500], Step [6/45], Loss: 0.2655
+Epoch [60/500], Step [7/45], Loss: 0.2655
+Epoch [60/500], Step [8/45], Loss: 0.2654
+Epoch [60/500], Step [9/45], Loss: 0.2654
+Epoch [60/500], Step [10/45], Loss: 0.2654
+Epoch [60/500], Step [11/45], Loss: 0.2654
+Epoch [60/500], Step [12/45], Loss: 0.2653
+Epoch [60/500], Step [13/45], Loss: 0.2653
+Epoch [60/500], Step [14/45], Loss: 0.2653
+Epoch [60/500], Step [15/45], Loss: 0.2653
+Epoch [60/500], Step [16/45], Loss: 0.2653
+Epoch [60/500], Step [17/45], Loss: 0.2652
+Epoch [60/500], Step [18/45], Loss: 0.2652
+Epoch [60/500], Step [19/45], Loss: 0.2652
+Epoch [60/500], Step [20/45], Loss: 0.2652
+Epoch [60/500], Step [21/45], Loss: 0.2651
+Epoch [60/500], Step [22/45], Loss: 0.2651
+Epoch [60/500], Step [23/45], Loss: 0.2651
+Epoch [60/500], Step [24/45], Loss: 0.2651
+Epoch [60/500], Step [25/45], Loss: 0.2651
+Epoch [60/500], Step [26/45], Loss: 0.2650
+Epoch [60/500], Step [27/45], Loss: 0.2650
+Epoch [60/500], Step [28/45], Loss: 0.2650
+Epoch [60/500], Step [29/45], Loss: 0.2650
+Epoch [60/500], Step [30/45], Loss: 0.2649
+Epoch [60/500], Step [31/45], Loss: 0.2649
+Epoch [60/500], Step [32/45], Loss: 0.2649
+Epoch [60/500], Step [33/45], Loss: 0.2649
+Epoch [60/500], Step [34/45], Loss: 0.2648
+Epoch [60/500], Step [35/45], Loss: 0.2648
+Epoch [60/500], Step [36/45], Loss: 0.2648
+Epoch [60/500], Step [37/45], Loss: 0.2648
+Epoch [60/500], Step [38/45], Loss: 0.2648
+Epoch [60/500], Step [39/45], Loss: 0.2647
+Epoch [60/500], Step [40/45], Loss: 0.2647
+Epoch [60/500], Step [41/45], Loss: 0.2647
+Epoch [60/500], Step [42/45], Loss: 0.2647
+Epoch [60/500], Step [43/45], Loss: 0.2646
+Epoch [60/500], Step [44/45], Loss: 0.2646
+Epoch [60/500], Step [45/45], Loss: 0.2646
+unique_labels:1.7135
+unique_labels:1.6855
+unique_labels:1.6695
+unique_labels:1.724
+unique_labels:1.7075
+unique_labels:1.737
+unique_labels:1.6905
+unique_labels:1.7245
+unique_labels:1.7085
+unique_labels:1.717
+satisfied:0.45505000000000007  purity:3.9501958333333334  acc:0.8337936507936508
+Epoch [61/500], Step [1/45], Loss: 0.2646
+Epoch [61/500], Step [2/45], Loss: 0.2645
+Epoch [61/500], Step [3/45], Loss: 0.2645
+Epoch [61/500], Step [4/45], Loss: 0.2645
+Epoch [61/500], Step [5/45], Loss: 0.2645
+Epoch [61/500], Step [6/45], Loss: 0.2645
+Epoch [61/500], Step [7/45], Loss: 0.2644
+Epoch [61/500], Step [8/45], Loss: 0.2644
+Epoch [61/500], Step [9/45], Loss: 0.2644
+Epoch [61/500], Step [10/45], Loss: 0.2644
+Epoch [61/500], Step [11/45], Loss: 0.2643
+Epoch [61/500], Step [12/45], Loss: 0.2643
+Epoch [61/500], Step [13/45], Loss: 0.2643
+Epoch [61/500], Step [14/45], Loss: 0.2643
+Epoch [61/500], Step [15/45], Loss: 0.2642
+Epoch [61/500], Step [16/45], Loss: 0.2642
+Epoch [61/500], Step [17/45], Loss: 0.2642
+Epoch [61/500], Step [18/45], Loss: 0.2642
+Epoch [61/500], Step [19/45], Loss: 0.2642
+Epoch [61/500], Step [20/45], Loss: 0.2641
+Epoch [61/500], Step [21/45], Loss: 0.2641
+Epoch [61/500], Step [22/45], Loss: 0.2641
+Epoch [61/500], Step [23/45], Loss: 0.2641
+Epoch [61/500], Step [24/45], Loss: 0.2640
+Epoch [61/500], Step [25/45], Loss: 0.2640
+Epoch [61/500], Step [26/45], Loss: 0.2640
+Epoch [61/500], Step [27/45], Loss: 0.2640
+Epoch [61/500], Step [28/45], Loss: 0.2640
+Epoch [61/500], Step [29/45], Loss: 0.2639
+Epoch [61/500], Step [30/45], Loss: 0.2639
+Epoch [61/500], Step [31/45], Loss: 0.2639
+Epoch [61/500], Step [32/45], Loss: 0.2639
+Epoch [61/500], Step [33/45], Loss: 0.2638
+Epoch [61/500], Step [34/45], Loss: 0.2638
+Epoch [61/500], Step [35/45], Loss: 0.2638
+Epoch [61/500], Step [36/45], Loss: 0.2638
+Epoch [61/500], Step [37/45], Loss: 0.2638
+Epoch [61/500], Step [38/45], Loss: 0.2637
+Epoch [61/500], Step [39/45], Loss: 0.2637
+Epoch [61/500], Step [40/45], Loss: 0.2637
+Epoch [61/500], Step [41/45], Loss: 0.2637
+Epoch [61/500], Step [42/45], Loss: 0.2636
+Epoch [61/500], Step [43/45], Loss: 0.2636
+Epoch [61/500], Step [44/45], Loss: 0.2636
+Epoch [61/500], Step [45/45], Loss: 0.2636
+Epoch [62/500], Step [1/45], Loss: 0.2636
+Epoch [62/500], Step [2/45], Loss: 0.2635
+Epoch [62/500], Step [3/45], Loss: 0.2635
+Epoch [62/500], Step [4/45], Loss: 0.2635
+Epoch [62/500], Step [5/45], Loss: 0.2635
+Epoch [62/500], Step [6/45], Loss: 0.2635
+Epoch [62/500], Step [7/45], Loss: 0.2634
+Epoch [62/500], Step [8/45], Loss: 0.2634
+Epoch [62/500], Step [9/45], Loss: 0.2634
+Epoch [62/500], Step [10/45], Loss: 0.2634
+Epoch [62/500], Step [11/45], Loss: 0.2633
+Epoch [62/500], Step [12/45], Loss: 0.2633
+Epoch [62/500], Step [13/45], Loss: 0.2633
+Epoch [62/500], Step [14/45], Loss: 0.2633
+Epoch [62/500], Step [15/45], Loss: 0.2632
+Epoch [62/500], Step [16/45], Loss: 0.2632
+Epoch [62/500], Step [17/45], Loss: 0.2632
+Epoch [62/500], Step [18/45], Loss: 0.2632
+Epoch [62/500], Step [19/45], Loss: 0.2632
+Epoch [62/500], Step [20/45], Loss: 0.2631
+Epoch [62/500], Step [21/45], Loss: 0.2631
+Epoch [62/500], Step [22/45], Loss: 0.2631
+Epoch [62/500], Step [23/45], Loss: 0.2631
+Epoch [62/500], Step [24/45], Loss: 0.2631
+Epoch [62/500], Step [25/45], Loss: 0.2630
+Epoch [62/500], Step [26/45], Loss: 0.2630
+Epoch [62/500], Step [27/45], Loss: 0.2630
+Epoch [62/500], Step [28/45], Loss: 0.2630
+Epoch [62/500], Step [29/45], Loss: 0.2629
+Epoch [62/500], Step [30/45], Loss: 0.2629
+Epoch [62/500], Step [31/45], Loss: 0.2629
+Epoch [62/500], Step [32/45], Loss: 0.2629
+Epoch [62/500], Step [33/45], Loss: 0.2629
+Epoch [62/500], Step [34/45], Loss: 0.2628
+Epoch [62/500], Step [35/45], Loss: 0.2628
+Epoch [62/500], Step [36/45], Loss: 0.2628
+Epoch [62/500], Step [37/45], Loss: 0.2628
+Epoch [62/500], Step [38/45], Loss: 0.2627
+Epoch [62/500], Step [39/45], Loss: 0.2627
+Epoch [62/500], Step [40/45], Loss: 0.2627
+Epoch [62/500], Step [41/45], Loss: 0.2627
+Epoch [62/500], Step [42/45], Loss: 0.2627
+Epoch [62/500], Step [43/45], Loss: 0.2626
+Epoch [62/500], Step [44/45], Loss: 0.2626
+Epoch [62/500], Step [45/45], Loss: 0.2626
+unique_labels:1.7015
+unique_labels:1.6595
+unique_labels:1.68
+unique_labels:1.724
+unique_labels:1.701
+unique_labels:1.7215
+unique_labels:1.767
+unique_labels:1.7465
+unique_labels:1.698
+unique_labels:1.747
+satisfied:0.4555999999999999  purity:3.9408100000000004  acc:0.8310714285714287
+Epoch [63/500], Step [1/45], Loss: 0.2626
+Epoch [63/500], Step [2/45], Loss: 0.2626
+Epoch [63/500], Step [3/45], Loss: 0.2625
+Epoch [63/500], Step [4/45], Loss: 0.2625
+Epoch [63/500], Step [5/45], Loss: 0.2625
+Epoch [63/500], Step [6/45], Loss: 0.2625
+Epoch [63/500], Step [7/45], Loss: 0.2624
+Epoch [63/500], Step [8/45], Loss: 0.2624
+Epoch [63/500], Step [9/45], Loss: 0.2624
+Epoch [63/500], Step [10/45], Loss: 0.2624
+Epoch [63/500], Step [11/45], Loss: 0.2624
+Epoch [63/500], Step [12/45], Loss: 0.2623
+Epoch [63/500], Step [13/45], Loss: 0.2623
+Epoch [63/500], Step [14/45], Loss: 0.2623
+Epoch [63/500], Step [15/45], Loss: 0.2623
+Epoch [63/500], Step [16/45], Loss: 0.2623
+Epoch [63/500], Step [17/45], Loss: 0.2622
+Epoch [63/500], Step [18/45], Loss: 0.2622
+Epoch [63/500], Step [19/45], Loss: 0.2622
+Epoch [63/500], Step [20/45], Loss: 0.2622
+Epoch [63/500], Step [21/45], Loss: 0.2621
+Epoch [63/500], Step [22/45], Loss: 0.2621
+Epoch [63/500], Step [23/45], Loss: 0.2621
+Epoch [63/500], Step [24/45], Loss: 0.2621
+Epoch [63/500], Step [25/45], Loss: 0.2621
+Epoch [63/500], Step [26/45], Loss: 0.2620
+Epoch [63/500], Step [27/45], Loss: 0.2620
+Epoch [63/500], Step [28/45], Loss: 0.2620
+Epoch [63/500], Step [29/45], Loss: 0.2620
+Epoch [63/500], Step [30/45], Loss: 0.2620
+Epoch [63/500], Step [31/45], Loss: 0.2619
+Epoch [63/500], Step [32/45], Loss: 0.2619
+Epoch [63/500], Step [33/45], Loss: 0.2619
+Epoch [63/500], Step [34/45], Loss: 0.2619
+Epoch [63/500], Step [35/45], Loss: 0.2618
+Epoch [63/500], Step [36/45], Loss: 0.2618
+Epoch [63/500], Step [37/45], Loss: 0.2618
+Epoch [63/500], Step [38/45], Loss: 0.2618
+Epoch [63/500], Step [39/45], Loss: 0.2618
+Epoch [63/500], Step [40/45], Loss: 0.2617
+Epoch [63/500], Step [41/45], Loss: 0.2617
+Epoch [63/500], Step [42/45], Loss: 0.2617
+Epoch [63/500], Step [43/45], Loss: 0.2617
+Epoch [63/500], Step [44/45], Loss: 0.2617
+Epoch [63/500], Step [45/45], Loss: 0.2616
+Epoch [64/500], Step [1/45], Loss: 0.2616
+Epoch [64/500], Step [2/45], Loss: 0.2616
+Epoch [64/500], Step [3/45], Loss: 0.2616
+Epoch [64/500], Step [4/45], Loss: 0.2615
+Epoch [64/500], Step [5/45], Loss: 0.2615
+Epoch [64/500], Step [6/45], Loss: 0.2615
+Epoch [64/500], Step [7/45], Loss: 0.2615
+Epoch [64/500], Step [8/45], Loss: 0.2615

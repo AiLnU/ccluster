@@ -1,0 +1,30 @@
+[26/500], Step [49/60], Loss: 0.1840
+Epoch [26/500], Step [50/60], Loss: 0.1840
+Epoch [26/500], Step [51/60], Loss: 0.1840
+Epoch [26/500], Step [52/60], Loss: 0.1839
+Epoch [26/500], Step [53/60], Loss: 0.1839
+Epoch [26/500], Step [54/60], Loss: 0.1838
+Epoch [26/500], Step [55/60], Loss: 0.1838
+Epoch [26/500], Step [56/60], Loss: 0.1838
+Epoch [26/500], Step [57/60], Loss: 0.1837
+Epoch [26/500], Step [58/60], Loss: 0.1837
+Epoch [26/500], Step [59/60], Loss: 0.1837
+Epoch [26/500], Step [60/60], Loss: 0.1836
+unique_labels:1.0695
+unique_labels:1.052
+unique_labels:1.066
+unique_labels:1.0605
+unique_labels:1.0745
+unique_labels:1.07
+unique_labels:1.062
+unique_labels:1.066
+unique_labels:1.0695
+unique_labels:1.0685
+satisfied:0.9352500000000001  purity:8.645191666666665  acc:0.9861222222222222
+Epoch [27/500], Step [1/60], Loss: 0.1836
+Epoch [27/500], Step [2/60], Loss: 0.1836
+Epoch [27/500], Step [3/60], Loss: 0.1835
+Epoch [27/500], Step [4/60], Loss: 0.1835
+Epoch [27/500], Step [5/60], Loss: 0.1834
+Epoch [27/500], Step [6/60], Loss: 0.1834
+

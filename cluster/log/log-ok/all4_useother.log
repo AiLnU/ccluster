@@ -1,0 +1,15 @@
+Epoch [66/500], Step [40/60], Loss: 0.2970
+satisfied:0.9708500000000001  purity:8.840238333333335  acc:0.9937833333333334
+Epoch [66/500], Checkpoint saved to log/weight/all4_useother.pth satisfied:0.9708500000000001 acc:0.9937833333333334
+Epoch [67/500], Step [40/60], Loss: 0.2944
+Epoch [68/500], Step [40/60], Loss: 0.2919
+satisfied:0.97205  purity:8.847575000000003  acc:0.9942222222222222
+Epoch [68/500], Checkpoint saved to log/weight/all4_useother.pth satisfied:0.97205 acc:0.9942222222222222
+Epoch [69/500], Step [40/60], Loss: 0.2894
+Epoch [70/500], Step [40/60], Loss: 0.2871
+satisfied:0.97065  purity:8.83955  acc:0.9938444444444443
+Epoch [71/500], Step [40/60], Loss: 0.2847
+Epoch [72/500], Step [40/60], Loss: 0.2825
+satisfied:0.9708500000000001  purity:8.841466666666667  acc:0.9940555555555555
+Epoch [73/500], Step [40/60], Loss: 0.2803
+

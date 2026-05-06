@@ -1,0 +1,27 @@
+poch [16/500], Step [55/60], Loss: 0.0925
+Epoch [16/500], Step [56/60], Loss: 0.0925
+Epoch [16/500], Step [57/60], Loss: 0.0925
+Epoch [16/500], Step [58/60], Loss: 0.0924
+Epoch [16/500], Step [59/60], Loss: 0.0924
+Epoch [16/500], Step [60/60], Loss: 0.0923
+unique_labels:1.07
+unique_labels:1.05
+unique_labels:1.069
+unique_labels:1.054
+unique_labels:1.0735
+unique_labels:1.067
+unique_labels:1.05
+unique_labels:1.0585
+unique_labels:1.061
+unique_labels:1.062
+satisfied:0.93925  purity:8.669275  acc:0.9874055555555555
+Epoch [16/500], Checkpoint saved to log/weight/all8pth satisfied:0.93925 acc:0.9874055555555555
+Epoch [17/500], Step [1/60], Loss: 0.0923
+Epoch [17/500], Step [2/60], Loss: 0.0923
+Epoch [17/500], Step [3/60], Loss: 0.0922
+Epoch [17/500], Step [4/60], Loss: 0.0922
+Epoch [17/500], Step [5/60], Loss: 0.0921
+Epoch [17/500], Step [6/60], Loss: 0.0921
+Epoch [17/500], Step [7/60], Loss: 0.0921
+Epoch [17/500], Step [8/60], Loss: 0.0920
+

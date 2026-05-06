@@ -1,0 +1,8 @@
+unique_labels:1.046
+unique_labels:1.0625
+unique_labels:1.054
+unique_labels:1.0545
+satisfied:0.9474499999999999  purity:8.711366666666667  acc:0.9886111111111111
+Epoch [170/500], Checkpoint saved to log/weight/all1.pth satisfied:0.9474499999999999 acc:0.9886111111111111
+Epoch [171/500], Step [1/60], Loss: 0.4307
+Epoch [171/500], Step [2/60], Loss: 0.4307

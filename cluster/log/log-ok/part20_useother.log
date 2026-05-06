@@ -1,0 +1,31 @@
+atisfied:0.8714000000000001  purity:5.779885  acc:0.9624920634920635
+Epoch [222/500], Checkpoint saved to log/weight/part20_useother.pth satisfied:0.8714000000000001 acc:0.9624920634920635
+Epoch [223/500], Step [40/60], Loss: 0.0573
+Epoch [224/500], Step [40/60], Loss: 0.0571
+satisfied:0.8697999999999999  purity:5.7707975  acc:0.9620714285714286
+Epoch [225/500], Step [40/60], Loss: 0.0570
+Epoch [226/500], Step [40/60], Loss: 0.0568
+satisfied:0.8676999999999999  purity:5.7592091666666665  acc:0.9602301587301587
+Epoch [227/500], Step [40/60], Loss: 0.0566
+Epoch [228/500], Step [40/60], Loss: 0.0565
+satisfied:0.8647  purity:5.7498024999999995  acc:0.9597857142857142
+Epoch [229/500], Step [40/60], Loss: 0.0563
+Epoch [230/500], Step [40/60], Loss: 0.0561
+satisfied:0.8686  purity:5.766361666666666  acc:0.9612698412698414
+Epoch [231/500], Step [40/60], Loss: 0.0560
+Epoch [232/500], Step [40/60], Loss: 0.0558
+satisfied:0.8681000000000001  purity:5.766240833333334  acc:0.9615
+Epoch [233/500], Step [40/60], Loss: 0.0556
+Epoch [234/500], Step [40/60], Loss: 0.0555
+satisfied:0.8657999999999999  purity:5.75446  acc:0.9600555555555556
+Epoch [235/500], Step [40/60], Loss: 0.0553
+Epoch [236/500], Step [40/60], Loss: 0.0552
+satisfied:0.86615  purity:5.759043333333333  acc:0.9611984126984128
+Epoch [237/500], Step [40/60], Loss: 0.0550
+Epoch [238/500], Step [40/60], Loss: 0.0549
+satisfied:0.8658999999999999  purity:5.753733333333333  acc:0.9603809523809523
+Epoch [239/500], Step [40/60], Loss: 0.0547
+Epoch [240/500], Step [40/60], Loss: 0.0546
+satisfied:0.867  purity:5.759669166666666  acc:0.9609523809523809
+[1]    933 killed     CUDA_VISIBLE_DEVICES=0 python train.py  --descriptor_dim=20 --part_covis=True
+
